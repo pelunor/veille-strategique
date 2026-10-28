@@ -318,8 +318,9 @@ def send_theme(theme, ctx):
               f"with it. {len(peers)} peer(s) NOT contacted. Verify a domain on resend.com/domains, or use SMTP_*.")
         peers = []
 
+    # Replies go to the sending address: the owner's own address is never shown to peers.
     messages = build_messages(subject, html, text, ctx["from_email"], owner, peers,
-                              owner, ctx["unsubscribe_url"])
+                              ctx["from_email"], ctx["unsubscribe_url"])
     sent, errors = deliver(ctx, messages)
     ctx["emails_sent"] += sent
     if errors:
