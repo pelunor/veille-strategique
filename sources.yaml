@@ -1,0 +1,399 @@
+# ==============================================================================
+# SOURCES CONFIG — add or remove sources here. No code changes needed for RSS.
+# ==============================================================================
+# Each source needs:
+#   name:   display name
+#   type:   "rss"     -> url must point directly to an RSS/Atom feed
+#           "scrape"  -> url is a listing page; "parser" must match a function
+#                        name in scripts/scrapers.py (custom code required)
+#           "bluesky" -> url is actually a Bluesky HANDLE (e.g. "csis.org"),
+#                        not a link. Use this for institutions whose own site
+#                        blocks RSS scraping (Cloudflare, broken certs, no
+#                        feed) but who post their publications on Bluesky.
+#   url:    the feed URL (rss), listing page URL (scrape), or handle (bluesky)
+#   region: fr | eu | us | other   (for display/grouping only)
+#   parser: (scrape only) name of the parser function in scrapers.py
+#
+# Optional keys:
+#   enabled: false        keep the entry but do not fetch it (broken/unverified)
+#   default_themes: [..]  themes always given to the source's items (intelligence,
+#                         military, energy_industry). Use it for sources that are
+#                         on-topic by nature: no keyword needed. See fetch.py.
+#   initial_limit: N      on a source's first fetch keep only its N latest items
+#   max_pages: N          (scrape) pages to read, for parsers that paginate
+#   stale_after_days: N   weekly health alert if the newest item is older (default 90)
+#   fallback: rss2json    (rss) read the feed through a relay when the site answers 403
+#   require_any / exclude_any: [..]  per-source filter: keep only items containing one
+#                         of these terms / drop items containing one of them
+#   require_report: true  keep only items that look like a report/study
+#   verify_ssl: false / allowed_domains: [..]   (see fetch.py / bluesky.py)
+#
+# After adding a source, run: python scripts/validate_sources.py
+# to confirm it actually returns items before trusting it.
+# ==============================================================================
+
+# --- Substacks -----------------------------------------------------------
+# Substack ALWAYS has a feed at https://<name>.substack.com/feed
+# Add new ones here whenever you find a relevant one.
+- name: "Le Grand Continent"
+  type: rss
+  url: "https://legrandcontinent.eu/fr/feed/"
+  region: eu
+
+- name: "Sinocism"
+  type: rss
+  url: "https://sinocism.com/feed"
+  region: us
+
+- name: "Project OSINT"
+  type: rss
+  url: "https://projectosint.substack.com/feed"
+  region: other
+  fallback: rss2json   # substack.com refuses GitHub's servers (403): read through a relay
+  default_themes: [intelligence]
+  # "OSINT made simple": weekly. Feed checked. On-topic by nature, so it
+  # bypasses the keyword filter (its titles contain no classic keywords).
+
+- name: "Missile Matters"
+  type: rss
+  url: "https://missilematters.substack.com/feed"
+  region: eu
+  fallback: rss2json   # substack.com refuses GitHub's servers (403): read through a relay
+  default_themes: [military]
+
+- name: "The OSINT Newsletter"
+  type: rss
+  url: "https://osintnewsletter.substack.com/feed"
+  region: other
+  fallback: rss2json   # substack.com refuses GitHub's servers (403): read through a relay
+  default_themes: [intelligence]
+
+# --- France ----------------------------------------------------------------
+- name: "IFRI"
+  type: bluesky
+  url: "ifri.bsky.social"
+  region: fr
+  allowed_domains: ["ifri.org"]
+  limit: 50
+  # ifri.org answers 403 to GitHub's servers (bot protection), so the general feed
+  # comes from IFRI's Bluesky account. The energy centre below still tries the site.
+
+- name: "Portail de l'IE"
+  type: rss
+  url: "https://www.portail-ie.fr/feed/"
+  region: fr
+  # Official feed, linked from the site itself. Covers ALL topics (cyber,
+  # blockchain, law...) -- the keyword filter narrows it to your themes.
+
+- name: "Portail de l'IE (Défense, armement & renseignement)"
+  enabled: false   # redundant: the main feed above already carries every category,
+                   # and this category feed has been silent since June (false alarms)
+  type: rss
+  url: "https://www.portail-ie.fr/category/univers/defense-industrie-de-larmement-et-renseignement/feed/"
+  region: fr
+  # Category feed, so defense/intelligence pieces don't get pushed out of the
+  # main feed's 10-item window between weekly runs (the site posts daily).
+  # Standard WordPress pattern, not yet confirmed -- validate before trusting.
+
+- name: "FRS (Fondation pour la Recherche Stratégique)"
+  type: rss
+  url: "https://www.frstrategie.org/rss.xml"
+  region: fr
+  verify_ssl: false  # their site's SSL cert chain fails verification; safe for read-only RSS
+  enabled: false
+  # DISABLED: this feed path returns 404 (it has since the beginning). Find the
+  # real feed URL (look for the RSS link in the site footer), then set enabled: true.
+
+- name: "IRSEM"
+  type: scrape
+  url: "https://www.irsem.fr/publications"
+  parser: irsem
+  region: fr
+  max_pages: 1            # page 1 holds the latest ~12 publications; enough for a daily fetch
+  initial_limit: 6
+  stale_after_days: 60
+  # IRSEM's own category labels decide the theme (Défense/Sécurité/Stratégie/
+  # Influence -> Défense, Renseignement -> Renseignement, Énergie/Espace ->
+  # Énergie & Infrastructures). Categories below are ignored.
+  skip_categories: [droit, société, histoire, environnement]
+  # No RSS feed. Scraper written from the listing's text layout; untested live.
+
+- name: "IRIS"
+  type: rss
+  url: "https://www.iris-france.org/feed/"
+  region: fr
+  # Geopolitics and strategic affairs, all regions: the keyword filter does the work.
+
+- name: "Zone Militaire (Opex360)"
+  type: rss
+  url: "https://www.opex360.com/feed/"
+  region: fr
+  default_themes: [military]   # pure defence news: on-topic by nature
+  # About 3-4 items a day; the per-source cap (6 per edition) keeps the most recent.
+
+- name: "Institut Montaigne"
+  type: rss
+  url: "https://www.institutmontaigne.org/rss.xml"
+  region: fr
+  # The feed mixes in domestic policy (social cohesion, democratic life, education...):
+  # keep only energy / security / defence / geopolitics, and drop the rest.
+  require_any:
+    - énergie
+    - nucléaire
+    - gaz
+    - pétrole
+    - électricité
+    - minerais
+    - matières premières
+    - défense
+    - sécurité
+    - militaire
+    - armée
+    - armement
+    - guerre
+    - OTAN
+    - Ukraine
+    - Russie
+    - Chine
+    - Taïwan
+    - Iran
+    - Israël
+    - Moyen-Orient
+    - Indo-Pacifique
+    - Afrique
+    - États-Unis
+    - Trump
+    - géopolitique
+    - souveraineté
+    - ingérence
+    - sanctions
+    - cyber
+    - renseignement
+    - satellite
+    - câbles
+    - conflictualité
+    - puissance
+    - dissuasion
+  exclude_any:
+    - cohésion sociale
+    - vie démocratique
+    - démocratie
+    - élection
+    - éducation
+    - école
+    - enseignement
+    - santé
+    - sécurité sociale
+    - retraite
+    - emploi
+    - travail
+    - logement
+    - jeunesse
+    - laïcité
+    - islam
+    - immigration
+    - intégration
+    - territoires
+    - numérique
+    - repères de Montaigne
+
+# --- EU ----------------------------------------------------------------
+- name: "EUISS"
+  type: rss
+  url: "https://www.iss.europa.eu/rss.xml"
+  region: eu
+
+- name: "ECFR"
+  type: bluesky
+  url: "ecfr.eu"
+  region: eu
+  allowed_domains: ["ecfr.eu"]
+  # Guessed handle based on their domain -- validate before trusting.
+
+- name: "Bruegel"
+  type: bluesky
+  url: "bruegel.org"
+  region: eu
+  allowed_domains: ["bruegel.org"]
+  # bruegel.org/rss.xml answers 403 to GitHub's servers (bot protection): Bluesky instead.
+
+- name: "MERICS"
+  type: bluesky
+  url: "merics.bsky.social"
+  region: eu
+  allowed_domains: ["merics.org"]
+
+# --- US ----------------------------------------------------------------
+- name: "CSIS"
+  type: bluesky
+  url: "csis.org"
+  region: us
+  allowed_domains: ["csis.org"]
+
+- name: "War on the Rocks"
+  type: rss
+  url: "https://warontherocks.com/feed/"
+  region: us
+
+- name: "Carnegie Endowment"
+  type: bluesky
+  url: "carnegieendowment.org"
+  region: us
+  allowed_domains: ["carnegieendowment.org"]
+
+- name: "RAND"
+  type: bluesky
+  url: "rand.org"
+  region: us
+  allowed_domains: ["rand.org"]
+  # Guessed handle based on their domain -- validate before trusting.
+
+- name: "SIPRI"
+  type: bluesky
+  url: "sipri.org"
+  region: eu
+  allowed_domains: ["sipri.org"]
+
+- name: "Jamestown Foundation (China Brief)"
+  type: rss
+  url: "https://jamestown.org/feed/"
+  region: us
+
+# --- Trade press: intelligence-specific --------------------------------------
+- name: "Intelligence Online"
+  type: rss
+  url: "https://www.intelligenceonline.com/rss"
+  region: fr
+  enabled: false
+  # DISABLED: the feed URL was a guess and has never returned an item. Paywalled
+  # trade press (headlines free, articles behind a subscription). Find the real
+  # RSS link on their site, set it here, then set enabled: true.
+
+# --- Wire services & trade press --------------------------------------------
+- name: "Reuters"
+  type: bluesky
+  url: "reuters.com"
+  region: us
+  allowed_domains: ["reuters.com", "reut.rs"]   # their posts link to the reut.rs short domain
+  limit: 100
+  max_pages: 6      # ~600 posts: Reuters posts every few minutes, 30 only reached back ~2 hours
+  # Main account, all topics -- keyword filter narrows it to relevant items.
+  # Guessed handle based on their domain (confirmed pattern via their verticals
+  # like breakingviews.reuters.com) -- validate before trusting.
+
+- name: "Defense News (Industry)"
+  type: rss
+  url: "https://www.defensenews.com/arc/outboundfeeds/rss/category/industry/?outputType=xml"
+  region: us
+  # If this 404s, try in order:
+  #   url: "https://www.defensenews.com/industry/feed/"
+  #   url: "https://www.defensenews.com/feed/"   (whole site, then filtered by keywords)
+
+- name: "Breaking Defense"
+  type: rss
+  url: "https://breakingdefense.com/feed/"
+  region: us
+
+- name: "USNI News"
+  type: rss
+  url: "https://news.usni.org/feed"
+  region: us
+
+# --- OSINT / arms control ----------------------------------------------------
+- name: "Bellingcat"
+  type: rss
+  url: "https://www.bellingcat.com/feed/"
+  region: eu
+  default_themes: [intelligence]
+
+- name: "Arms Control Association"
+  type: rss
+  url: "https://www.armscontrol.org/rss.xml"
+  region: us
+
+- name: "Bulletin of the Atomic Scientists"
+  type: bluesky
+  url: "thebulletin.org"
+  region: us
+  allowed_domains: ["thebulletin.org"]
+  # thebulletin.org/feed answers 403 to GitHub's servers: Bluesky instead.
+
+# --- Intelligence: journals and institutions ---------------------------------
+- name: "CIA - Studies in Intelligence"
+  type: scrape
+  url: "https://www.cia.gov/resources/csi/studies-in-intelligence/"
+  parser: cia_csi
+  region: us
+  default_themes: [intelligence]
+  initial_limit: 4
+  stale_after_days: 150   # quarterly journal: no alert before ~5 months of silence
+  # Quarterly journal: one newsletter line per new issue, linking to the issue
+  # page (table of contents + PDF). No RSS feed exists. Scraper written from the
+  # page's content, not yet run against the live site: run validate_sources.py.
+
+# --- Energy, minerals and infrastructure (geopolitical lens) -----------------
+- name: "IFRI - Centre Énergie & Climat"
+  enabled: false   # ifri.org's bot protection refuses GitHub's servers (403) on every
+                   # attempt. Its publications still arrive through the IFRI Bluesky account
+                   # above, classified by keywords (energy, electricity, minerals, grids...).
+  type: scrape
+  url: "https://www.ifri.org/en/center-energy-climate"
+  parser: ifri
+  region: fr
+  default_themes: [energy_industry]
+  initial_limit: 6
+
+- name: "CSIS - Critical Minerals Security"
+  type: scrape
+  url: "https://www.csis.org/programs/energy-security-and-climate-change-program/projects/project-critical-minerals-security"
+  parser: csis_program
+  region: us
+  default_themes: [energy_industry]
+  max_pages: 3
+  initial_limit: 8
+  # No RSS feed: read from the project page (analysis pieces only, 3 pages deep).
+
+- name: "Atlantic Council"
+  type: rss
+  url: "https://www.atlanticcouncil.org/feed/"
+  region: us
+  # High volume (about 50 items in the feed): the keyword filter does the work.
+
+- name: "CEPA (Center for European Policy Analysis)"
+  type: rss
+  url: "https://cepa.org/feed/"
+  region: us
+
+- name: "ICDS (Estonia)"
+  type: rss
+  url: "https://icds.ee/en/feed/"
+  region: eu
+
+- name: "Lowy Institute - The Interpreter"
+  type: rss
+  url: "https://www.lowyinstitute.org/the-interpreter/rss.xml"
+  region: other
+  # Asia-Pacific view (cables, ports, energy, defence). Broad feed: keyword filter.
+
+- name: "The Record (Recorded Future News)"
+  type: rss
+  url: "https://therecord.media/feed"
+  region: us
+  # State cyber operations and critical infrastructure; the feed is short (about
+  # 5 items), which is why the pipeline now fetches daily.
+
+- name: "SpacePolicyOnline"
+  type: rss
+  url: "https://spacepolicyonline.com/feed/"
+  region: us
+  # Space policy (satellites, Space Force, launch). Keyword filter applies.
+
+# --- Defence / nuclear policy -------------------------------------------------
+- name: "CSIS - Project on Nuclear Issues"
+  type: scrape
+  url: "https://www.csis.org/programs/project-nuclear-issues"
+  parser: csis_program
+  region: us
+  default_themes: [military]
+  max_pages: 3
+  initial_limit: 8
