@@ -1,5 +1,459 @@
 [
   {
+    "id": "5278d770b572e486",
+    "title": "This Week in Missiles, 29 October 2026: ARRW Hypersonic Missile Enters Production",
+    "link": "https://missilematters.substack.com/p/this-week-in-missiles-29-october",
+    "date": "2026-10-29",
+    "summary": "Also: France's ground-launched ballistic missile heads for the army, Nammo adds a fourth solid rocket motor production line, and China tightens aerospace export controls",
+    "source": "Missile Matters",
+    "source_region": "eu",
+    "subject_region": "france",
+    "themes": [
+      "intelligence",
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:11.210736+00:00"
+  },
+  {
+    "id": "68e54e15cbbf4541",
+    "title": "La Russie a livré douze premiers avions de combat Su-35E à l’Éthiopie",
+    "link": "https://www.opex360.com/2026/10/29/la-russie-a-livre-douze-premiers-avions-de-combat-su-35e-a-lethiopie",
+    "date": "2026-10-29",
+    "summary": "En mars 2019, lors d’une visite officielle à Addis-Abeba – la première d’un président français depuis celle effectuée par Georges Pompidou, quarante-six ans plus tôt – Emmanuel Macron annonça la signature d’un accord inédit de coopération en matière de défense avec l’Éthiopie. Cet accord «ouvre notamment la voie à un accompagnement spécifique de la France...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:27.366213+00:00"
+  },
+  {
+    "id": "84efeecf1c9a5e62",
+    "title": "A Tale of Two Markets: A Dickensian Take on the Coming Years in Defense Tech",
+    "link": "https://warontherocks.com/cogs-of-war/a-tale-of-two-markets-a-dickensian-take-on-the-coming-years-in-defense-tech",
+    "date": "2026-10-29",
+    "summary": "It’s a strange time for the defense technology sector. Despite the headlines of record capital, valuations, and defense budgets, there is a growing unease among investors and leadership teams. Production contracts remain as elusive as ever, and a generation of startups is struggling to extend their runways across the valley of death, risking not just those businesses but capital flight from the broader sector. There is little point in trying to decide which one of these diverging narratives is real, or if a defense technology market collapse is imminent. To understand what’s really happening…",
+    "source": "War on the Rocks",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:37.091607+00:00"
+  },
+  {
+    "id": "472d1a311075037b",
+    "title": "Sitting Ducks or Strategic Shields: What Does the Small Reactor Promise Mean for Future Conflicts?",
+    "link": "https://warontherocks.com/sitting-ducks-or-strategic-shields-what-does-the-small-reactor-promise-mean-for-future-conflicts",
+    "date": "2026-10-29",
+    "summary": "Amid the rapid expansion of AI and data centers alongside growing climate commitments as the demand for clean energy rises, nuclear power is increasingly viewed as a reliable source to fill the gaps and complement the stochastic output of solar and hydropower. This renewed interest is also driven in part by countries’ pursuit of greater energy self-reliance, even as energy and nuclear infrastructure continue to become consequential targets in armed conflict — to disrupt electricity supplies, undermine military capabilities, and pursue counterproliferation objectives. Small modular reactors…",
+    "source": "War on the Rocks",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:37.094271+00:00"
+  },
+  {
+    "id": "75014f56a13125ff",
+    "title": "EXCLUSIVE: Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say",
+    "link": "https://reut.rs/4suiA5f",
+    "date": "2026-10-29",
+    "summary": "The Pentagon is treating the spate of mysterious freezer ​malfunctions that spoiled food at military bases across the United States in August as a suspected hack, according to four officials familiar ...",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.180568+00:00"
+  },
+  {
+    "id": "ecbda83a21df8aa9",
+    "title": "Ray-Ban heir drops bid for critical Italian daily after due diligence request rejected",
+    "link": "https://reut.rs/4BvruDw",
+    "date": "2026-10-29",
+    "summary": "Leonardo Maria Del Vecchio, an heir to the late founder of Ray-Ban ​maker EssilorLuxottica , said on Thursday he ‌did not currently intend to launch a bid for Italian newspaper Il Fatto Quotidiano , after failing ​to obtain the information needed for ​a full assessment of the company.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.183704+00:00"
+  },
+  {
+    "id": "21f784a69de32cdf",
+    "title": "Greek container ship sinks after drone attack off Bulgaria",
+    "link": "https://reut.rs/47S3RHR",
+    "date": "2026-10-29",
+    "summary": "A Greek container ship has sunk after being hit by naval drones off Bulgaria on Wednesday, the Bulgarian government said, in the latest of a ​series of strikes on ships in the western Black Sea ​this month.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.191800+00:00"
+  },
+  {
+    "id": "a2bcacbe51e9953a",
+    "title": "In Lebanese village near Israeli troops, farmers brave danger to harvest their olives",
+    "link": "https://reut.rs/4svI1U4",
+    "date": "2026-10-29",
+    "summary": "In a field overlooking a lush valley in southern Lebanon, residents of the village of ​Zibqin balanced on branches picking their olives while Lebanese Army soldiers stood nearby.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.194003+00:00"
+  },
+  {
+    "id": "3fc89838ebe90546",
+    "title": "TSX futures climb as oil retreat eases inflation fears; US data in focus",
+    "link": "https://reut.rs/47S1Z1N",
+    "date": "2026-10-29",
+    "summary": "Futures tracking Canada's blue-chip stocks rose on Thursday as falling oil prices eased inflationary worries, with investors eyeing key US ​inflation data later in the day.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.196378+00:00"
+  },
+  {
+    "id": "fee6733c2287c1d1",
+    "title": "China's Communist Party confirms expulsion of 33 officials",
+    "link": "https://reut.rs/4Bw5VCT",
+    "date": "2026-10-29",
+    "summary": "China's Communist Party confirmed the ​expulsion of 33 officials, ‌including former Politburo member Ma Xingrui and ​former senior military ​leader Zhang Youxia, from ⁠the party, according to ​the communique of ​the party's fifth plenum released by state media Xinhua ​on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.202423+00:00"
+  },
+  {
+    "id": "c409f0d19a37967b",
+    "title": "Russian drone attack on train station kills 13 in Ukraine’s Dnipro",
+    "link": "https://reut.rs/4jNeXFo",
+    "date": "2026-10-29",
+    "summary": "A Russian drone killed ​13 people at the main ‌railway station in the Ukrainian city of Dnipro, hitting a platform crowded ​with people boarding a ​train, officials said.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.203734+00:00"
+  },
+  {
+    "id": "c490922a256f364f",
+    "title": "EXCLUSIVE: Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say",
+    "link": "https://reut.rs/4sF0OMH",
+    "date": "2026-10-29",
+    "summary": "The Pentagon is treating the spate of mysterious freezer ​malfunctions that spoiled food at military bases across the United States in August as a suspected hack, according to four officials familiar with the matter.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.205072+00:00"
+  },
+  {
+    "id": "4ef829e4649b3c00",
+    "title": "TotalEnergies third-quarter profit surges on refining income",
+    "link": "https://reut.rs/4sxHz7M",
+    "date": "2026-10-29",
+    "summary": "French oil major TotalEnergies' third-quarter profits more than doubled to $9.1 billion, it said on Thursday, beating expectations, as it profited from the reduced global supply of oil products ​following the US-Israeli war with Iran.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "france",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.207958+00:00"
+  },
+  {
+    "id": "d966020efffef08b",
+    "title": "Australia's Woodside to supply QatarEnergy with Louisiana LNG in 20-year deal",
+    "link": "https://reut.rs/4zhyIJO",
+    "date": "2026-10-29",
+    "summary": "Australian oil and gas producer Woodside Energy will supply QatarEnergy with liquefied ​natural gas, the company said on Thursday, as the Middle East ‌war disrupts operations at the Qatari firm, one of the world's largest LNG producers.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.211395+00:00"
+  },
+  {
+    "id": "b26c0849216667ef",
+    "title": "China says Philippine politician imposed 'obstacles' to its participation at ASEAN defence meeting",
+    "link": "https://reut.rs/4iMC160",
+    "date": "2026-10-29",
+    "summary": "China's defence ministry said on Thursday that a politician from the ​Philippines had \"imposed obstacles to China's participation\" at the ASEAN ‌Defence Ministers' Meeting-Plus in Cebu this week, as ties between the two countries continue to deteriorate.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.213929+00:00"
+  },
+  {
+    "id": "2b2d5a9ffe105d03",
+    "title": "Breakingviews - COMMENTARY: What a difference a year makes in AI accounting",
+    "link": "https://reut.rs/4zrM71W",
+    "date": "2026-10-29",
+    "summary": "Alphabet, Amazon, Meta ⁠and Microsoft ​spread data-center kit costs ​over 5 to 6 years. Skepticism is ​warranted given ​the faster pace of tech ‌upgrades. ⁠An interactive Breakingviews calculator suggests that paring depreciation ​by ​12 ⁠months would erase nearly $800 bln ​of market ​value.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.216985+00:00"
+  },
+  {
+    "id": "944b493a4b3a702a",
+    "title": "Three bodies recovered in Gabon following sinking of Borr Drilling rig",
+    "link": "https://reut.rs/485Shcp",
+    "date": "2026-10-29",
+    "summary": "Three bodies were recovered in Gabon on ​Wednesday following the sinking at the weekend of ‌Borr Drilling's Prospector 5 rig off the coast of the southern town of Mayumba, the Central African country's navy said.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.218263+00:00"
+  },
+  {
+    "id": "216a05b8c870d069",
+    "title": "South Korea says considering deployment options to Strait of Hormuz, including aircraft",
+    "link": "https://reut.rs/4A0Zlml",
+    "date": "2026-10-29",
+    "summary": "South Korea's National ​Security Adviser Wi ‌Sung-lac said on Thursday that ​Seoul was ​still considering various options ⁠regarding a ​possible deployment to ​the Strait of Hormuz, including sending a ​maritime patrol ​aircraft.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.228099+00:00"
+  },
+  {
+    "id": "7810a4d9318f53a8",
+    "title": "AI-related investment, consumers likely boosted US economic growth in third quarter",
+    "link": "https://reut.rs/4yRNlCG",
+    "date": "2026-10-29",
+    "summary": "US economic growth likely accelerated in the third quarter as resilient consumer spending and AI-driven business investment more than offset the impact of higher oil prices stemming from the conflict in the ​Middle East.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.234075+00:00"
+  },
+  {
+    "id": "8eaedfb58e37cb79",
+    "title": "Hello Kitty maker Sanrio cuts ties with TV spy show after China backlash",
+    "link": "https://reut.rs/4A3SXLi",
+    "date": "2026-10-29",
+    "summary": "Hello Kitty maker Sanrio has cancelled a collaboration with a Japanese TV spy show after ‌a backlash in China, the second incident in days to highlight the tightrope foreign firms and celebrities must walk in the lucrative market.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.238479+00:00"
+  },
+  {
+    "id": "ed9917234626d61d",
+    "title": "North Korea fires projectile toward sea off east coast, South Korea military says",
+    "link": "https://reut.rs/4iMs2xy",
+    "date": "2026-10-29",
+    "summary": "North Korea fired ‌a projectile toward the sea off its east coast on ​Thursday, South Korea's ​Joint Chiefs of Staff said.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.240207+00:00"
+  },
+  {
+    "id": "8e5c240d7695d1f3",
+    "title": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say",
+    "link": "https://reut.rs/4zjt7D0",
+    "date": "2026-10-29",
+    "summary": "Chinese firm Z.AI's flagship AI model carried out ​complex cyberattacks in controlled simulations and repeatedly ignored instructions in separate tests, according to a report by AI security ‌research firm Irregular.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.243428+00:00"
+  },
+  {
+    "id": "caf02df913f78f1a",
+    "title": "Taiwan flags 'obvious' threat from 50 Chinese vessels in wide sweep of waters",
+    "link": "https://reut.rs/4eAr2tU",
+    "date": "2026-10-29",
+    "summary": "China has more than 50 navy and other official vessels operating in a wide swathe of sea stretching from southern Japan down to ​Taiwan and off the Philippines, a senior Taiwan official said, calling ‌the threat level \"obvious\".",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.247805+00:00"
+  },
+  {
+    "id": "3a90bdc68937188a",
+    "title": "New Zealand businesses stay optimistic despite oil price volatility, survey shows",
+    "link": "https://reut.rs/4iMso7j",
+    "date": "2026-10-29",
+    "summary": "New Zealand business confidence edged higher ​in October, with firms remaining ‌relatively optimistic as all forward-looking activity indicators turned positive ​despite the volatilities in ​oil prices, an ANZ ⁠Bank survey showed on ​Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.252945+00:00"
+  },
+  {
+    "id": "0fc859d3de5210a1",
+    "title": "Australia's Star Entertainment accepts $183.6 million anti-money laundering penalty",
+    "link": "https://reut.rs/4BurmnS",
+    "date": "2026-10-29",
+    "summary": "Australia's Star Entertainment said on Thursday it would accept a court-imposed penalty of A$260 million ($183.6 ​million) for breaching anti-money laundering and counter-terrorism financing ‌laws.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.254255+00:00"
+  },
+  {
+    "id": "cbc8dc94a6c50556",
+    "title": "US oil prices fall as investors gauge risks to Mideast supply",
+    "link": "https://reut.rs/4zk3KAW",
+    "date": "2026-10-29",
+    "summary": "Benchmark US crude futures fell around $1 on Thursday, paring some ​of the previous day's gains, as ‌traders weighed the risk that escalating Middle East conflict could further disrupt regional energy supplies.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.258735+00:00"
+  },
+  {
+    "id": "a1e844a98c066fe2",
+    "title": "Europeanising NATO: The Nuclear Dimension",
+    "link": "https://icds.ee/en/europeanising-nato-the-nuclear-dimension",
+    "date": "2026-10-29",
+    "summary": "The European nuclear policy community has often underestimated itself in its relationship with the US, retaining a lingering intellectual dependency on American nuclear thinkers. But concepts such as damage limitation, flexible response, and integrated deterrence, developed in uniquely American environments for uniquely American scenarios, are illogical for smaller European governments focused on territorial defence. European states have nuclear arsenals and growing conventional forces. What is missing is a European centre of gravity for managing the nuclear relationship with Moscow.",
+    "source": "ICDS (Estonia)",
+    "source_region": "eu",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:22:03.651715+00:00"
+  },
+  {
+    "id": "e1be1eaf143cb2c5",
+    "title": "Rubio’s visits are not enough to reset India–US relations",
+    "link": "https://www.lowyinstitute.org/the-interpreter/rubio-s-visits-are-not-enough-to-reset-india-us-relations",
+    "date": "2026-10-29",
+    "summary": "Structural ties endure, but Trump’s flip-flopping on energy policy has done lasting damage to Washington’s relationship with New Delhi.",
+    "source": "Lowy Institute - The Interpreter",
+    "source_region": "other",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:22:05.186943+00:00"
+  },
+  {
     "id": "c7c4ecdfdab6ef95",
     "title": "Les capacités de la force aérienne polonaise sont affectées par une pénurie de pilotes",
     "link": "https://www.opex360.com/2026/10/28/les-capacites-de-la-force-aerienne-polonaise-sont-affectees-par-une-penurie-de-pilotes",
@@ -628,6 +1082,154 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-10-28T17:04:52.246147+00:00"
+  },
+  {
+    "id": "ff882be3048ea64b",
+    "title": "Selon un rapport, la flotte de véhicules légers de la Gendarmerie risque de «se heurter à un mur d’obsolescence» en 2028",
+    "link": "https://www.opex360.com/2026/10/28/selon-un-rapport-la-flotte-de-vehicules-legers-de-la-gendarmerie-risque-de-se-heurter-a-un-mur-dobsolescence-en-2028",
+    "date": "2026-10-28",
+    "summary": "Si le projet de loi de finances pour 2027 [PLF 27] est adopté, la Gendarmerie nationale pourra passer une commande de 23 hélicoptères H145 D3 auprès d’Airbus Helicopters pour environ 355 millions d’euros… et s’épargner ainsi une rupture temporaire de capacité, ses AS350 Écureuil étant arrivés au bout de leur potentiel. Cela étant, les budgets...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:27.368844+00:00"
+  },
+  {
+    "id": "709825fbd815d4da",
+    "title": "Berlin fait un pas de plus vers le programme d’avion de combat mené par Londres, Rome et Tokyo",
+    "link": "https://www.opex360.com/2026/10/28/berlin-fait-un-pas-de-plus-vers-le-programme-davion-de-combat-mene-par-londres-rome-et-tokyo",
+    "date": "2026-10-28",
+    "summary": "Comme l’a encore rappelé Catherine Vautrin, la ministre des Armées, lors d’une audition au Sénat, le 27 octobre, le projet de Système aérien de combat du futur [SCAF] se poursuit, la France, l’Allemagne et l’Espagne ayant maintenu leur coopération sur «la connectivité», c’est-à-dire sur le «cloud de combat». Mais encore faut-il que ces trois pays...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:27.370787+00:00"
+  },
+  {
+    "id": "5e5398f83bece5a4",
+    "title": "CAISO approves proposal to speed grid connections for large loads",
+    "link": "https://reut.rs/4ioC5Yj",
+    "date": "2026-10-28",
+    "summary": "California Independent System Operator, or CAISO, said on Wednesday its board ​approved a proposal to establish new ‌procedures for connecting large loads such as data centers and manufacturing operations to the ​grid quickly and reliably.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.280104+00:00"
+  },
+  {
+    "id": "383bd6877d65d42f",
+    "title": "In Ukraine's Kherson, brief ceasefire brings rare respite",
+    "link": "https://reut.rs/4dZGgZo",
+    "date": "2026-10-28",
+    "summary": "Years of near-daily Russian drone and artillery attacks have turned the southern Ukrainian city of Kherson into a battered urban landscape where death is never far away.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.307950+00:00"
+  },
+  {
+    "id": "ea645d87400ffe4f",
+    "title": "German court weighs Bulgaria's extradition request in Starlink fire case",
+    "link": "https://reut.rs/4zhIWdt",
+    "date": "2026-10-28",
+    "summary": "German prosecutors said on Wednesday ​two German nationals were arrested last ‌Friday and are being detained while a court in the western city of Duesseldorf considers an extradition ​request by Bulgaria.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:43.312033+00:00"
+  },
+  {
+    "id": "170a6d032b5cf595",
+    "title": "AUKUS partners test autonomous systems as Europe weighs maritime surveillance needs",
+    "link": "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs",
+    "date": "2026-10-28",
+    "summary": "The UK headed up the anti-submarine warfare component of Maritime Big Play exercise, which took place off the coast of San Diego in October.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:46.432352+00:00"
+  },
+  {
+    "id": "678170456f69e186",
+    "title": "With daily jamming of US forces on Korean Peninsula, industry needs resilient solutions: USFK commander",
+    "link": "https://breakingdefense.com/2026/10/with-daily-jamming-of-us-forces-on-korean-peninsula-industry-needs-resilient-solutions-usfk-commander",
+    "date": "2026-10-28",
+    "summary": "“If your capability requires pristine satellite communications, infinite bandwidth, and uninterrupted fiber optic backbone to function, it will not survive 48 hours on the peninsula,” Gen. Xavier Brunson, commander of US Forces Korea, said.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:46.434270+00:00"
+  },
+  {
+    "id": "0755a0b2f5edd1cb",
+    "title": "U.S. Marine Drone Detachment in the Philippines Operating from Palawan Airfield",
+    "link": "https://news.usni.org/2026/10/28/u-s-marine-drone-detachment-in-the-philippines-operating-from-palawan-airfield",
+    "date": "2026-10-28",
+    "summary": "MANILA, Philippines — A U.S. Marine Corps drone detachment is operating from a Philippine airfield in Palawan near South China Sea flashpoints in the Spratly Islands, USNI News has learned. From the airfield, Washington can potentially support Manila with more intensive intelligence, surveillance and reconnaissance missions of Chinese forces operating off the Philippines. Marine Unmanned Aerial Vehicle Squadron 1 (VMU-1) is operating out of Antonio Bautista Air Base, according to a logistics document reviewed by USNI News. An expeditionary hangar recently appeared on commercial open source…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:47.894418+00:00"
+  },
+  {
+    "id": "a2fa07de6e9b682d",
+    "title": "U.S. Marines Deploy Neros Archer Drone in Camp Fuji Exercise",
+    "link": "https://news.usni.org/2026/10/28/u-s-marines-deploy-neros-archer-drone-in-camp-fuji-exercise",
+    "date": "2026-10-28",
+    "summary": "The U.S. Marine Corps recently used the Neros Archer First Person View drone in a live-fire exercise at Camp Fuji, Japan, for the first time, the service announced. Marines of Battalion Landing Team 1/1, 31st Marine Expeditionary Unit (MEU) carried out two strike missions on Oct. 20 at Combined Arms Training Center, Camp Fuji with the Neros Archer based on two different scenarios as a proof of concept tied to the unit’s hunter-killer teams. Neros Archer is the current Marine Corps’ program of record for one-way attack drones flown by a first-person view pilot. The Marine Corps issued a…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-10-29T12:21:47.897621+00:00"
   },
   {
     "id": "f9d7cd0a00d8cf2b",

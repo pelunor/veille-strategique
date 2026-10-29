@@ -1,28 +1,28 @@
 {
   "Le Grand Continent": {
-    "last_run": "2026-10-28T17:04:02.483326+00:00",
+    "last_run": "2026-10-29T12:20:57.097198+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 10,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-28",
+    "latest_item_date": "2026-10-29",
     "last_new_item_at": "2026-10-28T12:04:38.199781+00:00",
     "total_kept": 17
   },
   "Sinocism": {
-    "last_run": "2026-10-28T17:04:03.688736+00:00",
+    "last_run": "2026-10-29T12:20:58.365418+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 20,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-27",
+    "latest_item_date": "2026-10-29",
     "last_new_item_at": "2026-10-27T11:33:54.080781+00:00",
     "total_kept": 6
   },
   "Project OSINT": {
-    "last_run": "2026-10-28T17:04:09.657001+00:00",
+    "last_run": "2026-10-29T12:21:04.957809+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -33,7 +33,7 @@
     "total_kept": 20
   },
   "IFRI": {
-    "last_run": "2026-10-28T17:04:22.775104+00:00",
+    "last_run": "2026-10-29T12:21:18.770420+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -44,7 +44,7 @@
     "total_kept": 3
   },
   "Portail de l'IE": {
-    "last_run": "2026-10-28T17:04:24.702324+00:00",
+    "last_run": "2026-10-29T12:21:20.740170+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -53,7 +53,7 @@
     "latest_item_date": "2026-10-02"
   },
   "IRSEM": {
-    "last_run": "2026-10-28T17:04:26.948707+00:00",
+    "last_run": "2026-10-29T12:21:23.102973+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -64,29 +64,29 @@
     "total_kept": 29
   },
   "EUISS": {
-    "last_run": "2026-10-28T17:04:35.668303+00:00",
+    "last_run": "2026-10-29T12:21:31.396561+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 10,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-28",
+    "latest_item_date": "2026-10-29",
     "last_new_item_at": "2026-10-28T15:01:21.508366+00:00",
     "total_kept": 10
   },
   "ECFR": {
-    "last_run": "2026-10-28T17:04:36.868584+00:00",
+    "last_run": "2026-10-29T12:21:32.468791+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
-    "last_raw_count": 28,
+    "last_raw_count": 26,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-28",
+    "latest_item_date": "2026-10-29",
     "last_new_item_at": "2026-10-28T16:48:36.508884+00:00",
     "total_kept": 5
   },
   "Bruegel": {
-    "last_run": "2026-10-28T17:04:38.038608+00:00",
+    "last_run": "2026-10-29T12:21:33.523599+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -97,7 +97,7 @@
     "total_kept": 2
   },
   "MERICS": {
-    "last_run": "2026-10-28T17:04:39.263318+00:00",
+    "last_run": "2026-10-29T12:21:34.573456+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -106,29 +106,29 @@
     "latest_item_date": "2026-07-20"
   },
   "CSIS": {
-    "last_run": "2026-10-28T17:04:40.412110+00:00",
+    "last_run": "2026-10-29T12:21:35.625825+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
-    "last_raw_count": 2,
+    "last_raw_count": 1,
     "consecutive_empty_runs": 0,
     "latest_item_date": "2026-10-28",
     "last_new_item_at": "2026-10-23T10:59:02.617681+00:00",
     "total_kept": 7
   },
   "War on the Rocks": {
-    "last_run": "2026-10-28T17:04:41.777463+00:00",
+    "last_run": "2026-10-29T12:21:37.145189+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 100,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-28",
-    "last_new_item_at": "2026-10-28T12:05:18.264652+00:00",
-    "total_kept": 32
+    "latest_item_date": "2026-10-29",
+    "last_new_item_at": "2026-10-29T12:21:37.145195+00:00",
+    "total_kept": 34
   },
   "Carnegie Endowment": {
-    "last_run": "2026-10-28T17:04:42.953104+00:00",
+    "last_run": "2026-10-29T12:21:38.201829+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -137,7 +137,7 @@
     "latest_item_date": "2026-10-26"
   },
   "RAND": {
-    "last_run": "2026-10-28T17:04:44.139791+00:00",
+    "last_run": "2026-10-29T12:21:39.269140+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -148,7 +148,7 @@
     "total_kept": 1
   },
   "SIPRI": {
-    "last_run": "2026-10-28T17:04:45.312730+00:00",
+    "last_run": "2026-10-29T12:21:40.319591+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -157,29 +157,29 @@
     "latest_item_date": "2026-10-09"
   },
   "Jamestown Foundation (China Brief)": {
-    "last_run": "2026-10-28T17:04:46.530176+00:00",
+    "last_run": "2026-10-29T12:21:41.735067+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 10,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-27",
+    "latest_item_date": "2026-10-28",
     "last_new_item_at": "2026-10-28T12:05:22.875740+00:00",
     "total_kept": 24
   },
   "Reuters": {
-    "last_run": "2026-10-28T17:04:49.209964+00:00",
+    "last_run": "2026-10-29T12:21:43.676082+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
-    "last_raw_count": 557,
+    "last_raw_count": 553,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-28",
-    "last_new_item_at": "2026-10-28T16:48:49.661298+00:00",
-    "total_kept": 624
+    "latest_item_date": "2026-10-29",
+    "last_new_item_at": "2026-10-29T12:21:43.676097+00:00",
+    "total_kept": 649
   },
   "Defense News (Industry)": {
-    "last_run": "2026-10-28T17:04:50.820303+00:00",
+    "last_run": "2026-10-29T12:21:45.266671+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -190,29 +190,29 @@
     "total_kept": 74
   },
   "Breaking Defense": {
-    "last_run": "2026-10-28T17:04:52.248046+00:00",
+    "last_run": "2026-10-29T12:21:46.435895+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 15,
     "consecutive_empty_runs": 0,
     "latest_item_date": "2026-10-28",
-    "last_new_item_at": "2026-10-28T17:04:52.248050+00:00",
-    "total_kept": 125
+    "last_new_item_at": "2026-10-29T12:21:46.435899+00:00",
+    "total_kept": 127
   },
   "USNI News": {
-    "last_run": "2026-10-28T17:04:53.473719+00:00",
+    "last_run": "2026-10-29T12:21:47.902806+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 30,
     "consecutive_empty_runs": 0,
     "latest_item_date": "2026-10-28",
-    "last_new_item_at": "2026-10-28T15:01:40.016219+00:00",
-    "total_kept": 56
+    "last_new_item_at": "2026-10-29T12:21:47.902811+00:00",
+    "total_kept": 58
   },
   "Bellingcat": {
-    "last_run": "2026-10-28T17:04:54.870263+00:00",
+    "last_run": "2026-10-29T12:21:49.085774+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -223,7 +223,7 @@
     "total_kept": 4
   },
   "Arms Control Association": {
-    "last_run": "2026-10-28T17:04:56.215489+00:00",
+    "last_run": "2026-10-29T12:21:50.391352+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -234,7 +234,7 @@
     "total_kept": 14
   },
   "Bulletin of the Atomic Scientists": {
-    "last_run": "2026-10-28T17:04:57.398333+00:00",
+    "last_run": "2026-10-29T12:21:51.447877+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -243,7 +243,7 @@
     "latest_item_date": "2026-10-20"
   },
   "CIA - Studies in Intelligence": {
-    "last_run": "2026-10-28T17:04:58.632926+00:00",
+    "last_run": "2026-10-29T12:21:52.839730+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -258,7 +258,7 @@
     "consecutive_failures": 5
   },
   "CSIS - Critical Minerals Security": {
-    "last_run": "2026-10-28T17:05:04.889578+00:00",
+    "last_run": "2026-10-29T12:21:58.643656+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -269,7 +269,7 @@
     "total_kept": 10
   },
   "Atlantic Council": {
-    "last_run": "2026-10-28T17:05:06.161767+00:00",
+    "last_run": "2026-10-29T12:21:59.962207+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -280,7 +280,7 @@
     "total_kept": 38
   },
   "CEPA (Center for European Policy Analysis)": {
-    "last_run": "2026-10-28T17:05:07.388698+00:00",
+    "last_run": "2026-10-29T12:22:01.105475+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -291,29 +291,29 @@
     "total_kept": 20
   },
   "ICDS (Estonia)": {
-    "last_run": "2026-10-28T17:05:09.777186+00:00",
+    "last_run": "2026-10-29T12:22:03.657051+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 9,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-28",
-    "last_new_item_at": "2026-10-28T15:01:57.800599+00:00",
-    "total_kept": 9
+    "latest_item_date": "2026-10-29",
+    "last_new_item_at": "2026-10-29T12:22:03.657055+00:00",
+    "total_kept": 10
   },
   "Lowy Institute - The Interpreter": {
-    "last_run": "2026-10-28T17:05:11.084816+00:00",
+    "last_run": "2026-10-29T12:22:05.211064+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 50,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-28",
-    "last_new_item_at": "2026-10-28T16:49:11.542713+00:00",
-    "total_kept": 10
+    "latest_item_date": "2026-10-29",
+    "last_new_item_at": "2026-10-29T12:22:05.211068+00:00",
+    "total_kept": 11
   },
   "The Record (Recorded Future News)": {
-    "last_run": "2026-10-28T17:05:12.508479+00:00",
+    "last_run": "2026-10-29T12:22:06.356840+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -324,7 +324,7 @@
     "total_kept": 28
   },
   "SpacePolicyOnline": {
-    "last_run": "2026-10-28T17:05:13.787895+00:00",
+    "last_run": "2026-10-29T12:22:07.826643+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -333,7 +333,7 @@
     "latest_item_date": "2026-10-25"
   },
   "CSIS - Project on Nuclear Issues": {
-    "last_run": "2026-10-28T17:05:19.911324+00:00",
+    "last_run": "2026-10-29T12:22:14.834998+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -344,18 +344,18 @@
     "total_kept": 6
   },
   "Missile Matters": {
-    "last_run": "2026-10-28T17:04:15.496077+00:00",
+    "last_run": "2026-10-29T12:21:11.211291+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 20,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-25",
-    "last_new_item_at": "2026-10-28T16:48:15.216910+00:00",
-    "total_kept": 20
+    "latest_item_date": "2026-10-29",
+    "last_new_item_at": "2026-10-29T12:21:11.211295+00:00",
+    "total_kept": 21
   },
   "The OSINT Newsletter": {
-    "last_run": "2026-10-28T17:04:21.355237+00:00",
+    "last_run": "2026-10-29T12:21:17.655234+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -366,7 +366,7 @@
     "total_kept": 20
   },
   "IRIS": {
-    "last_run": "2026-10-28T17:04:29.530662+00:00",
+    "last_run": "2026-10-29T12:21:24.794448+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
@@ -377,24 +377,24 @@
     "total_kept": 20
   },
   "Zone Militaire (Opex360)": {
-    "last_run": "2026-10-28T17:04:32.264158+00:00",
+    "last_run": "2026-10-29T12:21:27.370962+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 10,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-28",
-    "last_new_item_at": "2026-10-28T16:48:31.900878+00:00",
-    "total_kept": 91
+    "latest_item_date": "2026-10-29",
+    "last_new_item_at": "2026-10-29T12:21:27.370965+00:00",
+    "total_kept": 94
   },
   "Institut Montaigne": {
-    "last_run": "2026-10-28T17:04:33.978030+00:00",
+    "last_run": "2026-10-29T12:21:29.503358+00:00",
     "last_status": "ok",
     "last_error": null,
     "consecutive_failures": 0,
     "last_raw_count": 30,
     "consecutive_empty_runs": 0,
-    "latest_item_date": "2026-10-28",
+    "latest_item_date": "2026-10-29",
     "last_new_item_at": "2026-10-21T11:08:20.248375+00:00",
     "total_kept": 5
   }
