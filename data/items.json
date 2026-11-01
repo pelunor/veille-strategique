@@ -1,5 +1,75 @@
 [
   {
+    "id": "a6f30a892d5105a5",
+    "title": "An Important Message: The Coming Winter in Ukraine",
+    "link": "https://missilematters.substack.com/p/an-important-message-the-coming-winter",
+    "date": "2026-11-01",
+    "summary": "What Russia can launch against Ukraine’s energy grid, and how prepared Kyiv is.",
+    "source": "Missile Matters",
+    "source_region": "eu",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-01T12:44:22.738306+00:00"
+  },
+  {
+    "id": "c49aa5dfc8f24fb6",
+    "title": "La Direction générale de l’armement lance un appel d’offres pour industrialiser son drone naval kamikaze «SMOKERS»",
+    "link": "https://www.opex360.com/2026/11/01/la-direction-generale-de-larmement-lance-un-appel-doffres-pour-industrialiser-son-drone-naval-kamikaze-smokers",
+    "date": "2026-11-01",
+    "summary": "En avril 2025, la Marine nationale lança sa première munition navale téléopérée [ou drone naval «kamikaze»] contre la coque renforcée d’un chaland de transport de matériel [CTM] désarmé dans le cadre d’une expérimentation visant à développer de nouveaux concepts opérationnels, inspirés par les retours d’expérience [RETEX] de la guerre en Ukraine. Cette munition navale téléopérée...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-01T12:44:39.208529+00:00"
+  },
+  {
+    "id": "86b4baec133f94b8",
+    "title": "Un document confirme l’intérêt de la force aérienne italienne pour l’avion de transport A400M «Atlas» d’Airbus",
+    "link": "https://www.opex360.com/2026/11/01/un-document-confirme-linteret-de-la-force-aerienne-italienne-pour-lavion-de-transport-a400m-atlas-dairbus",
+    "date": "2026-11-01",
+    "summary": "Ces derniers mois, le constructeur aéronautique brésilien Embraer a remporté plusieurs marchés en Europe avec son avion de transport militaire C-390 Millenium, parfois aux dépens de l’A400M Atlas d’Airbus. Cependant, ce dernier semble intéresser de plus en plus de pays européens, soucieux de remplacer leurs C-130 Hercules et/ou de renforcer leurs capacités de transport aérien...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-01T12:44:39.212299+00:00"
+  },
+  {
+    "id": "1dc5a042999f20b1",
+    "title": "Hanwha signs $269 million shipbuilding contract for US Navy",
+    "link": "https://reut.rs/4idbi2k",
+    "date": "2026-11-01",
+    "summary": "Hanwha Defense USA said ​on Sunday it had ‌signed a $269 million contract with Tote ​Services to build ​a medium landing ship ⁠for US Navy.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-01T12:44:54.856273+00:00"
+  },
+  {
     "id": "f293472549628860",
     "title": "Le Rafale M réussit ses premiers essais à bord du porte-avions indien INS Vikrant",
     "link": "https://www.opex360.com/2026/10/31/le-rafale-m-reussit-ses-premiers-essais-a-bord-du-porte-avions-indien-ins-vikrant",
@@ -64,6 +134,90 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-10-31T11:44:45.703094+00:00"
+  },
+  {
+    "id": "cb8a239b67a9fa79",
+    "title": "La Section technique de l’armée de Terre développe déjà le standard 3 du système antidrone Proteus",
+    "link": "https://www.opex360.com/2026/10/31/la-section-technique-de-larmee-de-terre-developpe-deja-le-standard-3-du-systeme-antidrone-proteus",
+    "date": "2026-10-31",
+    "summary": "En janvier 2025, la Section technique de l’armée de Terre [STAT] présenta le Proteus, un système de lutte antidrone [LAD], mis au point par son groupement «Artillerie», dans le cadre d’un projet lancé quelques mois plus tôt. «L’objectif de ce développement est double : fournir une réponse opérationnelle rapide tout en anticipant les évolutions du...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-01T12:44:39.215879+00:00"
+  },
+  {
+    "id": "3c6fddf121b5cf8f",
+    "title": "Désarmée en 2022, l’ex-frégate Latouche-Tréville est désormais utilisée par la DGA pour des essais de choc",
+    "link": "https://www.opex360.com/2026/10/31/desarmee-en-2022-lex-fregate-latouche-treville-est-desormais-utilisee-par-la-dga-pour-des-essais-de-choc",
+    "date": "2026-10-31",
+    "summary": "En février 2025, dans le cadre de la préparation de ses unités à un engagement de haute intensité et après avoir envoyé par le fond l’ex-aviso «Premier maître L’Her» avec une torpille F21 Artémis lancée par un sous-marin nucléaire d’attaque, la Marine nationale fit subir un «essai de choc» à la frégate de type La...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-01T12:44:39.219245+00:00"
+  },
+  {
+    "id": "ec1e0dca1b990624",
+    "title": "Biosecurity in the AI Era",
+    "link": "https://www.rand.org/pubs/podcasts/policy-minded/2026/biosecurity-in-the-ai-era.html",
+    "date": "2026-10-31",
+    "summary": "RAND's Steph Guerra breaks down a layered defense strategy to help mitigate the risks of AI-enabled bioweapons while preserving open science.",
+    "source": "RAND",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-01T12:44:50.481104+00:00"
+  },
+  {
+    "id": "5faf1512c74f6ae6",
+    "title": "North Korea says defence research institutes tested major weapon system",
+    "link": "https://reut.rs/4yXJW5b",
+    "date": "2026-10-31",
+    "summary": "North Korea's state media KCNA reported on Sunday that the ​country's defense science research institutes tested a ‌major weapon system.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-01T12:44:54.876709+00:00"
+  },
+  {
+    "id": "3721a21fd57ced4d",
+    "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
+    "link": "https://reut.rs/4zey7sq",
+    "date": "2026-10-31",
+    "summary": "OPEC+ oil-producing countries have ‌agreed in principle to keep their December oil output targets steady at a meeting on Sunday, three people with knowledge of the matter ​told Reuters, in line with expectations that further output ​policy adjustments won't occur until next year.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-01T12:44:54.884282+00:00"
   },
   {
     "id": "7ed59b69bf69e286",
