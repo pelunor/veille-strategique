@@ -1,5 +1,571 @@
 [
   {
+    "id": "0fee0009e08bfcd1",
+    "title": "L’Europe se dirige-t-elle vers une nouvelle crise énergétique cet hiver ?",
+    "link": "https://legrandcontinent.eu/fr/2026/11/03/leurope-se-dirige-t-elle-vers-une-nouvelle-crise-energetique-cet-hiver",
+    "date": "2026-11-03",
+    "summary": "L’effondrement précoce du vortex polaire pourrait entraîner une vague de froid L’article L’Europe se dirige-t-elle vers une nouvelle crise énergétique cet hiver ? est apparu en premier sur Le Grand Continent .",
+    "source": "Le Grand Continent",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:40:38.873586+00:00"
+  },
+  {
+    "id": "d8e003fa04069b74",
+    "title": "Midterms : pourquoi les centres de données sont devenus un sujet central de la campagne",
+    "link": "https://legrandcontinent.eu/fr/2026/11/03/midterms-pourquoi-les-centres-de-donnees-sont-devenus-un-sujet-central-de-la-campagne",
+    "date": "2026-11-03",
+    "summary": "Le soutien à l’IA est devenu toxique pour certains candidats L’article Midterms : pourquoi les centres de données sont devenus un sujet central de la campagne est apparu en premier sur Le Grand Continent .",
+    "source": "Le Grand Continent",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:40:38.880345+00:00"
+  },
+  {
+    "id": "ca9b836d5bbe73b0",
+    "title": "La bulle et le contrôle",
+    "link": "https://legrandcontinent.eu/fr/2026/11/03/la-bulle-et-le-controle",
+    "date": "2026-11-03",
+    "summary": "L’IA est le nouveau champ de bataille L’article La bulle et le contrôle est apparu en premier sur Le Grand Continent .",
+    "source": "Le Grand Continent",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:40:38.883132+00:00"
+  },
+  {
+    "id": "43114bc3fbfef826",
+    "title": "Spécialiste de l’armement terrestre, KNDS s’associe à SeaOwl pour développer un drone de combat naval",
+    "link": "https://www.opex360.com/2026/11/03/specialiste-de-larmement-terrestre-knds-sassocie-a-seaowl-pour-developper-un-drone-de-combat-naval",
+    "date": "2026-11-03",
+    "summary": "Dans un fascicule publié par le ministère des Armées à l’occasion de l’édition 2026 du salon Euronaval, le chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Cluzel, explique que «notre temps est marqué par des cycles d’innovation de plus en plus rapides» et que la «supériorité opérationnelle reposera demain autant sur [la] capacité à...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:09.412523+00:00"
+  },
+  {
+    "id": "8b8b44d9e4b3cea0",
+    "title": "The Return of the Nuclear Sea-Launched Cruise Missile (SLCM-N) | HTK | CSIS Events",
+    "link": "https://www.csis.org/events/return-nuclear-sea-launched-cruise-missile-slcm-n-htk",
+    "date": "2026-11-03",
+    "summary": "Please join the CSIS Defense and Security Department for a conversation on the Nuclear Sea-Launched Cruise Missile (SLCM-N).",
+    "source": "CSIS",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:27.114772+00:00"
+  },
+  {
+    "id": "cf02525e0dae5bba",
+    "title": "Quantum’s Quietest Branch: A Case for Magnetometry",
+    "link": "https://warontherocks.com/cogs-of-war/quantums-quietest-branch-a-case-for-magnetometry",
+    "date": "2026-11-03",
+    "summary": "After an F-15E went down in Operation Epic Fury, the weapons systems officer landed injured, behind enemy lines, and with a bounty on his head. CIA Director John Ratcliffe analogized locating him to finding a “grain of sand in the middle of a desert.” When commandos pulled him out 36 hours later, one detail in news reports of the rescue captured public imagination: “Ghost Murmur,” an alleged CIA quantum magnetometer, was said to have detected the officer’s heartbeat at long range. As one source ominously remarked, “If your heart is beating, we will find you.”Despite the story having all the",
+    "source": "War on the Rocks",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence",
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:28.482078+00:00"
+  },
+  {
+    "id": "609a6637c949f096",
+    "title": "Humanity’s Promethean Gap with AI",
+    "link": "https://warontherocks.com/humanitys-promethean-gap-with-ai",
+    "date": "2026-11-03",
+    "summary": "Frontier AI systems are beginning to test the limits of human oversight, while the companies developing them retain considerable power to define the risks and the terms of their scrutiny. In security and defense, the stakes are particularly high. The industry’s new calls to pace the frontier also risk becoming performative restraint, and defense establishments should act before agentic swarm systems enter chains of command.The OpenAI/Hugging Face incident provides a clear illustration of the emerging governance problem. Several reports in August from OpenAI, METR, and Redwood Research found…",
+    "source": "War on the Rocks",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:28.485387+00:00"
+  },
+  {
+    "id": "827a500d0a47fdd0",
+    "title": "Italy says cyberattack on supermarket fridges had limited impact",
+    "link": "https://reut.rs/3Wpfsvt",
+    "date": "2026-11-03",
+    "summary": "Italy's government said on Tuesday the domestic impact of a cyberattack ​that hit supermarket refrigeration systems across ‌Europe had been extremely limited and posed no public health risk from thawing food products.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.910017+00:00"
+  },
+  {
+    "id": "d0d35f2267d3c7ca",
+    "title": "UK spy agency MI5 will not face contempt case for misleading evidence, court rules",
+    "link": "https://reut.rs/4zhkPe9",
+    "date": "2026-11-03",
+    "summary": "Britain's domestic spy agency MI5 and its staff will not face contempt of court proceedings for providing false information to London's ​High Court, the court ruled on Tuesday, prompting the agency's ‌chief to once again apologise for \"serious failures\".",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.913876+00:00"
+  },
+  {
+    "id": "2a35530602c332a6",
+    "title": "US stock futures mixed as Apple slides, midterms loom",
+    "link": "https://reut.rs/4zzjKiz",
+    "date": "2026-11-03",
+    "summary": "US stock index futures were mixed on Tuesday as crude oil prices ticked ​up and markets awaited the midterm elections results, while Apple joined the list of Big Tech companies whose results ‌failed to impress investors.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.929785+00:00"
+  },
+  {
+    "id": "fc7aa4acd9f08c56",
+    "title": "European naval defence industry meets as threats drive fleet upgrades",
+    "link": "https://reut.rs/3V80SrX",
+    "date": "2026-11-03",
+    "summary": "Shipbuilders, missile makers and drone ​manufacturers showcase their wares at an arms fair starting near Paris on Tuesday, as ‌European governments, doubting the United States as a defence ally and alarmed by Russian aggression, rush to bolster navies.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.939096+00:00"
+  },
+  {
+    "id": "e454486317fb1377",
+    "title": "Aramco's Q3 profit rises by a third despite attacks",
+    "link": "https://reut.rs/4ixBQu3",
+    "date": "2026-11-03",
+    "summary": "Saudi state oil company ​Aramco reported on Tuesday a 34.5% increase in third-quarter net profit despite attacks on its facilities, mainly due to ‌higher revenue and its exit from a joint venture.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.943272+00:00"
+  },
+  {
+    "id": "f23a2097e3213764",
+    "title": "South Korea, Turkey to cooperate in nuclear, defence, infrastructure",
+    "link": "https://reut.rs/4imgJfv",
+    "date": "2026-11-03",
+    "summary": "South Korean President Lee Jae Myung and Turkish President Tayyip ‌Erdogan agreed at a summit on Tuesday to expand cooperation in nuclear energy and defence, including on one of Turkey's biggest power projects, Lee said.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.944560+00:00"
+  },
+  {
+    "id": "2c7b45d727a4504b",
+    "title": "Oil transit via Atyrau-Samara pipeline resumes after drone attack, Kazakhstan says",
+    "link": "https://reut.rs/4yTwqj1",
+    "date": "2026-11-03",
+    "summary": "Kazakhstan's energy ministry said on Tuesday ​that it had restarted ‌oil transit via the Atyrau-Samara pipeline after drone attacks the previous ​day forced its ​operations offline the previous day.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.949338+00:00"
+  },
+  {
+    "id": "26e0faa2ce8aa399",
+    "title": "COMMENTARY: Qatar's US LNG bet signals a new energy order",
+    "link": "https://reut.rs/4ixMSPU",
+    "date": "2026-11-03",
+    "summary": "Turning to your biggest rival is rarely a sign of confidence. Yet Qatar's decision to sign long-term contracts for US supplies suggests the world's second-largest LNG exporter is increasingly concerned that instability in the Gulf could undermine its ambitious expansion plans.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.952565+00:00"
+  },
+  {
+    "id": "fe659b5a0df7160c",
+    "title": "Defence firm KNDS launches suicide drone with startup SeaOwl",
+    "link": "https://reut.rs/4egwWQV",
+    "date": "2026-11-03",
+    "summary": "Franco-German defence group KNDS and French startup SeaOwl on Tuesday launched a new ​suicide surface drone aimed at navies seeking protection against ‌a growing number of drone attacks on ports and vessels.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.953935+00:00"
+  },
+  {
+    "id": "dbe88b98a3ca5127",
+    "title": "India's top gas importer sets eyes on US LNG under long-term deal with Qatar",
+    "link": "https://reut.rs/4iibyNA",
+    "date": "2026-11-03",
+    "summary": "Qatar is willing to consider India's request to include US-sourced LNG under its renewed supply deal, helping New Delhi diversify ​its imports following disruptions caused by the Iran war, a senior Petronet ‌LNG executive said on Tuesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.959207+00:00"
+  },
+  {
+    "id": "46243425207ce657",
+    "title": "How NATO states on the Black Sea are being drawn into Ukraine war escalation",
+    "link": "https://reut.rs/4Ae8Crv",
+    "date": "2026-11-03",
+    "summary": "Attacks on cargo vessels off the coast of Romania and Bulgaria have surged in recent weeks.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.964138+00:00"
+  },
+  {
+    "id": "b9b91eed1e173722",
+    "title": "TotalEnergies signs five-year LNG supply deal with ADNOC Gas",
+    "link": "https://reut.rs/4zoxNav",
+    "date": "2026-11-03",
+    "summary": "French oil ​major TotalEnergies ‌said on Tuesday it ​would ​buy up to ⁠1.6 ​million tonnes ​of liquefied natural gas under ​a ​five-year deal with ‌UAE's ⁠ADNOC Gas .",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "france",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.968889+00:00"
+  },
+  {
+    "id": "171ff3cfb3e96291",
+    "title": "Russian attacks hit energy facilities in Ukraine's Odesa and Zhytomyr regions",
+    "link": "https://reut.rs/4fa7Sv8",
+    "date": "2026-11-03",
+    "summary": "Russian attacks on Ukraine's energy infrastructure overnight left ​more than 180,000 customers in ‌the Zhytomyr region without power and heavily damaged a facility ​belonging to private energy ​firm DTEK in the Odesa region, ⁠officials and the company ​said.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.973701+00:00"
+  },
+  {
+    "id": "ad17fa696704e9f4",
+    "title": "Four Delfin shareholders rebuff Leonardo Maria Del Vecchio's buyout offer, reports say",
+    "link": "https://reut.rs/4813Z7Y",
+    "date": "2026-11-03",
+    "summary": "Four shareholders in Delfin, the investment vehicle of Italy's Del Vecchio family and the largest investor in eyewear ​giant EssilorLuxottica , have rejected an offer from shareholder Leonardo ‌Maria Del Vecchio to buy their stakes, Italian news agencies reported on Monday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.978660+00:00"
+  },
+  {
+    "id": "0c75196d8b9b34cb",
+    "title": "Iran's foreign minister says talks with Saudi Arabia are ongoing; Yemen fighting intensifies",
+    "link": "https://reut.rs/4iv9lNH",
+    "date": "2026-11-03",
+    "summary": "Talks between Iran and Saudi Arabia are ongoing as Tehran aims to ​reach new regional security arrangements for countries in ‌the region without foreign military involvement, Iranian Foreign Minister Abbas Araqchi said on X on Tuesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.981720+00:00"
+  },
+  {
+    "id": "1f08eecafde5985d",
+    "title": "Nvidia orders data centre clients to reduce China exposure, FT reports",
+    "link": "https://reut.rs/4zoLQNt",
+    "date": "2026-11-03",
+    "summary": "Nvidia is ​ordering its ‌data centre partners ​to ​reduce exposure to ⁠Chinese ​customers, ​the Financial Times reported ​on ​Tuesday, citing people ‌with ⁠knowledge of the matter.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.985111+00:00"
+  },
+  {
+    "id": "a334b22d75eb9169",
+    "title": "Oil refinery in Russia's Yaroslavl hit as Russia downs 856 Ukrainian drones overnight",
+    "link": "https://reut.rs/3Urzo0g",
+    "date": "2026-11-03",
+    "summary": "An oil ​refinery in the ​Russian city of Yaroslavl ⁠was damaged ​in a Ukrainian drone ​attack, local governor Mikhail Evrayev said on ​Tuesday, as the ​Defence Ministry said it ‌had ⁠downed 856 enemy drones over Russia's regions overnight.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.986993+00:00"
+  },
+  {
+    "id": "f677b18b7d14d6b1",
+    "title": "War widens in the Black Sea in a test of NATO red lines",
+    "link": "https://reut.rs/4jWj0iz",
+    "date": "2026-11-03",
+    "summary": "After seven strikes on cargo ships near NATO members Romania and Bulgaria last month, the US-led military alliance said it would deploy maritime patrol aircraft, radars and drones to bolster its eastern flank in the Black Sea.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:34.990209+00:00"
+  },
+  {
+    "id": "c552b5dbaa96962d",
+    "title": "Gold eases ahead of US midterm elections",
+    "link": "https://reut.rs/3W7PpZP",
+    "date": "2026-11-03",
+    "summary": "Gold prices ticked lower on Tuesday, after surging more ‌than 2% in the previous session on a drop in oil prices that eased inflation concerns, while investors awaited the outcome of US midterm elections later in the day.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.002853+00:00"
+  },
+  {
+    "id": "e63d1f0c4b37f492",
+    "title": "Indian shares set to extend advance on softer oil, steady earnings",
+    "link": "https://reut.rs/3X1ZWG1",
+    "date": "2026-11-03",
+    "summary": "Indian shares are expected to open higher on Tuesday, building on three sessions of gains, as strong company earnings, easing crude ​oil prices and early signs of foreign investors returning to India aid ‌investor sentiment.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.010214+00:00"
+  },
+  {
+    "id": "9ccbcacd0329d463",
+    "title": "North Korea conducts strategic cruise missile test with dispersal warhead, KCNA says",
+    "link": "https://reut.rs/4iyxIdq",
+    "date": "2026-11-03",
+    "summary": "North ​Korea said ‌on Tuesday ​it ​tested on Monday ⁠a ​strategic cruise ​missile mounted with a ​dispersal ​warhead and assessed ‌the ⁠flight characteristics for ​a ​vertical ⁠strike, state ​news ​agency ⁠KCNA reported.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.016933+00:00"
+  },
+  {
+    "id": "6f24934e6e701ab0",
+    "title": "Asian stocks retreat ahead of US midterms, oil steadies",
+    "link": "https://reut.rs/4ySN2aH",
+    "date": "2026-11-03",
+    "summary": "Stocks edged lower at the start of Asian trade on Tuesday and oil prices stabilised after the previous session's tumble, with ‌investors on edge ahead of the start of voting for the US midterm elections.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.018697+00:00"
+  },
+  {
+    "id": "83e9503c4de41f24",
+    "title": "Oil rises after report of US strike on Iran's Qeshm Island",
+    "link": "https://reut.rs/4BLjoqI",
+    "date": "2026-11-03",
+    "summary": "Oil prices rose in early Asian trade on Tuesday after a report that the United States had struck Iran's Qeshm Island, raising concerns about an ​escalation of the eight-month conflict and prolonged disruptions to Middle East oil ‌supplies.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.023463+00:00"
+  },
+  {
+    "id": "a8bb6a1f259d07b0",
+    "title": "Keira Knightley says returning spy thriller 'Black Doves' balances humour and moral complexity",
+    "link": "https://reut.rs/4jVjx4h",
+    "date": "2026-11-03",
+    "summary": "\"Black Doves\" may be packed with assassins and high-octane ‌action sequences, but the joy of the Netflix spy thriller lies in its blend of humour and morally complex characters, Keira Knightley said at the London launch of the show's second season on Monday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.025964+00:00"
+  },
+  {
+    "id": "eb5fec8176a52fa9",
+    "title": "OpenAI taps former US army secretary Dan Driscoll for national security role",
+    "link": "https://reut.rs/4zvr9zC",
+    "date": "2026-11-03",
+    "summary": "OpenAI has appointed Dan Driscoll, a former US Secretary of the Army, to ​a newly created role focusing on national ‌security modernization, the AI startup said on Monday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.032195+00:00"
+  },
+  {
+    "id": "00cb52772889ccc6",
+    "title": "UK must expect AI-powered attack on critical infrastructure within two years, report says",
+    "link": "https://reut.rs/4egzUEV",
+    "date": "2026-11-03",
+    "summary": "Britain should be prepared for an AI-powered cyberattack on its critical national infrastructure in the next two years, the UK's National Cyber Security Centre said on ​Tuesday, adding that China was likely the best equipped to conduct such ‌operations.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.034451+00:00"
+  },
+  {
+    "id": "8d7013fa6b0780b1",
+    "title": "Sweden’s Saab launches family of AI agents for future aircraft projects",
+    "link": "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects",
+    "date": "2026-11-03",
+    "summary": "Key to the autonomous project is Saab’s AI Fighter Jet Pilot Academy, designed to develop the agents and, in parallel, establish infrastructure necessary to “create, train and evaluate” them, says the firm.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:37.878327+00:00"
+  },
+  {
+    "id": "384a558dfb89f692",
+    "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
+    "link": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
+    "date": "2026-11-03",
+    "summary": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report.",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:58.216091+00:00"
+  },
+  {
     "id": "282df098842a8acf",
     "title": "DGA Essais en vol a reçu un Rafale F4.1 « ABE » pour préparer le standard F5",
     "link": "https://www.opex360.com/2026/11/02/dga-essais-en-vol-a-recu-son-premier-rafale-f4-1-pour-preparer-le-standard-f5",
@@ -339,6 +905,674 @@
     "fetched_at": "2026-11-02T14:51:35.126828+00:00"
   },
   {
+    "id": "736ca453916bc06b",
+    "title": "L’armée russe recule en Ukraine et subit ses pertes les plus élevées depuis 2022",
+    "link": "https://legrandcontinent.eu/fr/2026/11/02/larmee-russe-recule-en-ukraine-et-subit-ses-pertes-les-plus-elevees-depuis-2022",
+    "date": "2026-11-02",
+    "summary": "Moscou perd près de 1 000 soldats pour saisir 1 km² de territoire L’article L’armée russe recule en Ukraine et subit ses pertes les plus élevées depuis 2022 est apparu en premier sur Le Grand Continent .",
+    "source": "Le Grand Continent",
+    "source_region": "eu",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:40:38.885997+00:00"
+  },
+  {
+    "id": "b60bdafc4ecbb842",
+    "title": "Fifth Plenum outcomes; Stock market rescue; Middle East diplomacy; “Look East” and “learn from the CPC”; Mbappé mess continues",
+    "link": "https://sinocism.com/p/fifth-plenum-outcomes-stock-market",
+    "date": "2026-11-02",
+    "summary": "We have the full Fifth Plenum Resolution, Xi’s explainer of the document, and the official story on how the document came about. There is a lot to chew through and digest. Today’s newsletter starts with news of a new stock market rescue effort and possible signs of more serious PRC efforts to mediate in the Iran war before getting into the Plenum. Those still hoping that Xi sees the intensifying corruption crackdown as an impediment to economic growth will be disappointed.",
+    "source": "Sinocism",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:40:40.098265+00:00"
+  },
+  {
+    "id": "62cf9a772fb1a2de",
+    "title": "Saab étend les capacités de sa vedette rapide de combat CB90 à la lutte antinavire et à la défense aérienne",
+    "link": "https://www.opex360.com/2026/11/02/saab-etend-les-capacites-de-sa-vedette-rapide-de-combat-cb90-a-la-lutte-antinavire-et-a-la-defense-aerienne",
+    "date": "2026-11-02",
+    "summary": "Initialement, la vedette CB90, proposée par le groupe suédois Saab, a été conçue pour transporter rapidement un demi-peloton d’infanterie de marine [soit dix-huit combattants] vers une plage de débarquement et, accessoirement, pour des missions de surveillance. Affichant un déplacement de 24,5 tonnes à pleine charge, la CB90 est dotée de deux moteurs diesel Scania de...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:09.415121+00:00"
+  },
+  {
+    "id": "4e450058c6193a8d",
+    "title": "Une filiale du groupe français Thales va livrer des modules de lutte contre les mines à la marine américaine",
+    "link": "https://www.opex360.com/2026/11/02/une-filiale-du-groupe-francais-thales-va-livrer-des-modules-de-lutte-contre-les-mines-a-la-marine-americaine",
+    "date": "2026-11-02",
+    "summary": "Avec ses sonars [CAPTAS, SAMDIS, etc.], ses bouées acoustiques, ses solutions dronisées et ses systèmes de mission dopés à l’intelligence artificielle, la réputation de Thales dans les domaines de lutte anti-sous-marine et de la guerre des mines n’est plus à faire. Et elle ne pourra qu’être renforcée si le groupe parvient à prendre le contrôle...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:09.418461+00:00"
+  },
+  {
+    "id": "5d97d68a8bd1b309",
+    "title": "Les forces aériennes américaines et canadiennes se préparent à défendre les îles Aléoutiennes lors d’un exercice inédit",
+    "link": "https://www.opex360.com/2026/11/02/les-forces-aeriennes-americaines-et-canadiennes-se-preparent-a-defendre-les-iles-aleoutiennes-lors-dun-exercice-inedit",
+    "date": "2026-11-02",
+    "summary": "Situées entre le Kamtchatka [Russie] et l’Alaska, les îles Aléoutiennes, dont la plupart appartiennent aux États-Unis, sont stratégiques dans la mesure où, marquant la limite entre l’océan Pacifique et la mer de Béring, elles permettent de contrôler l’accès au détroit de Béring, naguère considéré comme pouvant être un possible lieu de confrontation durant la Guerre...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:09.421531+00:00"
+  },
+  {
+    "id": "864778717de6654f",
+    "title": "Who Controls Ukraine’s Starlink Access?",
+    "link": "https://www.csis.org/analysis/who-controls-ukraines-starlink-access",
+    "date": "2026-11-02",
+    "summary": "A 100 mph speed limit on Starshield terminals hindered Ukraine’s efforts to intercept Russia’s jet-powered drones. The risk of losing access during an attack gives allies another reason to build their...",
+    "source": "CSIS",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:27.116692+00:00"
+  },
+  {
+    "id": "82749934acf4e65c",
+    "title": "What Are U.S. Military Options in Iran?",
+    "link": "https://www.csis.org/analysis/what-are-us-military-options-iran",
+    "date": "2026-11-02",
+    "summary": "As Washington weighs force against Tehran alongside ongoing negotiations and an economic blockade, CSIS’s Benjamin Jensen evaluates six military options ranging from coercive diplomacy and targeted st...",
+    "source": "CSIS",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:27.118214+00:00"
+  },
+  {
+    "id": "66f75b2f43aceed0",
+    "title": "Corruption in the Crosshairs: The Debate Over Transparency and Saving Face",
+    "link": "https://warontherocks.com/corruption-in-the-crosshairs-the-debate-over-transparency-and-saving-face",
+    "date": "2026-11-02",
+    "summary": "Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.Western coverage often narrows the view to the battlefield — these pieces widen it, revealing the texture of daily life, politics, and public argument in a nation at war. The perspectives gathered here are varied, candid, and often surprising, together forming a more complete…",
+    "source": "War on the Rocks",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:28.489467+00:00"
+  },
+  {
+    "id": "eb1b0a033feb3f2e",
+    "title": "Canadian dollar steadies as investors weigh officials' trade comments",
+    "link": "https://reut.rs/4zqyNet",
+    "date": "2026-11-02",
+    "summary": "The Canadian dollar steadied near a six-week high against its US counterpart on Monday as oil prices tumbled and investors weighed positive ​signals on prospects of a trade deal between the US and ‌Canada.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.037993+00:00"
+  },
+  {
+    "id": "80941d693c37f244",
+    "title": "Diamondback Energy beats profit estimates as Iran war lifts oil prices",
+    "link": "https://reut.rs/4zj91bS",
+    "date": "2026-11-02",
+    "summary": "US shale producer Diamondback Energy surpassed Wall Street expectations for third-quarter profit on ​Monday, helped by higher output and elevated global oil ‌prices amid supply disruptions stemming from the Middle East conflict.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.046620+00:00"
+  },
+  {
+    "id": "3a09a4974d9f07aa",
+    "title": "Trading Day: Oil slump no cure for AI angst",
+    "link": "https://reut.rs/4zo6NIb",
+    "date": "2026-11-02",
+    "summary": "Oil prices tumbled on Monday on hopes that US-Iran peace talks could soon take place, which pushed bond yields around the world lower. Stock markets in Asia and Europe mostly benefited as a result, but the momentum evaporated in US hours, as investors turned their attention to Tuesday's midterm elections.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.053058+00:00"
+  },
+  {
+    "id": "3e42296571f09d1b",
+    "title": "US strategy links Myanmar peace talks to rare-earth access",
+    "link": "https://reut.rs/4iE83QC",
+    "date": "2026-11-02",
+    "summary": "Washington aims to use peace diplomacy in Myanmar as a way to ‌expand US influence and potentially gain access to the country's rare-earth deposits, according to a recently published State Department strategy document.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.065334+00:00"
+  },
+  {
+    "id": "cc202b7a9efdab58",
+    "title": "European retailers hit by supermarket fridge hack",
+    "link": "https://reut.rs/4jUOiGG",
+    "date": "2026-11-02",
+    "summary": "Fridges and freezers at more than 100 stores in several European countries were running hot on Monday, with some companies blaming a cyberattack.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.068281+00:00"
+  },
+  {
+    "id": "e8fb448e46709cae",
+    "title": "US Senator wants 'full accounting' of Air Force One White House flyover",
+    "link": "https://reut.rs/4jUIltk",
+    "date": "2026-11-02",
+    "summary": "Senator Tammy Duckworth on Monday asked ​government agencies to ‌offer a \"full accounting\" of the decision to allow a ​White House flyover ​by the US presidential ⁠airplane as part of ​a children's Halloween party ​last week.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.075014+00:00"
+  },
+  {
+    "id": "a083f22f97f51823",
+    "title": "Czech court acquits and releases Chinese man accused of spying, news agency says",
+    "link": "https://reut.rs/4z0ODeP",
+    "date": "2026-11-02",
+    "summary": "A Prague court ruled on Monday that a Chinese man suspected of espionage in the Czech Republic ​was not guilty and ordered his release, the news ‌agency CTK reported.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.076764+00:00"
+  },
+  {
+    "id": "889f1c00cc52b5da",
+    "title": "British Columbia First Nation files court challenge over Pacific Link oil pipeline consultations",
+    "link": "https://reut.rs/3V2peTV",
+    "date": "2026-11-02",
+    "summary": "A First Nation in British Columbia has filed a court challenge against the Canadian ​government's decision to fast-track the review process for ‌a new proposed crude oil pipeline to Canada's west coast.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.083425+00:00"
+  },
+  {
+    "id": "dde708dddbd297d6",
+    "title": "TotalEnergies says Iran war could accelerate energy transition",
+    "link": "https://reut.rs/4jO1jSi",
+    "date": "2026-11-02",
+    "summary": "French oil major TotalEnergies expects global oil demand to peak in the years between 2035 ​and 2040, its chief sustainability officer ​said on Monday, with potential for demand ⁠to decline faster if sales of electric ​vehicles continue to grow.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "france",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.089236+00:00"
+  },
+  {
+    "id": "86684c66f94a5ad2",
+    "title": "TSX gains as crude slide lifts sentiment",
+    "link": "https://reut.rs/4ksCw6u",
+    "date": "2026-11-02",
+    "summary": "Canada's main stock index rose on Monday after oil prices tumbled on hopes that renewed US-Iran talks would ease oil ​supply risks in the Middle East.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.095953+00:00"
+  },
+  {
+    "id": "916fab7f78d5c688",
+    "title": "Matador expands San Mateo midstream with Delaware basin gas deals",
+    "link": "https://reut.rs/3W99dfl",
+    "date": "2026-11-02",
+    "summary": "Oil and gas company Matador Resources said on Monday its San Mateo Midstream joint venture has ​signed two long-term agreements with a large producer ‌in the Northern Delaware basin, expanding its natural gas gathering and processing footprint in New Mexico.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.104323+00:00"
+  },
+  {
+    "id": "47fe6c45cf74121e",
+    "title": "India Petronet in talks with Qatar for delivery of delayed LNG cargoes",
+    "link": "https://reut.rs/4iip0B5",
+    "date": "2026-11-02",
+    "summary": "India's top gas importer Petronet LNG is in talks with Qatar to secure delivery of some of the at least ​90 liquefied natural gas cargoes delayed chiefly by the Middle East ‌crisis, said the company's CEO A.K. Singh.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.106324+00:00"
+  },
+  {
+    "id": "8404a9abf7e03440",
+    "title": "TotalEnergies spending more on US renewables as others exit, says CEO",
+    "link": "https://reut.rs/4iU2Mp2",
+    "date": "2026-11-02",
+    "summary": "French oil major TotalEnergies is benefiting from concerns about future growth in ​the US renewable energy market and taking ‌on more projects as other developers seek to exit, CEO Patrick Pouyanne said on Monday, describing the market ​as \"promising\" despite an upcoming reduction in policy ​support.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "france",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.111247+00:00"
+  },
+  {
+    "id": "cd4d46dbefeb3927",
+    "title": "Yemen's Houthis advance to within 80 km of Aden, sources say",
+    "link": "https://reut.rs/4iu3zvt",
+    "date": "2026-11-02",
+    "summary": "Yemen's Iran-aligned Houthis have advanced to ​within 80 km (50 miles) of Aden, the main stronghold and temporary capital of the country's internationally recognised ‌government, four military sources told Reuters on Monday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:35.114070+00:00"
+  },
+  {
+    "id": "43a487edd097f41a",
+    "title": "Tiny Ukrainian receiver intercepts Russian drone feeds in real time",
+    "link": "https://www.defensenews.com/industry/techwatch/2026/11/02/tiny-ukrainian-receiver-intercepts-russian-drone-feeds-in-real-time",
+    "date": "2026-11-02",
+    "summary": "A small new receiver can co-opt video from Russian unmanned systems, allowing Ukrainian drone operators to intercept enemy live feeds in real time, the device's makers said this month.",
+    "source": "Defense News (Industry)",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:36.720041+00:00"
+  },
+  {
+    "id": "5ca30f595b103684",
+    "title": "The fiscal risks of bringing US troops out of Europe",
+    "link": "https://breakingdefense.com/2026/11/the-fiscal-risks-of-bringing-us-troops-out-of-europe",
+    "date": "2026-11-02",
+    "summary": "Reducing America’s military footprint in Europe may seem fiscally prudent, but relocating troops and giving up overseas bases could leave US taxpayers with a much bigger bill.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:37.881136+00:00"
+  },
+  {
+    "id": "b307807e83321ed2",
+    "title": "Saab unveils new speed assault boat for Swedish Navy",
+    "link": "https://breakingdefense.com/2026/11/saab-unveils-new-speed-assault-boat-for-swedish-navy",
+    "date": "2026-11-02",
+    "summary": "“The CB90CX is designed for uncrewed operations from the outset,” Anders Hellman, head of Saab’s business unit in Docksta, told Breaking Defense.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:37.882294+00:00"
+  },
+  {
+    "id": "1d927f7cbbb9217f",
+    "title": "Greece inks deal for KC-390 fleet",
+    "link": "https://breakingdefense.com/2026/11/greece-inks-deal-for-kc-390-fleet",
+    "date": "2026-11-02",
+    "summary": "The purchase, arranged via a government-to-government agreement between Greece and Portugal, covers three KC-390 aircraft with options for up to six manufactured by Brazilian planemaker Embraer.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:37.884237+00:00"
+  },
+  {
+    "id": "7106c7a9862e7f02",
+    "title": "Pacific Command bolsters network defense with Cyber Defense Forces Pacific",
+    "link": "https://breakingdefense.com/2026/11/pacific-command-bolsters-network-defense-with-cyber-defense-forces-pacific",
+    "date": "2026-11-02",
+    "summary": "The new concept has sent personnel from Cyber Defense Command at Fort Meade to the Pacific theater.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:37.885382+00:00"
+  },
+  {
+    "id": "c433f6c069879696",
+    "title": "USNI News Fleet and Marine Tracker: Nov. 2, 2026",
+    "link": "https://news.usni.org/2026/11/02/usni-news-fleet-and-marine-tracker-nov-2-2026",
+    "date": "2026-11-02",
+    "summary": "These are the approximate positions of the U.S. Navy’s deployed carrier strike groups and amphibious ready groups throughout the world as of Nov. 2, 2026, based on Navy and public data. In cases in which a CSG or ARG is conducting disaggregated operations, the chart reflects the location of the capital ship. Total Battle Force Deployed Underway 286 (USS 228, USNS 58) 104 (USS 73, USNS 31) (46 FDNF, 58 Rotational) 76 (58 Deployed, 18 Local) In Japan USS Tripoli (LHA-7) is in port in Sasebo, Japan. Amphibious assault ship USS Makin Island (LHD-8) is in Yokosuka, Japan. The Makin Island",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:39.117956+00:00"
+  },
+  {
+    "id": "bb3259bbb100e6e7",
+    "title": "China’s New Drone Carrier Launches, Recovers First Autonomous Combat Aircraft",
+    "link": "https://news.usni.org/2026/11/02/chinas-new-drone-carrier-launches-recovers-first-autonomous-combat-aircraft",
+    "date": "2026-11-02",
+    "summary": "The Chinese Navy’s new Type 076 drone carrier launched and recovered a stealthy unmanned combat aerial vehicle for the first time last week in the service’s latest effort to bring the new vessel online. Sichuan (51) carried out flight operations with the GJ-21 stealth reconnaissance-strike drone, according to a People’s Liberation Army Navy news release on Friday. Aside from a graphic, no media of the event has been released. “Since beginning its maiden sea trial in November 2025, Sichuan has steadily conducted a series of scheduled maritime tests, successfully completing the commissioning of…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:39.122436+00:00"
+  },
+  {
+    "id": "a31f11479bbe9641",
+    "title": "Enterprise Hulk Towed from Newport News Shipbuilding",
+    "link": "https://news.usni.org/2026/11/02/enterprise-hulk-towed-from-newport-news-shipbuilding",
+    "date": "2026-11-02",
+    "summary": "The hulk of former nuclear aircraft carrier USS Enterprise (CVN-65) was towed from a pier at Newport News Shipbuilding on Monday, almost 15 years after its final deployment, USNI News has learned. “Ex-Enterprise began its final transit this morning, departing Newport News Shipbuilding for Mobile, Alabama, where the ship will be dismantled,” reads a Monday statement from PAE Maritime. The remnant “Big E” is now in route to Mobile, Ala., after a court battle between environmental disposal contractor NorthStar and HII over which company would oversee the final disposal. Last month, HII dropped a…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:39.127852+00:00"
+  },
+  {
+    "id": "85fa70e12b1e1e16",
+    "title": "Marine Force-Southeast Asia Will Maintain Continuous Presence in the Philippines",
+    "link": "https://news.usni.org/2026/11/02/marine-force-southeast-asia-will-maintain-continuous-presence-in-the-philippines",
+    "date": "2026-11-02",
+    "summary": "Marine Rotational Force-Southeast Asia is now on its second continuous rotation to the Philippines, the service announced last week. MRF-SEA held a rotation turnover on Oct. 26. MRF-SEA originally began as a six-month rotational force that deployed to the region from October to March but its mission was extended in April. The force is now providing a continuous presence in the Philippines at the invitation of the country’s government to continue cooperation with its military. MRF-SEA is one of two rotational forces operating under the aegis of I Marine Expeditionary Force, with the other…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:39.132015+00:00"
+  },
+  {
+    "id": "f17b160e18f98d69",
+    "title": "Inside the Secretive, Contradictory World of Campaign Ads Funded by AI Super PACs",
+    "link": "https://www.bellingcat.com/news/2026/11/02/ai-super-pacs-political-advertising",
+    "date": "2026-11-02",
+    "summary": "Become a member and support our work here. An online ad for Ben McAdams, the Democratic candidate for Congress in Utah, emphasised that he could be trusted because he “fought back against MAGA”. In Texas, another ad promoted Republican […]",
+    "source": "Bellingcat",
+    "source_region": "eu",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [
+      "intelligence"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:40.402474+00:00"
+  },
+  {
+    "id": "6088560f347f6488",
+    "title": "Nov 2026 News - Uranium US and China",
+    "link": "https://www.armscontrol.org/node/15551",
+    "date": "2026-11-02",
+    "summary": "Nov 2026 News - Uranium US and China U.S., China Expand Uranium Enrichment By Jocelyn Bridges in Arms Control Today Allen Harris Slide Image Slide URL link https://www.armscontrol.org/act/2026-11/news/us-china-expand-uranium-enrichment",
+    "source": "Arms Control Association",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:41.829752+00:00"
+  },
+  {
+    "id": "7c374bb91d1c98c0",
+    "title": "Nov. 2026 News - US and Iran",
+    "link": "https://www.armscontrol.org/node/15550",
+    "date": "2026-11-02",
+    "summary": "Nov. 2026 News - US and Iran U.S., Iran Threaten Escalation as Diplomacy Stalls By Kelsey Davenport and Shaghayegh Chris Rostampour in Arms Control Today Allen Harris Slide Image Slide URL link https://www.armscontrol.org/act/2026-11/news/us-iran-threaten-escalation-diplomacy-stalls",
+    "source": "Arms Control Association",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:41.832176+00:00"
+  },
+  {
+    "id": "39acd67f55fe6850",
+    "title": "Nov. News - P5",
+    "link": "https://www.armscontrol.org/node/15549",
+    "date": "2026-11-02",
+    "summary": "Nov. News - P5 Nuclear-Weapon States Consult as Trump Talks Denuclearization By Daryl G. Kimball in Arms Control Today Allen Harris Slide Image Slide URL link https://www.armscontrol.org/act/2026-11/news/nuclear-weapon-states-consult-trump-talks-denuclearization",
+    "source": "Arms Control Association",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:41.834302+00:00"
+  },
+  {
+    "id": "cf647f2428364581",
+    "title": "Charai for The Jerusalem Strategic Tribune: The Iran War: What Victory Must Achieve.",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/charai-for-the-jerusalem-strategic-tribune-the-iran-war-what-victory-must-achieve",
+    "date": "2026-11-02",
+    "summary": "",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:51.682556+00:00"
+  },
+  {
+    "id": "7b10f9fd0dd857c0",
+    "title": "Ukraine Needs Clear Rules and Safeguards for Private Intelligence Companies",
+    "link": "https://cepa.org/article/ukraine-needs-clear-rules-and-safeguards-for-private-intelligence-companies",
+    "date": "2026-11-02",
+    "summary": "The growing influence of private companies means they will face increased scrutiny in reforms to regulate Ukraine’s intelligence community.",
+    "source": "CEPA (Center for European Policy Analysis)",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:53.075106+00:00"
+  },
+  {
+    "id": "fad7f0445cf522bd",
+    "title": "India Stall Opens in Central Asia’s Military Bazaar",
+    "link": "https://cepa.org/article/india-stall-opens-in-central-asias-military-bazaar",
+    "date": "2026-11-02",
+    "summary": "As Russia can no longer keep a steady flow of weapons deliveries, Central Asia looks elsewhere.",
+    "source": "CEPA (Center for European Policy Analysis)",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:53.076121+00:00"
+  },
+  {
+    "id": "ee31e785d49857e4",
+    "title": "The New EU Approach to the Sahel: Strategic Value for Estonia",
+    "link": "https://icds.ee/en/the-new-eu-approach-to-the-sahel-strategic-value-for-estonia",
+    "date": "2026-11-02",
+    "summary": "Four years after the departure of the last Estonian troops from the Sahel, fighting between national armed forces, jihadists, and insurgent groups continues, while non-western extra-regional actors have solidified their foothold. To re-engage the region, the EU has formulated a new strategy, to which Estonia cannot afford to be indifferent.",
+    "source": "ICDS (Estonia)",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:55.618391+00:00"
+  },
+  {
+    "id": "2cf3e4d20fb3f24f",
+    "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
+    "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
+    "date": "2026-11-02",
+    "summary": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:58.217475+00:00"
+  },
+  {
+    "id": "5a654e3ad3da731e",
+    "title": "Russia's statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers",
+    "link": "https://therecord.media/hackers-ukraine-belarus-russia",
+    "date": "2026-11-02",
+    "summary": "An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:58.222366+00:00"
+  },
+  {
     "id": "a6f30a892d5105a5",
     "title": "An Important Message: The Coming Winter in Ukraine",
     "link": "https://missilematters.substack.com/p/an-important-message-the-coming-winter",
@@ -487,6 +1721,59 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-11-02T14:51:13.168960+00:00"
+  },
+  {
+    "id": "c0c1a53064e8b22c",
+    "title": "The Politicisation of Central European States’ Foreign Policies",
+    "link": "https://www.irsem.fr/publications/the-politicisation-of-central-european-states-foreign-policies-towards-ukraine-1",
+    "date": "2026-11-01",
+    "summary": "",
+    "source": "IRSEM",
+    "source_region": "fr",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [
+      "Étude 139",
+      "1 h 7 min de lecture"
+    ],
+    "fetched_at": "2026-11-03T13:41:05.189834+00:00"
+  },
+  {
+    "id": "3df81e110d8958cf",
+    "title": "Mitigating the Risks of AI Integration Into Nuclear Weapons Operations",
+    "link": "https://www.armscontrol.org/act/2026-11/features/mitigating-risks-ai-integration-nuclear-weapons-operations",
+    "date": "2026-11-01",
+    "summary": "Mitigating the Risks of AI Integration Into Nuclear Weapons Operations Anonymous (not verified)",
+    "source": "Arms Control Association",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:41.838175+00:00"
+  },
+  {
+    "id": "52918064e41cfdc8",
+    "title": "Nuclear-Weapon States Consult as Trump Talks Denuclearization",
+    "link": "https://www.armscontrol.org/act/2026-11/news/nuclear-weapon-states-consult-trump-talks-denuclearization",
+    "date": "2026-11-01",
+    "summary": "Nuclear-Weapon States Consult as Trump Talks Denuclearization Daryl G. Kimball",
+    "source": "Arms Control Association",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-03T13:41:41.839243+00:00"
   },
   {
     "id": "f293472549628860",
