@@ -1,5 +1,349 @@
 [
   {
+    "id": "db74d9cc18e29b40",
+    "title": "Un rapport parlementaire remet en cause le choix d’un châssis allemand pour le successeur du char Leclerc",
+    "link": "https://www.opex360.com/2026/11/11/un-rapport-parlementaire-remet-en-cause-le-choix-dun-chassis-allemand-pour-le-successeur-du-char-leclerc",
+    "date": "2026-11-11",
+    "summary": "Si le projet franco-allemand de Système principal de combat terrestre [MGCS] s’est embourbé et a donc pris du retard, c’est en grande partie dû aux désaccords sur certains choix technologiques entre les industriels concernés. Ainsi, s’agissant du char appelé à opérer aux côtés de plateformes robotisées au sein d’un «cloud de combat», KNDS France s’est...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:14.718238+00:00"
+  },
+  {
+    "id": "92f40f03cccaaf4f",
+    "title": "L’acteur Jean Gabin va donner son nom à la flottille de réserve de la Force maritime des fusiliers marins et commandos",
+    "link": "https://www.opex360.com/2026/11/11/lacteur-jean-gabin-va-donner-son-nom-a-la-flottille-de-reserve-de-la-force-maritime-des-fusiliers-marins-et-commandos",
+    "date": "2026-11-11",
+    "summary": "Cavalier indiscipliné dans les Gaietés de l’escadron [1932], inoubliable lieutenant aviateur Maréchal, au côté du non moins inoubliable capitaine de Boëldieu, incarné par Pierre Fresnay, dans la Grande illusion [1937], soldat en rupture de ban dans le Quai des brumes [1938], Jean Moncorgé, alias Jean Gabin, refusa d’interpréter des rôles de militaires après la Seconde...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:14.722685+00:00"
+  },
+  {
+    "id": "f6249e7aeac6a50f",
+    "title": "Japan’s Most Dangerous Military Constraint Is Time",
+    "link": "https://warontherocks.com/japans-most-dangerous-military-constraint-is-time",
+    "date": "2026-11-11",
+    "summary": "During a 2022 wargame I ran, bilateral planners reached a familiar barrier. U.S. forces needed to disperse from concentrated bases before the adversary’s first missile salvo. Participants believed Japan could grant emergency access to private land only after an attack, which would be too late — the authority’s trigger was also its deadline.This appeared to be a hard political constraint: the kind alliance planners record in after-action reports, script into next year’s exercise, and then carry, untested, into contingency plans, where assumptions harden into fact. But in 2022 one participant…",
+    "source": "War on the Rocks",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:24.289953+00:00"
+  },
+  {
+    "id": "2dc8106f1734032a",
+    "title": "How a Vitol trader's ties to JD Vance helped land a prized Venezuela oil contract",
+    "link": "https://reut.rs/3Wy6KeE",
+    "date": "2026-11-11",
+    "summary": "A week before the United States invaded Venezuela in January and captured its authoritarian leader, US Vice President J.D. Vance flew in Air Force Two for a visit to Montana's Yellowstone Club, an ultra-exclusive ski and golf resort.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.027707+00:00"
+  },
+  {
+    "id": "20b12f7cde067b26",
+    "title": "Moody's lifts India growth forecast, sees economy well positioned to sustain near 7% growth",
+    "link": "https://reut.rs/4zhSMuS",
+    "date": "2026-11-11",
+    "summary": "Broad-based economic growth and resilience to the energy supply shock from the Iran war prompted credit rating agency Moody's to ​raise its India growth forecast to 7% from 6.5% ‌for the fiscal year ending March 2027.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.041297+00:00"
+  },
+  {
+    "id": "bda20c6f2f78e175",
+    "title": "Gulf equities edge higher on Iran pause hopes, but Hormuz shipping concerns linger",
+    "link": "https://reut.rs/4BTBDdo",
+    "date": "2026-11-11",
+    "summary": "Most Gulf markets rose early Wednesday as whipsawing sentiment reflected both hopes of a pause ​in the US-Israeli war on Iran and worries ‌over shipping in the Strait of Hormuz.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.044141+00:00"
+  },
+  {
+    "id": "48a0bd1cd1ae0c47",
+    "title": "Japan's Eneos ups FY26 net profit forecast 48% on stronger oil prices",
+    "link": "https://reut.rs/4zbQOw0",
+    "date": "2026-11-11",
+    "summary": "Japan's largest oil refiner Eneos Holdings raised its fiscal ​2026 net profit forecast on Wednesday by 48% ‌to 615 billion yen ($3.87 billion), citing stronger-than-expected oil prices, despite a hefty impairment on renewable energy assets.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.064853+00:00"
+  },
+  {
+    "id": "e7dd7d53ede50ffd",
+    "title": "COMMENTARY: Trump’s Iran war pause is as costly as new strikes",
+    "link": "https://reut.rs/4ApEPvZ",
+    "date": "2026-11-11",
+    "summary": "As US President Donald Trump weighs his next steps in the Iran war, Gulf energy producers have adapted to a no-war, no-peace reality that is making their operations more expensive and risky. Even without renewed full-scale fighting, those additional costs could help put a floor under global oil prices.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.075001+00:00"
+  },
+  {
+    "id": "89a8dd959f22247b",
+    "title": "Drone attack causes fire in Russia's Baltic Sea port of Ust-Luga, governor says",
+    "link": "https://reut.rs/4zEyixn",
+    "date": "2026-11-11",
+    "summary": "A drone attack has caused a fire in ​the port area of Ust-Luga ‌by the Baltic Sea in Russia's northwest, injuring three workers, regional governor Aleksandr Drozdenko ​said on Telegram on ​Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.098248+00:00"
+  },
+  {
+    "id": "0f2df18e36fb0e76",
+    "title": "Russia arrests two suspected Polish spies in Kaliningrad, Interfax reports",
+    "link": "https://reut.rs/48Qw7uI",
+    "date": "2026-11-11",
+    "summary": "Russia's Federal Security Service (FSB) ​said on Wednesday it has arrested ⁠two people described as ​agents of the Polish secret ​services for gathering information on military facilities in Russia's western Kaliningrad region, ​Interfax reported.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "intelligence",
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.104531+00:00"
+  },
+  {
+    "id": "2ac30498664cf4d1",
+    "title": "Iran designates Argentina's navy and air force as 'terrorist organizations'",
+    "link": "https://reut.rs/4zctWMQ",
+    "date": "2026-11-11",
+    "summary": "Tehran has designated Argentina's navy and air force as \"terrorist organizations,\" Iran's Foreign Ministry ​said on Wednesday, in a reciprocal move ‌following Buenos Aires' designation of the Islamic Revolutionary Guards as a terrorist entity in April.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.109021+00:00"
+  },
+  {
+    "id": "85b18efeb6f93233",
+    "title": "EXCLUSIVE: PLA-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
+    "link": "https://reut.rs/4sPWGJO",
+    "date": "2026-11-11",
+    "summary": "A Chinese university with deep ties to the People's Liberation Army bought Nvidia's powerful H200 AI chips last ​month despite being on a US export blacklist, procurement records show, highlighting gaps in Washington's efforts to curb China's access to advanced technology.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.117291+00:00"
+  },
+  {
+    "id": "d9657681a88067f6",
+    "title": "Oil rises from two-month low as Hormuz shipping attacks offset Iran truce hopes",
+    "link": "https://reut.rs/3UngGqE",
+    "date": "2026-11-11",
+    "summary": "Oil prices rose on Wednesday after falling to two-month lows in the previous session, as the market swung between hopes for a de-escalation in the Iran ​war and concerns about ongoing attacks on shipping in the Strait of Hormuz.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.123331+00:00"
+  },
+  {
+    "id": "bb77836f4b9c39dc",
+    "title": "Senior Republican on US Senate banking panel calls on Nvidia CEO Huang to resign",
+    "link": "https://reut.rs/4ApsS9l",
+    "date": "2026-11-11",
+    "summary": "Republican US Senator Kevin Cramer from the Senate Banking Committee has called on ​Jensen Huang to step down as Nvidia CEO after revelations of the ‌tech executive's affair with a Chinese businesswoman alleged to be a spy for Beijing.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.127884+00:00"
+  },
+  {
+    "id": "3b57a792e8a8dd93",
+    "title": "Sniper rifles and ziplines: Iranian women train for combat in Tehran",
+    "link": "https://reut.rs/4sYEEp2",
+    "date": "2026-11-11",
+    "summary": "Iran's military opened a training centre for women to learn self-defence at Tehran's Azadi Square as the conflict with the United States continues.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.142126+00:00"
+  },
+  {
+    "id": "2d1aa59861577d0c",
+    "title": "US Treasury chief Bessent moved to military base after Iranian threats, NYT reports",
+    "link": "https://reut.rs/487cXkb",
+    "date": "2026-11-11",
+    "summary": "US Treasury Secretary Scott Bessent recently moved out of his home and onto a ​military base after Iranian threats against his ‌life, the New York Times reported on Tuesday, citing sources with knowledge of the matter.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.157138+00:00"
+  },
+  {
+    "id": "2d9c744b7819b325",
+    "title": "Drone attack leaves part of Ukraine's Kryvyi Rih without power",
+    "link": "https://reut.rs/4iGr4li",
+    "date": "2026-11-11",
+    "summary": "Power went out in part of the central Ukrainian city, ​Kryvyi Rih, following a drone attack, ‌which also affected water and heating systems, Oleksandr Vilkul, head of Kryvyi ​Rih's defence council, said on ​the Telegram messaging app early on ⁠Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.161684+00:00"
+  },
+  {
+    "id": "32629bdba4082b53",
+    "title": "Israel’s Rafael unveils new, larger cruise missile dubbed Super Ice",
+    "link": "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice",
+    "date": "2026-11-11",
+    "summary": "Super Ice is comparable in size to the US-made Tomahawk missile.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:38.253824+00:00"
+  },
+  {
+    "id": "6b3f01d55895e75c",
+    "title": "Report to Congress on Strategic Stability of the Golden Dome",
+    "link": "https://news.usni.org/2026/11/11/report-to-congress-on-strategic-stability-of-the-golden-dome",
+    "date": "2026-11-11",
+    "summary": "The following is the Nov. 4, 2026, Congressional Research Service report, Golden Dome: Potential Strategic Stability Considerations for Congress. From the Report The second Trump Administration has proposed to develop a “next-generation missile defense shield” against nuclear and conventional attacks that it has called a “Golden Dome for America.” Since the 1950s, Members of Congress have periodically debated the costs, feasibility, scope, and sufficiency of strategic defense systems that could limit damage to the U.S. homeland from a nuclear attack. In these debates, some Members have stated…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:39.495865+00:00"
+  },
+  {
+    "id": "da4bf3169594b940",
+    "title": "Small States Series. Sweden in Turbulent Times: From a Multi-Layered Security Policy to NATO and Back",
+    "link": "https://icds.ee/en/small-states-series-sweden-in-turbulent-times-from-a-multi-layered-security-policy-to-nato-and-back",
+    "date": "2026-11-11",
+    "summary": "Before joining NATO in 2024, Sweden pursued a multi-layered security policy built upon an extensive set of bilateral and multilateral agreements.",
+    "source": "ICDS (Estonia)",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:55.056900+00:00"
+  },
+  {
+    "id": "e36cd47710d53fc9",
+    "title": "Poland shuts down government services platform ePUAP following cyberattack",
+    "link": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
+    "date": "2026-11-11",
+    "summary": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:57.583676+00:00"
+  },
+  {
     "id": "e813d35fd50d8996",
     "title": "Thales confirme l’acquisition de radars GM200 MM/C par la Belgique",
     "link": "https://www.opex360.com/2026/11/10/thales-confirme-lacquisition-de-radars-gm200-mm-c-par-la-belgique",
@@ -567,6 +911,530 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-11-10T14:25:02.908883+00:00"
+  },
+  {
+    "id": "e3bbea4fbe59bd2d",
+    "title": "Naval Group a notifié un contrat de 180 millions d’euros à Saab pour équiper les futures frégates suédoises",
+    "link": "https://www.opex360.com/2026/11/10/naval-group-a-notifie-un-contrat-de-180-millions-deuros-a-saab-pour-equiper-les-futures-fregates-suedoises",
+    "date": "2026-11-10",
+    "summary": "En août 2025, la Norvège fit connaître son intention de se procurer au moins cinq frégates de Type 26 [ou classe City] auprès du britannique BAE Systems dans le cadre d’un investissement de 8,5 milliards d’euros. Et cela aux dépens, entre autres, du français Naval Group, qui avait soumis la candidature de sa Frégate de...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:14.727156+00:00"
+  },
+  {
+    "id": "314566d858a5676a",
+    "title": "Le norvégien Kongsberg Maritime développe un drone naval de lutte anti-sous-marine à partir d’un chalutier",
+    "link": "https://www.opex360.com/2026/11/10/le-norvegien-kongsberg-maritime-developpe-un-drone-naval-de-lutte-anti-sous-marine-a-partir-dun-chalutier",
+    "date": "2026-11-10",
+    "summary": "Dans un entretien accordé à Marine & Océans, le 9 novembre, le chef d’état-major de la Marine nationale [CEMM], l’amiral Christophe Cluzel, a dit souhaité «accélérer l’hybridation raisonnée» de la flotte, laissant ainsi entendre que le recours aux drones, qu’ils soient aériens ou de navals, se ferait de manière ordonnée. «Le système de forces que...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:14.730605+00:00"
+  },
+  {
+    "id": "1838e11f82b75e64",
+    "title": "Plus de 17 000 pièces détachées de F-35, d’une valeur totale de 1,3 milliard de dollars, manquent à l’appel",
+    "link": "https://www.opex360.com/2026/11/10/plus-de-17-000-pieces-detachees-de-f-35-dune-valeur-totale-de-13-milliard-de-dollars-manquent-a-lappel",
+    "date": "2026-11-10",
+    "summary": "Cet été, parce qu’un employé du prestataire logistique UPS a ignoré [ou manqué] un courriel adressé par la société de transport DSV A/S, mandatée par Lockheed Martin, des pièces d’un chasseur-bombardier F-35A australien, à savoir la verrière du cockpit et la trappe de la soute à munitions, ont pris la direction de Hong Kong au...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:14.734689+00:00"
+  },
+  {
+    "id": "90c0809d2247f2a5",
+    "title": "One Year After Busan: Has China Kept Its Rare Earth Promises?",
+    "link": "https://www.csis.org/analysis/one-year-after-busan-has-china-kept-its-rare-earth-promises",
+    "date": "2026-11-10",
+    "summary": "One year after Busan, China’s rare earth exports to the United States remain sharply below pre-restriction levels, even as global shipments hold steady. Beijing’s continued control over rare earth sup...",
+    "source": "CSIS",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:22.794060+00:00"
+  },
+  {
+    "id": "d92cf506ab5bd3aa",
+    "title": "To Implement Acquisition Transformation, Empower Military Mavericks",
+    "link": "https://warontherocks.com/cogs-of-war/to-implement-acquisition-transformation-empower-military-mavericks",
+    "date": "2026-11-10",
+    "summary": "“I wanted disciplined but not regimented thinking. Commanders must encourage intellectual risk-taking to preclude a lethargic environment. Leaders must shelter those challenging nonconformists and mavericks who make institutions uncomfortable; otherwise you wash out innovation.”— James Mattis & Bing West, Call Sign ChaosFor the last decade, the Pentagon has had the authorities to buy commercially derived technologies at speed and scale, but not enough people who know how to use those authorities. Successive senior Pentagon leaders, both military and civilian, have asserted that these…",
+    "source": "War on the Rocks",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:24.299408+00:00"
+  },
+  {
+    "id": "ceb50f6b9ddddcd7",
+    "title": "Nigeria approves 145 new oil wells so far this year, regulator says",
+    "link": "https://reut.rs/4tceZcB",
+    "date": "2026-11-10",
+    "summary": "Nigeria's upstream oil regulator has approved ​145 new well-drilling operations, 595 well re-entries and ‌39 field development plans (FDPs) so far this year as it seeks to boost crude output, attract investment and strengthen ​energy security, a senior official said on ​Tuesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.171181+00:00"
+  },
+  {
+    "id": "e612da02341c6b9d",
+    "title": "Poland's Orlen ends long-term QatarEnergy LNG contract over delivery failure",
+    "link": "https://reut.rs/4iGknja",
+    "date": "2026-11-10",
+    "summary": "Poland's largest energy group ​Orlen said on Tuesday it ‌terminated one of its two long-term liquefied natural gas supply contracts with QatarEnergy ​after an ongoing force majeure left ​the supplier unable to meet its ⁠delivery obligations.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.174329+00:00"
+  },
+  {
+    "id": "2c6f358a7fd8231a",
+    "title": "Trump administration finalizes $480 million loan to Arena, in first such aid to oil and gas",
+    "link": "https://reut.rs/4eYnfGY",
+    "date": "2026-11-10",
+    "summary": "The Trump administration closed a $480 million loan to the private, Texas-based Arena Energy to help boost oil and natural gas production in the Gulf of Mexico, the Department ​of Energy said on Tuesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.177280+00:00"
+  },
+  {
+    "id": "666bb95272d98e1f",
+    "title": "Latvia, Lithuania warn of threat in airspace near Belarus",
+    "link": "https://reut.rs/3WWJF5i",
+    "date": "2026-11-10",
+    "summary": "People in Latvia's ​Ludza region along ‌the Belarus border were told to ​take shelter ​because of an airspace ⁠threat, the ​Latvian army said ​on Tuesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.181412+00:00"
+  },
+  {
+    "id": "adc7d55626011b98",
+    "title": "Fire contained at Iran's South Pars gas platform, Fars says",
+    "link": "https://reut.rs/4zzzWAp",
+    "date": "2026-11-10",
+    "summary": "A fire that broke ​out on a platform at Iran's South ‌Pars gas field, the world's largest offshore natural gas field, was contained on Tuesday, the ​semi-official Fars news agency reported, citing ​the deputy oil minister.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.207524+00:00"
+  },
+  {
+    "id": "5781f7fba8582577",
+    "title": "Schumer says Congress must have answers on Trump defense of Nvidia CEO",
+    "link": "https://reut.rs/4zPiNCI",
+    "date": "2026-11-10",
+    "summary": "Senate Democratic Leader Chuck Schumer on Tuesday said ‌Congress must have a full accounting of President Donald Trump's defense of Nvidia CEO Jensen Huang and called on lawmakers to quickly approve new restrictions on US chip exports to China.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.210133+00:00"
+  },
+  {
+    "id": "2ef04415183b7ad1",
+    "title": "UK arrests US Army member suspected of helping Russia",
+    "link": "https://reut.rs/48b8mxq",
+    "date": "2026-11-10",
+    "summary": "A senior member ​of the US Army was arrested ‌in Britain on suspicion of assisting Russian intelligence, British police said on Tuesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.220092+00:00"
+  },
+  {
+    "id": "55449d3cf8de20d3",
+    "title": "Tankers continue to burn in the Middle East despite hopes for de-escalation",
+    "link": "https://reut.rs/3Vd4JUG",
+    "date": "2026-11-10",
+    "summary": "Despite market bets on a de-escalation in the Iran war, new evidence has emerged in recent days of strikes on tankers in the Strait of Hormuz and on energy infrastructure in the Middle East.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.223975+00:00"
+  },
+  {
+    "id": "acfc67dfa61e336d",
+    "title": "Explainer: How would impeaching Pentagon chief Hegseth work?",
+    "link": "https://reut.rs/4AgqW38",
+    "date": "2026-11-10",
+    "summary": "US Defense Secretary Pete Hegseth could be impeached by the House of Representatives this week on charges of abusing his power, including by going to war with Iran without an imminent threat or congre...",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.230643+00:00"
+  },
+  {
+    "id": "903d515d75cbb878",
+    "title": "Gulf Arab states approve military command headquarters in Kuwait",
+    "link": "https://reut.rs/4AnMriC",
+    "date": "2026-11-10",
+    "summary": "The six Gulf Cooperation Council states have approved the establishment of an ​advanced headquarters for their Unified Military Command ‌in Kuwait and the deployment of \"appropriate\" forces to it, the bloc's secretary-general said.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.289910+00:00"
+  },
+  {
+    "id": "0d083ccb17cd1be8",
+    "title": "Russia's Yandex says nearly 3% of cloud customer data lost after attacks",
+    "link": "https://reut.rs/48fYZfQ",
+    "date": "2026-11-10",
+    "summary": "Russian technology giant Yandex has restored 97.16% of customer data in ​its Yandex Cloud service after drone ‌attacks hit its infrastructure in October, while the rest is permanently lost, the company ​said on Tuesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.296952+00:00"
+  },
+  {
+    "id": "2018bbd9514d8d18",
+    "title": "Italy says EU nations failed to commit to Red Sea security",
+    "link": "https://reut.rs/4kHNPYy",
+    "date": "2026-11-10",
+    "summary": "European nations have ​taken no concrete steps to strengthen shipping protection in the Red ‌Sea, Italy's defence minister said on Tuesday, adding that governments have failed to respond to his calls to bolster the bloc's naval mission in the area.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.309470+00:00"
+  },
+  {
+    "id": "2214436e910d58c0",
+    "title": "Italy sees planned F-35 fighter jet spending rise by €7.3 billion",
+    "link": "https://reut.rs/4C0azcO",
+    "date": "2026-11-10",
+    "summary": "Italy's government is seeking parliamentary approval to increase ​planned investment in F-35 fighter ‌jets by €7.28 billion ($8.17 billion), lifting the programme's overall cost by more than ​50%, according to a parliamentary ​document.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:35.318256+00:00"
+  },
+  {
+    "id": "7482d21776ef5b09",
+    "title": "Allen Control Systems launches new division to develop counter-drone lasers",
+    "link": "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers",
+    "date": "2026-11-10",
+    "summary": "The announcement comes amid the Pentagon’s growing interest in laser weapons, which use concentrated beams of energy to heat and destroy targets.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:38.257810+00:00"
+  },
+  {
+    "id": "54af1e9752370454",
+    "title": "Remote mine hunters silently trawl the waters as minesweepers go by the wayside",
+    "link": "https://breakingdefense.com/2026/11/remote-mine-hunters-silently-trawl-the-waters-as-minesweepers-go-by-the-wayside",
+    "date": "2026-11-10",
+    "summary": "Autonomous capabilities give the Navy a way to clear mines without putting sailors in harm’s way.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:38.259486+00:00"
+  },
+  {
+    "id": "f0569a6d2cba67bc",
+    "title": "France awards $1.7 billion contract to Airbus-Thales team for new military satellites",
+    "link": "https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites",
+    "date": "2026-11-10",
+    "summary": "The IRIS orbiters will replace three current satellites in use, known as the Optical Space Component, with better technology to deliver clearer images and faster access to captured imagery.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "france",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:38.261738+00:00"
+  },
+  {
+    "id": "58446d18825f7f49",
+    "title": "Beyond the CMMC pause: Protecting the engineering data defense programs depend on",
+    "link": "https://breakingdefense.com/2026/11/beyond-the-cmmc-pause-protecting-the-engineering-data-defense-programs-depend-on",
+    "date": "2026-11-10",
+    "summary": "[Sponsored] Defense contractors need to share sensitive engineering information to keep programs moving. The pause in CMMC Phase II changes the certification timeline, but it does not reduce the need to protect that information across engineering, manufacturing, and suppliers.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:38.264791+00:00"
+  },
+  {
+    "id": "1f230494b0c22cae",
+    "title": "UK satellite decision looms as political fight heats up",
+    "link": "https://breakingdefense.com/2026/11/uk-satellite-decision-looms-as-political-fight-heats-up",
+    "date": "2026-11-10",
+    "summary": "A potential Lockheed Martin win in the UK’s £2.4 billion Skynet satellite competition is fueling a political debate over domestic manufacturing, British jobs and the country’s defense industrial ties.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:38.266891+00:00"
+  },
+  {
+    "id": "ec49b0ea8965c97b",
+    "title": "Why Britain needs a maritime-first defense strategy",
+    "link": "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy",
+    "date": "2026-11-10",
+    "summary": "As Germany and Poland build up their armies, Britain should look to its historic strengths at sea to secure its future role in European defense.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:38.268567+00:00"
+  },
+  {
+    "id": "f8cb85cfaf523b17",
+    "title": "Saildrone, Blue Water Autonomy Ruling Adds Restrictions to OTA Funding Model",
+    "link": "https://news.usni.org/2026/11/10/saildrone-blue-water-autonomy-ruling-adds-restrictions-to-ota-funding-model",
+    "date": "2026-11-10",
+    "summary": "PARIS — An acquisition tool that the Pentagon has recently favored now comes with more strings attached following a late October ruling from a federal judge on a Navy drone boat program. Judge Philip Hadji, who sits on the Federal Court of Claims, asserts the court is a venue to challenge Other Transaction Authorities, providing a check against OTA awards from the Pentagon, according to the Oct. 30 ruling that was unsealed last week. Other transaction authority, an acquisition tool developed during the space race, has been the funding tool of choice for rapid acquisition across the Defense…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:39.501575+00:00"
+  },
+  {
+    "id": "461acf53034a3d85",
+    "title": "U.K. to Develop North Atlantic Network of Drones, AI Systems to Find Russian Subs",
+    "link": "https://news.usni.org/2026/11/10/u-k-to-develop-north-atlantic-network-of-drones-ai-systems-to-find-russian-subs",
+    "date": "2026-11-10",
+    "summary": "The U.K. will invest $120 million on a network of drones, sensors and AI systems for the Royal Navy to counter Russian submarines in the North Atlantic, the Ministry of Defense announced Tuesday. Dubbed “Atlantic Net,” the network is meant to enable the Royal Navy to better protect undersea cables and energy networks from Russian threats. “The UK will be more secure from Russian undersea threats in the North Atlantic following a new £90 million investment in new drones, sensors and AI systems for the Royal Navy,” reads the MOD news release. U.K. company Ocean Infinity Solutions was selected to",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:39.506857+00:00"
+  },
+  {
+    "id": "10235559598e1fc9",
+    "title": "GAO Report on the Defense Department’s F-35 Program",
+    "link": "https://news.usni.org/2026/11/10/gao-report-on-the-defense-departments-f-35-program",
+    "date": "2026-11-10",
+    "summary": "The following is the Nov. 9, 2026, Government Accountability Office report, F-35 Program: DOD Needs to Strengthen Oversight of Tens of Billions of Dollars in Parts. From the Report DOD’s F-35 aircraft program is the costliest in its history—its 26 million aircraft parts alone are worth around $31 billion. But we found that DOD struggles to account for these parts. For example, DOD’s records of its F-35 parts are outdated, inaccurate, and incomplete. And the F-35 program neither records all these parts during its physical inventories nor monitors losses of these parts. One reason for these…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:39.512308+00:00"
+  },
+  {
+    "id": "9da90ec3cb8e6c58",
+    "title": "The Trump effect on Europe’s climate goals",
+    "link": "https://thebulletin.org/premium/2026-11/the-trump-effect-on-europes-climate-goals",
+    "date": "2026-11-10",
+    "summary": "The European Union has repeatedly bowed to pressure from US president Donald Trump and his allies to weaken various climate policies. But the US-Iran war is also encouraging more investment in wind…",
+    "source": "Bulletin of the Atomic Scientists",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:43.347834+00:00"
+  },
+  {
+    "id": "e75e93d9e0f2feb2",
+    "title": "Ukraine’s new drone blitz cuts Russian oil refining capacity by 30 percent",
+    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/ukraines-new-drone-blitz-cuts-russian-oil-refining-capacity-by-30-percent",
+    "date": "2026-11-10",
+    "summary": "Ukraine has renewed attacks on Putin's energy industry in recent days, conducting a series of powerful strikes that have reportedly cut Russian oil refining capacity by around 30 percent and sparked fuel shortages across the country, writes Peter Dickinson.",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:51.508500+00:00"
+  },
+  {
+    "id": "f140aeaa088fe87e",
+    "title": "Europe sees surge in suspected Russian hybrid warfare incidents",
+    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/europe-sees-surge-in-suspected-russian-hybrid-warfare-incidents",
+    "date": "2026-11-10",
+    "summary": "Europe has witnessed a surge in suspected Russian hybrid warfare incidents in recent weeks. This is fueling concerns that Vladimir Putin is escalating his intimidation campaign against Ukraine’s partners, writes Maksym Beznosiuk.",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:51.511121+00:00"
+  },
+  {
+    "id": "6b1995d1c6b6c712",
+    "title": "Materials matter: Managing critical commodities for the next-generation energy economy",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/materials-matter-managing-critical-commodities-for-the-next-generation-energy-economy",
+    "date": "2026-11-10",
+    "summary": "As economies electrify, demand will grow for materials such as copper, steel, and durable plastics that underpin the energy system. Managing these materials' supply risks will be crucial to the new energy economy.",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:51.516023+00:00"
+  },
+  {
+    "id": "fa48440bd98bf522",
+    "title": "US Army member arrested in UK over allegations of spying for Russia",
+    "link": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
+    "date": "2026-11-10",
+    "summary": "The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "intelligence",
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-11T13:38:57.587383+00:00"
   },
   {
     "id": "8e30b35887607880",
