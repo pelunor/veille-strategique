@@ -1,5 +1,493 @@
 [
   {
+    "id": "86c0e652aad23504",
+    "title": "L’Italie prévoit de dépenser 7,3 milliards d’euros de plus pour sa flotte de chasseurs-bombardiers F-35A/B",
+    "link": "https://www.opex360.com/2026/11/12/litalie-prevoit-de-depenser-73-milliards-deuros-de-plus-pour-sa-flotte-de-chasseurs-bombardiers-f-35a-b",
+    "date": "2026-11-12",
+    "summary": "En 2009, le Parlement italien approuva le programme pluriannuel SMD 2/2009 relatif à l’acquisition et à la mise en œuvre de 131 chasseurs-bombardiers F-35 [dont 62 en version dite STOVL, c’est-à-dire à décollage court et à atterrissage vertical] et à l’implantation d’une usine d’assemblage de F-35 [FACO – Final Assembly and Check Out] à Cameri....",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:39.438626+00:00"
+  },
+  {
+    "id": "ffd7c528f086cad6",
+    "title": "The Promise of Biomanufacturing at the Edge",
+    "link": "https://warontherocks.com/cogs-of-war/the-promise-of-biomanufacturing-at-the-edge",
+    "date": "2026-11-12",
+    "summary": "As the old adage goes, “Amateurs talk strategy. Professionals talk logistics.” Military operations are utterly dependent on complex supply chains to move food, fuel, and other essential products across long distances and through contested environments to reach the warfighter. These vital supply lines are fragile at every stage: production concentrated in a single facility can be disrupted, key inputs may come from unreliable — or adversarial — foreign suppliers, and the ports, airfields, and roads that deliver goods the final mile are often the most vulnerable.The threat of this fragility…",
+    "source": "War on the Rocks",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:49.134926+00:00"
+  },
+  {
+    "id": "a546d852404bc07e",
+    "title": "Help wanted: AI firms court ex-spies as Nvidia drama spotlights security risks",
+    "link": "https://reut.rs/4Avqiio",
+    "date": "2026-11-12",
+    "summary": "AI firms are hiring former intelligence operatives to help shield them from espionage, a risk thrust into the spotlight as Nvidia grapples with reports of two ​extramarital affairs involving CEO Jensen Huang, one with an alleged Chinese spy.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.555541+00:00"
+  },
+  {
+    "id": "5a935881de561c27",
+    "title": "Finland says it detects strike on Russian warship in Baltic Sea",
+    "link": "https://reut.rs/4eqYkvG",
+    "date": "2026-11-12",
+    "summary": "Finland's military said on Thursday its forces had detected \"a strike\" on a Russian warship in the Baltic Sea a ​day earlier, but that the security situation in the ‌area remained stable.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.557781+00:00"
+  },
+  {
+    "id": "884172f7ef7f7d9b",
+    "title": "Norway security service says Russian intelligence could carry out sabotage in coming year",
+    "link": "https://reut.rs/4zAFaMe",
+    "date": "2026-11-12",
+    "summary": "There is good reason to expect that Russian intelligence will carry ​out sabotage in Norway in the coming ‌year, Norwegian security service PST said on Thursday, adding that there had been a serious ​development in the threat of sabotage ​in 2026.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.565388+00:00"
+  },
+  {
+    "id": "244a67cc08b26da6",
+    "title": "Wizz Air chief calls for Europe-wide coordination on bomb threats",
+    "link": "https://reut.rs/4BZG46D",
+    "date": "2026-11-12",
+    "summary": "Europe needs a more harmonised approach to security and a body to lead it against \"hybrid warfare\" following a ​recent series of bomb threats, the CEO of Hungarian budget airline Wizz ‌Air said on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.601002+00:00"
+  },
+  {
+    "id": "afd793139e22ece5",
+    "title": "Iranian men found guilty in UK of assisting Iranian intelligence",
+    "link": "https://reut.rs/3Xmg8SE",
+    "date": "2026-11-12",
+    "summary": "Two Iranian men were found guilty ​on Thursday of spying on ‌dissident journalists in Britain on behalf of Iranian intelligence, a case British police said reflected ​increasing activity by Iran.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.603876+00:00"
+  },
+  {
+    "id": "671a0bcf4a4b6185",
+    "title": "Explainer: Can a new US Congress mean an end to the Iran war?",
+    "link": "https://reut.rs/4BYpSm0",
+    "date": "2026-11-12",
+    "summary": "The American public wants the unpopular eight-month-long war on Iran to end, and showed it by handing President Donald Trump's Republicans a resounding defeat in last week's congressional elections.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.606178+00:00"
+  },
+  {
+    "id": "063f30c7e636b44c",
+    "title": "Car bomb kills Russian soldier near St Petersburg in latest targeted assassination",
+    "link": "https://reut.rs/4kchCse",
+    "date": "2026-11-12",
+    "summary": "A Russian military serviceman was killed after the car he was driving was ​blown up in the Pushkinsky District of St Petersburg, ​investigators said in Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.623154+00:00"
+  },
+  {
+    "id": "c9253f432d497273",
+    "title": "Nordic countries to work towards common defence deal, Norway says",
+    "link": "https://reut.rs/3UpDcPG",
+    "date": "2026-11-12",
+    "summary": "The Nordic countries of Norway, Sweden, Denmark, Finland and Iceland will work towards establishing a common defence deal in order to boost ​NATO's overall ability to deter and defend, Norway's Defence Minister ‌Tore Sandvik said on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.625930+00:00"
+  },
+  {
+    "id": "5c044ccc603422a6",
+    "title": "A Ukrainian army unit pioneered drone evacuations. Now it's scaling up",
+    "link": "https://reut.rs/4iDAQpD",
+    "date": "2026-11-12",
+    "summary": "The first time Ukrainian drone pilot \"KVN\" guided a giant unmanned hexacopter to rescue a wounded comrade, preparations ​for the operation took seven days.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.636532+00:00"
+  },
+  {
+    "id": "c0c005591deb48f6",
+    "title": "Turkey, Canada's AtkinsRealis sign deal for study on possible nuclear plant",
+    "link": "https://reut.rs/4k69SYN",
+    "date": "2026-11-12",
+    "summary": "Canada's AtkinsRealis said on Thursday it had signed an agreement with Turkish state-owned nuclear energy company ​TUNAS to conduct a feasibility study for a potential expansion of Turkey's ‌nuclear power programme.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.644562+00:00"
+  },
+  {
+    "id": "462768edbab5307a",
+    "title": "Nvidia customer Megaspeed says it cooperated with US inspections, takes export control laws seriously",
+    "link": "https://reut.rs/48dMvp2",
+    "date": "2026-11-12",
+    "summary": "Singapore-based cloud computing firm Megaspeed said on Thursday that it takes compliance obligations under US export control laws \"extremely seriously\" and that it has cooperated with ​US inspections.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.654917+00:00"
+  },
+  {
+    "id": "dd9e8b06576ed453",
+    "title": "COMMENTARY: COP31 electric push tests Europe's political realities",
+    "link": "https://reut.rs/4iNr2rT",
+    "date": "2026-11-12",
+    "summary": "Europe's climate ambitions are colliding with harsher economic and political realities as delegates at the COP31 climate summit push to accelerate global electrification, testing governments' resolve and voters' appetite for the energy transition.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.657775+00:00"
+  },
+  {
+    "id": "8bf0cb57b4038779",
+    "title": "Two oil tankers 'disabled' by explosions in Strait of Hormuz, IRGC says",
+    "link": "https://reut.rs/4BUwLVD",
+    "date": "2026-11-12",
+    "summary": "Two ​oil supertankers were disabled by massive ‌explosions after they ignored warnings against using an \"unauthorised route\" in the Strait of ​Hormuz on Wednesday night, Iran's Revolutionary ​Guards Navy said on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.660449+00:00"
+  },
+  {
+    "id": "b638445384ae2e7b",
+    "title": "Malaysia weighs law to monitor data centre operations, chips use, trade minister says",
+    "link": "https://reut.rs/4zhgQOq",
+    "date": "2026-11-12",
+    "summary": "Malaysia is considering a law that will allow the government to monitor data centre operations, including their use of high-performance chips, the trade minister ​said on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.665691+00:00"
+  },
+  {
+    "id": "3016c00218f30876",
+    "title": "Wizz Air warns of higher costs on top of fuel pressures",
+    "link": "https://reut.rs/4iMLCIH",
+    "date": "2026-11-12",
+    "summary": "Wizz Air said on Thursday it expects a mid-single-digit percentage increase in full-year unit costs excluding fuel, as airlines grapple with ​higher labour and airport expenses on top of the soaring ​price of jet fuel due to the Iran war.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.670591+00:00"
+  },
+  {
+    "id": "f75b084ead48b4a9",
+    "title": "Swiss finance ministry fines ex-Credit Suisse chair Rohner, public broadcaster reports",
+    "link": "https://reut.rs/4sWH47h",
+    "date": "2026-11-12",
+    "summary": "Switzerland's finance ministry has fined former Credit Suisse chairman Urs Rohner for giving ​false information to the country's financial watchdog ‌in a spying scandal that led to the departure of the lender's CEO in 2020, Swiss broadcaster ​SRF reported on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.689942+00:00"
+  },
+  {
+    "id": "c0c3ab7ecbcef68f",
+    "title": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
+    "link": "https://reut.rs/4zBN7AM",
+    "date": "2026-11-12",
+    "summary": "Chinese artificial ​intelligence companies are trying to rent Nvidia-powered computing capacity at data centres outside China, concerned that a scandal involving the US chipmaker's ‌chief executive Je...",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.695068+00:00"
+  },
+  {
+    "id": "23ed7c11ef074914",
+    "title": "Explainer: What is ASEAN and why does the bloc matter?",
+    "link": "https://reut.rs/4AvFhZK",
+    "date": "2026-11-12",
+    "summary": "Major powers will join a summit next week of Southeast Asian nations hosted by the Philippines against one of the most complex backdrops for the regional bloc, from the Iran war that has battered economies to the growing US-China rivalry.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.704288+00:00"
+  },
+  {
+    "id": "f4732d608c94df4f",
+    "title": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
+    "link": "https://reut.rs/4sUqpBe",
+    "date": "2026-11-12",
+    "summary": "Chinese artificial ​intelligence companies are trying to rent Nvidia-powered computing capacity at data centres outside China, concerned that a scandal involving the US chipmaker's ‌chief executive Jensen Huang could spur Washington to tighten restrictions on their remote use of advanced processors, three people familiar with the matter said.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.718057+00:00"
+  },
+  {
+    "id": "7ed514bf3eaf1357",
+    "title": "Could Huang, Nvidia and company's board be held liable over affair scandal?",
+    "link": "https://reut.rs/4zIqTNu",
+    "date": "2026-11-12",
+    "summary": "Reported ties between Jensen Huang, the CEO of AI powerhouse Nvidia, and a suspected Chinese spy have sparked an investigation by the FBI, calls for congressional hearings, a review by the company's i...",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.742886+00:00"
+  },
+  {
+    "id": "c59459a134ce3df6",
+    "title": "EXCLUSIVE: Chinese university bought Nvidia H200 chips despite US blacklist",
+    "link": "https://reut.rs/4AlcAOS",
+    "date": "2026-11-12",
+    "summary": "A university with ​deep ties to the People's Liberation Army bought the chips last month, highlighting gaps in Washington's efforts to curb China's access to advanced ‌technology.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.746681+00:00"
+  },
+  {
+    "id": "3842210f4f66821a",
+    "title": "Cyberattacks hit a third of Japan firms or their service providers this year",
+    "link": "https://reut.rs/4zIYOWx",
+    "date": "2026-11-12",
+    "summary": "One-third of Japanese firms have ​been hit by cyberattacks targeting either their own systems or those of external service providers this ‌year, a Reuters survey showed on Thursday, prompting companies to ramp up spending on cybersecurity.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.757012+00:00"
+  },
+  {
+    "id": "1bd2080fa9db9bb6",
+    "title": "Trump's ties to Nvidia CEO Jensen Huang in the spotlight",
+    "link": "https://reut.rs/4Axfctf",
+    "date": "2026-11-12",
+    "summary": "President Donald Trump's close ties with Nvidia CEO Jensen Huang have come under renewed scrutiny after revelations about the billionaire executive's affair with a Chinese businesswoman alleged to be a spy for Beijing.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.768078+00:00"
+  },
+  {
+    "id": "d64f0267cca0ac2f",
+    "title": "Saudi Arabia says debris from intercepted missiles falls in Mecca region",
+    "link": "https://reut.rs/4zK5BiK",
+    "date": "2026-11-12",
+    "summary": "Saudi Arabia said debris from two ballistic missiles intercepted by its air defences fell ​in the Mecca region on Wednesday, as the ‌kingdom and Yemen's Iran-aligned Houthi movement exchanged attacks in an escalating conflict.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.780017+00:00"
+  },
+  {
+    "id": "454ba27016b31f5b",
+    "title": "NATO nations have a missile crisis. How did it happen, and can it be fixed?",
+    "link": "https://breakingdefense.com/2026/11/nato-nations-have-a-missile-crisis-how-did-it-happen-and-can-it-be-fixed",
+    "date": "2026-11-12",
+    "summary": "Breaking Defense kicks off a new video roundtable series about the future of missiles and missile defense.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:02.895289+00:00"
+  },
+  {
+    "id": "1c4922070ea46c45",
+    "title": "Rethinking the pipeline for critical defense electronics",
+    "link": "https://breakingdefense.com/2026/11/rethinking-the-pipeline-for-critical-defense-electronics",
+    "date": "2026-11-12",
+    "summary": "[Sponsored] Closing the gap for space systems, EW and counter-UAS production.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:02.896452+00:00"
+  },
+  {
+    "id": "96ca286e5feea1d7",
+    "title": "Romania says it stopped Russian cyberattack targeting government emails",
+    "link": "https://therecord.media/romania-russia-cyberattack-emails",
+    "date": "2026-11-12",
+    "summary": "Romania's intelligence agency said it stopped a cyber-espionage campaign by Russian state-linked hackers before the group exfiltrated sensitive data.",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "intelligence",
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:22.677124+00:00"
+  },
+  {
+    "id": "d60106982525013d",
+    "title": "Kazakhstan-linked hackers used AI agent to spy on Central Asian governments",
+    "link": "https://therecord.media/kazakhstan-hackers-central-asia",
+    "date": "2026-11-12",
+    "summary": "Suspected Kazakhstan-linked hackers used an artificial intelligence agent to help spy on Central Asian governments, steal sensitive documents and infiltrate critical infrastructure networks, according to new research.",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "intelligence",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:22.679749+00:00"
+  },
+  {
     "id": "db74d9cc18e29b40",
     "title": "Un rapport parlementaire remet en cause le choix d’un châssis allemand pour le successeur du char Leclerc",
     "link": "https://www.opex360.com/2026/11/11/un-rapport-parlementaire-remet-en-cause-le-choix-dun-chassis-allemand-pour-le-successeur-du-char-leclerc",
@@ -342,6 +830,492 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-11-11T13:38:57.583676+00:00"
+  },
+  {
+    "id": "beff921858336940",
+    "title": "Too Slow: How to Increase European Missile Production",
+    "link": "https://missilematters.substack.com/p/too-slow-how-to-increase-european",
+    "date": "2026-11-11",
+    "summary": "Demand signals, supply-chain bottlenecks, and the options for European governments and industry",
+    "source": "Missile Matters",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:20.496589+00:00"
+  },
+  {
+    "id": "9656038111e7965d",
+    "title": "Le laboratoire (infernal) de Gaza. Avec Jean-Pierre Filiu",
+    "link": "https://www.iris-france.org/le-laboratoire-infernal-de-gaza-avec-jean-pierre-filiu",
+    "date": "2026-11-11",
+    "summary": "La multiplication des crises sur la scène internationale semble, malgré la diversité l’éloignement géographique de celles-ci, prendre sa source dans un même phénomène : l’effacement progressif du droit international au profit d’un monde où la force l’emporte sur les lois. Les « lignes rouges » que les grandes puissances prétendaient imposer ont été franchies sans conséquences à plusieurs reprises. L’impunité accordée aux uns a nourri l’ambition des autres. Au cœur de ces crises, Gaza fait office de laboratoire. Malgré l’entrée en vigueur d’un cessez-le-feu le 10 octobre 2025, de nombreuses…",
+    "source": "IRIS",
+    "source_region": "fr",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:35.266492+00:00"
+  },
+  {
+    "id": "ad26a690b66c7702",
+    "title": "Après Thales, l’allemand Helsing défie l’américain Palantir avec son logiciel de commandement et de contrôle Clarity",
+    "link": "https://www.opex360.com/2026/11/11/apres-thales-lallemand-helsing-defie-lamericain-palantir-avec-son-logiciel-de-commandement-et-de-controle-clarity",
+    "date": "2026-11-11",
+    "summary": "Actuellement, faute d’alternative européenne, l’Otan s’approprie le logiciel de commandement et de contrôle [C2] dopé à l’intelligence artificielle MSS NATO [pour Maven Smart System NATO], dérivé du projet Maven, confié par le Pentagone à l’américain Palantir. Un tel système vise à compiler et analyser d’énormes quantités de données collectées par une myriade de capteur de...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:39.442076+00:00"
+  },
+  {
+    "id": "6bc783de850113a7",
+    "title": "Guard appears to rebuke Hegseth's delegation at Tomb of the Unknown Soldier",
+    "link": "https://reut.rs/4jaNIU9",
+    "date": "2026-11-11",
+    "summary": "A US Army sentinel guarding the Tomb of the Unknown Soldier appeared to rebuke Defense Secretary Pete Hegseth's delegation on Wednesday after ​laughter could be heard as they climbed the steps of the ...",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.784246+00:00"
+  },
+  {
+    "id": "f206a738f52b4b06",
+    "title": "Missed Hegseth vote disappointed Americans, Democratic leader says",
+    "link": "https://reut.rs/4kScKIW",
+    "date": "2026-11-11",
+    "summary": "US Representative Katherine Clark, the House Democratic whip, ‌told colleagues on Wednesday that Democrats who missed a vote on the impeachment of Defense Secretary Pete Hegseth disappointed the Ameri...",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.789109+00:00"
+  },
+  {
+    "id": "f97f09bf6bd11a45",
+    "title": "Missed Hegseth vote disappointed Americans, Democratic leader says",
+    "link": "https://reut.rs/4esgrRR",
+    "date": "2026-11-11",
+    "summary": "US Representative Katherine Clark, the House Democratic whip, ‌told colleagues on Wednesday that Democrats who missed a vote on the impeachment of Defense Secretary Pete Hegseth disappointed the American people, according to one person in the room and another briefed on the episode.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.792218+00:00"
+  },
+  {
+    "id": "df87ac9a20b819c2",
+    "title": "Instant View: Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+    "link": "https://reut.rs/4BW2QfB",
+    "date": "2026-11-11",
+    "summary": "Nvidia's board is preparing to oust CEO Jensen Huang after he had two extramarital affairs, ​including one with a suspected Chinese spy, the ‌Wall Street Journal reported on Wednesday, citing people familiar with the matter.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.795462+00:00"
+  },
+  {
+    "id": "d46d9da917134b62",
+    "title": "Nvidia is preparing to oust CEO Jensen Huang, WSJ reports",
+    "link": "https://reut.rs/4f4Jvit",
+    "date": "2026-11-11",
+    "summary": "Nvidia's board is preparing to oust CEO ​Jensen Huang after he had ‌two extramarital affairs, including one with a suspected Chinese spy, the ​Wall Street Journal reported on ​Wednesday, citing people familiar with ⁠the matter.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.802732+00:00"
+  },
+  {
+    "id": "431c5feb9b995cf9",
+    "title": "House Republicans push for Nvidia's Huang to testify, float subpoena over spy allegations",
+    "link": "https://reut.rs/4j9Ipo2",
+    "date": "2026-11-11",
+    "summary": "A trio of House Republicans are unlikely to allow Nvidia CEO Jensen Huang to ​send his company's general counsel to answer questions on his ‌behalf about his alleged relationship with a Chinese spy, according to a person familiar with the discussions.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.806448+00:00"
+  },
+  {
+    "id": "0511701189a7e86b",
+    "title": "Breakingviews - COMMENTARY: SoftBank’s turbine snafu spins AI trade around",
+    "link": "https://reut.rs/4BVREj5",
+    "date": "2026-11-11",
+    "summary": "From gas kit maker GE Vernova to contractor Quanta Services, stocks ​of firms helping to ​build out data centers have risen ⁠wildly. Investors were already ​turning skeptical. The Japanese giant’s $4 bln ​hit from canceled orders is another signal that demand may be overstated.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.816410+00:00"
+  },
+  {
+    "id": "93512e62ea8ebcd4",
+    "title": "How Nvidia CEO Jensen Huang got entangled in a China chip and spy scandal",
+    "link": "https://reut.rs/4AvPrJU",
+    "date": "2026-11-11",
+    "summary": "A controversy surrounding Nvidia CEO Jensen Huang and the chipmaker's China business has spiraled into a national-security and political storm, drawing scrutiny from lawmakers, the company's board and investors.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.824723+00:00"
+  },
+  {
+    "id": "eb015f3478141df4",
+    "title": "Wachtell, Nvidia's pick for Huang probe, built reputation in boardroom battles",
+    "link": "https://reut.rs/4zidISz",
+    "date": "2026-11-11",
+    "summary": "Nvidia has become the latest company in ​crisis to turn to Wall Street law firm Wachtell, Lipton, Rosen & Katz, as the chipmaker faces fallout from ‌reports that CEO Jensen Huang had an affair with a businesswoman alleged to be a spy for China.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.859783+00:00"
+  },
+  {
+    "id": "4ceec2899ff04166",
+    "title": "Explainer: Could Huang, Nvidia and company's board be held liable over affair scandal?",
+    "link": "https://reut.rs/4t3Pp9p",
+    "date": "2026-11-11",
+    "summary": "Reported ties between Jensen Huang, the CEO of AI powerhouse Nvidia, and a suspected Chinese spy have sparked an investigation by the FBI, calls for congressional hearings, a review by the company's independent directors and a proposed investor class action lawsuit.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.873686+00:00"
+  },
+  {
+    "id": "7ec50c6a372f6a1d",
+    "title": "OPEC+ oil output in October nears pre-Iran war rate, led by Saudi Arabia",
+    "link": "https://reut.rs/3X1OrOW",
+    "date": "2026-11-11",
+    "summary": "OPEC+ crude oil production jumped in October, led by a sharp increase in output from Saudi Arabia despite continued disruption to shipments through the Strait of ​Hormuz caused by the Iran war.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.893607+00:00"
+  },
+  {
+    "id": "892bd71c17bffd26",
+    "title": "Saudi air defences intercept three Houthi cruise missiles launched toward Riyadh",
+    "link": "https://reut.rs/3UHr9NH",
+    "date": "2026-11-11",
+    "summary": "Saudi air defences intercepted Houthi missiles launched toward the Riyadh region for the second ​consecutive day on Wednesday, according to ‌the Saudi-led military coalition fighting the Yemeni Iran-aligned group.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.896246+00:00"
+  },
+  {
+    "id": "04157a361f9f32fd",
+    "title": "Russia says military-to-military contacts with Britain are possible if London reaches out",
+    "link": "https://reut.rs/4zbPFV6",
+    "date": "2026-11-11",
+    "summary": "Russia's Defence Ministry would be willing to speak with its British counterpart if London reached ​out, Maria Zakharova, a spokeswoman for the Russian ‌Foreign Ministry, said on Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.913864+00:00"
+  },
+  {
+    "id": "331a21d58f3ca899",
+    "title": "German military promises action after report shows widespread sexual abuse",
+    "link": "https://reut.rs/4AvO6Tj",
+    "date": "2026-11-11",
+    "summary": "German Defence Minister Boris Pistorius promised new measures to combat sexual abuse in the military on Wednesday after a report showed widespread misconduct at a time the ​armed forces are trying to attract more young women to the ranks.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.919391+00:00"
+  },
+  {
+    "id": "9a0907aee36518ba",
+    "title": "Romanian intelligence agency says it identified Russian-linked cyber attack",
+    "link": "https://reut.rs/4iCcTil",
+    "date": "2026-11-11",
+    "summary": "A hacking group linked to Russia's FSB security service staged a cyberattack on a Romanian government organisation ​last year, the country's intelligence agency said on Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "intelligence",
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.934661+00:00"
+  },
+  {
+    "id": "81b97b907f6093ee",
+    "title": "Russia turns to giant plastic bags to store unexported grain as Black Sea trade stalls",
+    "link": "https://reut.rs/3WApfPu",
+    "date": "2026-11-11",
+    "summary": "With Black Sea drone attacks disrupting trade ​for the world's biggest wheat exporter, Russian farmers are turning to an innovative storage option.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.939516+00:00"
+  },
+  {
+    "id": "5795d5fcec67ca45",
+    "title": "PODCAST: Hegseth impeachment blocked, Nvidia's board and fridge hack",
+    "link": "https://reut.rs/4zF7u03",
+    "date": "2026-11-11",
+    "summary": "House Republicans block an effort to impeach US Defense Secretary Pete Hegseth.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:59.942556+00:00"
+  },
+  {
+    "id": "1a96ca79cc07916d",
+    "title": "Inside Warhound’s plan to engineer a better military working dog",
+    "link": "https://www.defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog",
+    "date": "2026-11-11",
+    "summary": "The company plans to clone top-performing dogs, edit genes associated with health problems and introduce standardized training to puppies as young as two weeks old.",
+    "source": "Defense News (Industry)",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:01.799741+00:00"
+  },
+  {
+    "id": "fbb52c2cf6051824",
+    "title": "DoD pushes out 3 loans totaling $450M to bolster US space companies",
+    "link": "https://breakingdefense.com/2026/11/dod-pushes-out-3-loans-totally-450m-to-bolster-us-space-companies",
+    "date": "2026-11-11",
+    "summary": "One industry source told Breaking Defense that the reason for the spate of new loan announcements is that the Pentagon “needed to finalize loans by the end of the fiscal year.”",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:02.898722+00:00"
+  },
+  {
+    "id": "6c097f0af072931c",
+    "title": "Poland says Pentagon supports permanent US base, with decision expected in December",
+    "link": "https://breakingdefense.com/2026/11/poland-says-pentagon-supports-permanent-us-base-with-decision-expected-in-december",
+    "date": "2026-11-11",
+    "summary": "Warsaw has identified four potential locations for a base that could accommodate 5,000 US troops and their families, and is offering to spend up to $4.4 billion on supporting infrastructure.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:02.901100+00:00"
+  },
+  {
+    "id": "b00c95f1f6589563",
+    "title": "EU sets out $3.4B defense budget for 2027, boosts Ukraine spending",
+    "link": "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending",
+    "date": "2026-11-11",
+    "summary": "The new fiscal uplift comes in the wake of Ukraine President Volodymyr Zelenskyy telling European leaders last month that “we need at least €70 billion more from you.”",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:02.903272+00:00"
+  },
+  {
+    "id": "1691b7a45e07d56d",
+    "title": "The Army’s coming C2 challenge is fighting across thousands of miles",
+    "link": "https://breakingdefense.com/2026/11/the-armys-coming-c2-challenge-is-fighting-across-thousands-of-miles",
+    "date": "2026-11-11",
+    "summary": "Breaking down stovepipes, managing data and enabling better decision making are key components of the Army’s NGC2 plan.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:02.904809+00:00"
+  },
+  {
+    "id": "d97d0e3f8ea5fcaa",
+    "title": "Australian Army’s littoral transformation is the right move, experts say",
+    "link": "https://breakingdefense.com/2026/11/australian-armys-littoral-transformation-is-the-right-move-experts-say",
+    "date": "2026-11-11",
+    "summary": "The introduction of two new classes of landing craft would introduce capabilities that the Australian Army has not operated in recent times, an expert told Breaking Defense.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:02.906772+00:00"
+  },
+  {
+    "id": "18f21b483943de61",
+    "title": "NATO taps Ukraine as red-team in drills to ‘trigger an adaptation cycle’",
+    "link": "https://breakingdefense.com/2026/11/nato-taps-ukraine-as-red-team-in-drills-to-trigger-an-adaptation-cycle",
+    "date": "2026-11-11",
+    "summary": "“What we’ve done so far, we took some experience from Ukraine, for example, where we hid some Ukrainian forces and Ukrainian-made USVs, and made them the red team against the blue force of NATO,” Adm. Pierre Vander told Breaking Defense.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:02.909438+00:00"
+  },
+  {
+    "id": "5cade22a90742163",
+    "title": "Turkey prepares to withdraw from base in Iraq in shift for Ankara-Baghdad relations: Analysts",
+    "link": "https://breakingdefense.com/2026/11/turkey-prepares-to-withdraw-from-base-in-iraq-in-shift-for-ankara-baghdad-relations-analysts",
+    "date": "2026-11-11",
+    "summary": "The move “comes amid broader efforts to stabilize the region and potentially establish a new regional security architecture based on greater regional ownership and responsibility,” according to defense analyst Ali Bakir.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:02.912058+00:00"
+  },
+  {
+    "id": "4ac20a5464143796",
+    "title": "Ukraine firm Fire Point hopes for extension of Starshield coverage beyond Ukraine’s borders",
+    "link": "https://breakingdefense.com/2026/11/ukraine-firm-fire-point-hopes-for-extension-of-starshield-coverage-beyond-ukraines-borders",
+    "date": "2026-11-11",
+    "summary": "“If we had the possibility to expand Starshield licenses, not just on the temporarily occupied territories, but also a little bit further, like 200 to 300 kilometers, [that] could dramatically impact how Ukraine fights [Russia’s] ballistic attacks on civilians,” Fire Point CEO Iryna Terekh told Breaking Defense.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:02.917105+00:00"
+  },
+  {
+    "id": "8f8b493215c1e03d",
+    "title": "VR Goggles Get Dual Use for Suicide Prevention, Counter-drone Training",
+    "link": "https://news.usni.org/2026/11/11/vr-goggles-get-dual-use-for-suicide-prevention-counter-drone-training",
+    "date": "2026-11-11",
+    "summary": "CAMP PENDLETON, Calif. — The global proliferation of cheap, small unmanned aerial systems that threaten troops has military services racing to incorporate counter-drone training as a top combat readiness priority. In 2025, the 1st Marine Logistics Group’s Headquarters and Service Battalion purchased a virtual-reality goggles kit for its Marines and sailors to learn how to neutralize drones. Around the same time, the battalion was focusing on building resiliency and force readiness. Trainers soon realized the VR technology had other uses. The VR goggles use software modules that integrate AI…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:04.125585+00:00"
   },
   {
     "id": "e813d35fd50d8996",
@@ -1435,6 +2409,24 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-11-11T13:38:57.587383+00:00"
+  },
+  {
+    "id": "2b49f64274af7d08",
+    "title": "The OSINT Newsletter - Issue #130",
+    "link": "https://osintnewsletter.com/p/130",
+    "date": "2026-11-10",
+    "summary": "OSINT Tool Tuesday: MW Geofind",
+    "source": "The OSINT Newsletter",
+    "source_region": "other",
+    "subject_region": "other",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [
+      "intelligence"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:41:26.622720+00:00"
   },
   {
     "id": "8e30b35887607880",
@@ -13221,6 +14213,22 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-10-25T10:40:46.068044+00:00"
+  },
+  {
+    "id": "ecb23f29094346ee",
+    "title": "Yevgeniya Gaber discusses Black Sea Security as Russia tests regional NATO allies",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/yevgeniya-gaber-discusses-black-sea-security-as-russia-tests-regional-nato-allies",
+    "date": "2026-10-24",
+    "summary": "",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-12T14:42:16.048719+00:00"
   },
   {
     "id": "df3a1693dc71c04a",
