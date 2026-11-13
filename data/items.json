@@ -1,5 +1,411 @@
 [
   {
+    "id": "0f2a0b1002fd8888",
+    "title": "Guerre en Ukraine : quel est le plan des Européens pour revenir dans le jeu des négociations ?",
+    "link": "https://legrandcontinent.eu/fr/2026/11/13/guerre-en-ukraine-quel-est-le-plan-des-europeens-pour-revenir-dans-le-jeu-des-negociations",
+    "date": "2026-11-13",
+    "summary": "Paris et Berlin sont réticents à l’idée de désigner un représentant européen L’article Guerre en Ukraine : quel est le plan des Européens pour revenir dans le jeu des négociations ? est apparu en premier sur Le Grand Continent .",
+    "source": "Le Grand Continent",
+    "source_region": "eu",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:16.064251+00:00"
+  },
+  {
+    "id": "ae7512a083a25fd6",
+    "title": "La géopolitique vue par Mélenchon",
+    "link": "https://www.iris-france.org/la-geopolitique-vue-par-melenchon",
+    "date": "2026-11-13",
+    "summary": "À l’approche de l’élection présidentielle de 2027, Jean-Luc Mélenchon vient de dévoiler son programme. Que défend-il concernant la politique étrangère ? Son projet est présenté comme une réponse à la déstabilisation de l’ordre international. S’il entend rompre avec certaines orientations de l’Union européenne et organiser un retrait progressif de l’OTAN, il réaffirme parallèlement son attachement au multilatéralisme et au rôle des institutions internationales, notamment l’ONU et la Cour pénale internationale. Cette vision se traduit notamment par une volonté de rupture stratégique avec…",
+    "source": "IRIS",
+    "source_region": "fr",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:42.020714+00:00"
+  },
+  {
+    "id": "ce010ac977d8aa42",
+    "title": "L’Espagne débloque 3 milliards d’euros pour acquérir des missiles de croisière JSM-SL et moderniser ses sous-marins S80",
+    "link": "https://www.opex360.com/2026/11/13/lespagne-debloque-3-milliards-deuros-pour-acquerir-des-missiles-de-croisiere-jsm-sl-et-moderniser-ses-sous-marins-s80",
+    "date": "2026-11-13",
+    "summary": "Si les choses s’étaient passées comme prévu, la marine espagnole [Armada española] aurait dû recevoir quatre nouveaux sous-marins de type S80, à propulsion diesel-électrique, entre 2015 et 2018, afin de remplacer ceux de la classe Agosta, acquis auprès de la France dans les années 1980. Mais c’était sans compter sur les difficultés que leur constructeur,...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:44.583935+00:00"
+  },
+  {
+    "id": "b71c8e6d1b116cc1",
+    "title": "PODCAST: Microsoft outage, Nvidia fallout and Ukraine drone evacuations",
+    "link": "https://reut.rs/4zLSJZt",
+    "date": "2026-11-13",
+    "summary": "A Microsoft outage disrupts email and communications for governments and businesses worldwide.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.657862+00:00"
+  },
+  {
+    "id": "79a0e740501a1f67",
+    "title": "Nvidia fallout throws spotlight on Southeast Asia's AI boom",
+    "link": "https://reut.rs/4C842wH",
+    "date": "2026-11-13",
+    "summary": "Southeast Asia's chip and data centre industries expect greater scrutiny after news of former Nvidia CEO Jensen Huang's affair ​with a suspected Chinese spy put the spotlight on Singapore and Malaysia, executives and analysts said.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.660460+00:00"
+  },
+  {
+    "id": "d2b19d8cd86aba32",
+    "title": "10 killed in clashes in Guinea after artisanal mining ban",
+    "link": "https://reut.rs/4BZJHt5",
+    "date": "2026-11-13",
+    "summary": "Ten people were killed in violent clashes with defence and security forces in a gold-producing region ​in northeastern Guinea, the country's Ministry of Territorial ‌Administration said in a statement.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.664569+00:00"
+  },
+  {
+    "id": "f6ff94a7ce7f9368",
+    "title": "Belgian ministers at odds over Iran's alleged role in refrigerator cyberattacks",
+    "link": "https://reut.rs/4kVdf50",
+    "date": "2026-11-13",
+    "summary": "Belgian Interior Minister Bernard Quintin said Iran was \"very likely\" behind the ​recent refrigerator cyberattacks on European shops, while ‌Foreign Minister Maxime Prévot said there was insufficient evidence to draw conclusions.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.673008+00:00"
+  },
+  {
+    "id": "26485ac0a808d910",
+    "title": "COMMENTARY: Morning Bid: AI's no good, very bad week",
+    "link": "https://reut.rs/3WFChv9",
+    "date": "2026-11-13",
+    "summary": "There is never a good time for one of the world's wealthiest men and biggest AI boosters to become ensnared in a scandal involving an affair with a potential Chinese spy, but this was a particularly bad time.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.679716+00:00"
+  },
+  {
+    "id": "4c93445608771ced",
+    "title": "Fed's Warsh to take stock of AI revolution as US public grows wary",
+    "link": "https://reut.rs/4zFkL8R",
+    "date": "2026-11-13",
+    "summary": "Federal Reserve officials expect artificial intelligence will reshape the US economy, an idea that proponents of the technology in Silicon Valley have plastered on billboards and TV and pushed in public debate as they channel trillions of dollars ​into data centers and billions into their bank accounts.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.686102+00:00"
+  },
+  {
+    "id": "152fc79d81de308b",
+    "title": "Canada to invest C$200 million in Woodfibre LNG to grow project's capacity, source says",
+    "link": "https://reut.rs/4AA9kPX",
+    "date": "2026-11-13",
+    "summary": "Canada's government will invest C$200 million ($140 million) in ​the Woodfibre LNG project under ‌construction near Squamish, British Columbia, said a person familiar with the ​matter, an investment that ​will increase announced capacity by up ⁠to 24%.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.697187+00:00"
+  },
+  {
+    "id": "397da11f4fe873fd",
+    "title": "South African rand steady as investors focus on next week's inflation data, rate decision",
+    "link": "https://reut.rs/4ze7tz3",
+    "date": "2026-11-13",
+    "summary": "The South African rand was steady in early trade on Friday, supported by softer ​oil prices and firmer commodity prices, as ‌local investors turned their attention to upcoming inflation data and the central bank's interest rate decision.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.713560+00:00"
+  },
+  {
+    "id": "bd127f16aed67414",
+    "title": "FACTBOX China's $3 billion-plus pipeline of Nvidia-powered AI data centres",
+    "link": "https://reut.rs/4f7M2sd",
+    "date": "2026-11-13",
+    "summary": "A Reuters review has identified more than $3 billion in Chinese computing projects built around Nvidia's restricted processors, even as the American chipmaker has said US export controls have effectively shut ​it out of the AI data-centre market in the world's second-biggest economy.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.721393+00:00"
+  },
+  {
+    "id": "d9a939aae7dda952",
+    "title": "IAEA increasingly concerned about Iranian enrichment plant, its report says",
+    "link": "https://reut.rs/3XoVtNR",
+    "date": "2026-11-13",
+    "summary": "The UN nuclear watchdog is \"increasingly concerned\" about a uranium-enrichment plant at Isfahan that Iran declared to it last ​year but has still not let the watchdog inspect, it said ‌in a confidential report on Iran on Friday seen by Reuters.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.724811+00:00"
+  },
+  {
+    "id": "548f54f202d4e764",
+    "title": "Four killed in Ukrainian drone strike on industrial zone in Russia's Volgograd, official says",
+    "link": "https://reut.rs/4zLFibX",
+    "date": "2026-11-13",
+    "summary": "Four people were killed and ‌two injured in a Ukrainian drone attack on an industrial zone in Russia's southern city of Volgograd, regional governor Andrei ​Bocharov said on Friday, the deadliest attack on the ​city so far.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.735119+00:00"
+  },
+  {
+    "id": "59eec65a350aa34c",
+    "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia",
+    "link": "https://reut.rs/3Xo0wOA",
+    "date": "2026-11-13",
+    "summary": "Nvidia has said US export controls have effectively shut it out of China's ​AI data-centre market, but a Reuters review has identified more than $3 billion in Chinese computing projects built around the American chipmaker's restricted processors.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.738805+00:00"
+  },
+  {
+    "id": "d2fc2c166ac3123f",
+    "title": "ASEAN faces Myanmar dilemma as some members pursue closer ties",
+    "link": "https://reut.rs/3UUhZxc",
+    "date": "2026-11-13",
+    "summary": "ASEAN is under increasing pressure at its upcoming summit to ease a five-year ban on Myanmar's military-backed leaders attending high-level meetings, after Thailand and several other members stepped ​up engagement despite the country's ongoing civil war.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.741363+00:00"
+  },
+  {
+    "id": "bc861b32ae9d7640",
+    "title": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz",
+    "link": "https://reut.rs/4iBOGJ4",
+    "date": "2026-11-13",
+    "summary": "Iran's Revolutionary Guards navy said a tanker carrying ​liquefied natural gas struck a naval ‌mine and suffered an explosion in the Strait of Hormuz on Friday while using what they ​described was an \"unauthorised and dangerous route\", ​state media reported.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.747634+00:00"
+  },
+  {
+    "id": "2dea5c20a4637682",
+    "title": "Iran's Guards say they targeted a US early-warning radar in Bahrain",
+    "link": "https://reut.rs/4sVjc3U",
+    "date": "2026-11-13",
+    "summary": "Iran's Revolutionary Guards said on Friday they targeted ​a US early-warning radar in Bahrain, ‌the first such claim of an attack on American military assets in a Gulf country ​since early September.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.758599+00:00"
+  },
+  {
+    "id": "1f11036f42e5f65b",
+    "title": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say",
+    "link": "https://reut.rs/4izT0bK",
+    "date": "2026-11-13",
+    "summary": "China carried out a large, unannounced military exercise across the western Pacific ​and around Taiwan in early November, in what officials in Taipei have described as a campaign of \"silent intimidation\" aimed at pressuring Taiwan ‌and other governments before major international meetings.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.767281+00:00"
+  },
+  {
+    "id": "de1f3dc56a31f6e6",
+    "title": "Australia's spy agency, federal police hit by Microsoft outage",
+    "link": "https://reut.rs/4zCzsc9",
+    "date": "2026-11-13",
+    "summary": "Australia's spy agency and federal police were among organisations caught up in ​an outage of Microsoft programmes on ‌Friday, with the government triggering an agreement to ensure priority restoration of services.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.770081+00:00"
+  },
+  {
+    "id": "cdbf9596e62ad0fb",
+    "title": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks",
+    "link": "https://reut.rs/4je1Dc7",
+    "date": "2026-11-13",
+    "summary": "Members of US President Donald Trump's AI task force met on Thursday ​and discussed ways to encourage critical US sectors to report AI-powered ‌cyberattacks, according to a Trump administration spokesperson.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.774787+00:00"
+  },
+  {
+    "id": "39ca004149039d4d",
+    "title": "EXCLUSIVE: Japan warns arms suppliers of deep order cuts as budget squeeze hits military buildup, sources say",
+    "link": "https://reut.rs/4iDeQLx",
+    "date": "2026-11-13",
+    "summary": "Japan has warned defence contractors of deep cuts to expected orders as fiscal constraints threaten ‌to scale back a military buildup that Prime Minister Sanae Takaichi's government says is needed to counter China, four people familiar with the matter said.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.777834+00:00"
+  },
+  {
+    "id": "2238d088c4e755ca",
+    "title": "Interview with Peter Rough: Europe in the middle and in the grey zone",
+    "link": "https://icds.ee/en/interview-with-peter-rough-europe-in-the-middle-and-in-the-grey-zone",
+    "date": "2026-11-13",
+    "summary": "Although Ukraine remains Russia's operational and strategic focus, Moscow looks at targets of opportunity, including in Europe. Meanwhile, the west's defence economics don't line up well in this grey zone campaign. However, horizontal response options need not be symmetric, and an economic campaign is a key part of pushing back on Russia. There are plenty of small technical steps we could take – if we have the political will to carry them out.",
+    "source": "ICDS (Estonia)",
+    "source_region": "eu",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:22.232706+00:00"
+  },
+  {
+    "id": "c6f658ab830a8075",
+    "title": "Southeast Asia must breed smarter rice to outlast El Niño – and the next one",
+    "link": "https://www.lowyinstitute.org/the-interpreter/southeast-asia-must-breed-smarter-rice-to-outlast-el-nino-and-the-next-one",
+    "date": "2026-11-13",
+    "summary": "Gene-edited rice offers Southeast Asia a defence against climate shocks, but only if smallholders can access it too.",
+    "source": "Lowy Institute - The Interpreter",
+    "source_region": "other",
+    "subject_region": "other",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:23.422554+00:00"
+  },
+  {
+    "id": "df8705fc270c3098",
+    "title": "NATO issues and then withdraws Russian taxi app travel advice for defense industry conference",
+    "link": "https://therecord.media/nato-issues-and-withdraws-guidance-over-russian-taxi-app",
+    "date": "2026-11-13",
+    "summary": "Despite longstanding concerns about the Kremlin’s access to the app’s data, NATO on Thursday issued guidance suggesting attendees of its flagship defense industry conference use the Russian-owned Yandex Go to reach the venue.",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:24.600488+00:00"
+  },
+  {
     "id": "86c0e652aad23504",
     "title": "L’Italie prévoit de dépenser 7,3 milliards d’euros de plus pour sa flotte de chasseurs-bombardiers F-35A/B",
     "link": "https://www.opex360.com/2026/11/12/litalie-prevoit-de-depenser-73-milliards-deuros-de-plus-pour-sa-flotte-de-chasseurs-bombardiers-f-35a-b",
@@ -486,6 +892,559 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-11-12T14:42:22.679749+00:00"
+  },
+  {
+    "id": "a23ab5559f76d966",
+    "title": "This Week in Missiles, 12 November 2026: RTX Seeks German Suppliers for Tomahawk",
+    "link": "https://missilematters.substack.com/p/title-this-week-in-missiles-12-november",
+    "date": "2026-11-12",
+    "summary": "Also: France reports imminent order of the MdCN Mk2 cruise missile, MBDA’s Hydis hypersonic interceptor, and ArianeGroup’s naval ballistic missile",
+    "source": "Missile Matters",
+    "source_region": "eu",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:29.445871+00:00"
+  },
+  {
+    "id": "1c87880dabe60957",
+    "title": "La Marine nationale va créer huit escouades de réserve côtières de plus en 2027",
+    "link": "https://www.opex360.com/2026/11/12/la-marine-nationale-va-creer-huit-escouades-de-reserve-cotieres-de-plus-en-2027",
+    "date": "2026-11-12",
+    "summary": "On en compte actuellement dix-neuf… Et elles seront bientôt vingt-sept. En effet, ce 12 novembre, le ministère des Armées a annoncé que la Marine nationale allait former huit escouades de réserve côtières [ECR] de plus dans le courant de l’année prochaine. Pour rappel, en 2023, considérant qu’il fallait «durcir» la défense maritime en comblant les...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:44.587555+00:00"
+  },
+  {
+    "id": "25dc727ac72c6e77",
+    "title": "La Royal Navy va tester le drone de combat YFQ-48A Talon Blue de Northrop Grumman depuis l’un ses porte-avions",
+    "link": "https://www.opex360.com/2026/11/12/la-royal-navy-va-tester-le-drone-de-combat-yfq-48a-talon-blue-de-northrop-grumman-depuis-lun-ses-porte-avions",
+    "date": "2026-11-12",
+    "summary": "En 2021, dans le cadre de son plan «Future Maritime Force», la Royal Navy avait dévoilé le projet «Vixen», son objectif étant de se doter d’un drone de combat à voilure fixe pouvant être lancé par une catapulte électromagnétique et récupéré grâce à des brins d’arrêt, deux dispositifs dont étaient pourtant dépourvus le HMS Queen...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:44.591311+00:00"
+  },
+  {
+    "id": "cb159d72279389c1",
+    "title": "Roumanie : Deux hélicoptères NH90 espagnols ont effectué une première mission de police du ciel dans le cadre de l’Otan",
+    "link": "https://www.opex360.com/2026/11/12/roumanie-deux-helicopteres-nh90-espagnols-ont-effectue-une-premiere-mission-de-police-du-ciel-dans-le-cadre-de-lotan",
+    "date": "2026-11-12",
+    "summary": "Depuis qu’un drone russe s’est écrasé sur un immeuble de la ville de Galați, située sur la rive gauche du Danube, en marge d’une attaque des ports ukrainiens de Reni et d’Ismail, les autorités roumaines ont changé de ton, alors que, jusqu’ici, elles cherchaient à minimiser la portée de tels incidents, pourtant récurrents. Ainsi, entre...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:44.595272+00:00"
+  },
+  {
+    "id": "2e8936f252b63c66",
+    "title": "Ondřej Ditrych on the possibility of the US withdrawing troops from the Eastern Flank",
+    "link": "https://www.iss.europa.eu/press/ondrej-ditrych-possibility-us-withdrawing-troops-eastern-flank",
+    "date": "2026-11-12",
+    "summary": "Ondřej Ditrych on the possibility of the US withdrawing troops from the Eastern Flank marianna.liana… Discussing what a further withdrawal of US troops would mean for Romania and the Black Sea region, Ondřej Ditrych told Libertatea that it would encourage Russia's plans to reshape the European security order in its favour. However, given the Black Sea region's strategic importance, he does not anticipate major changes to the US military presence there. \"Troop withdrawals and redeployments are likely to have a more pronounced impact on other parts of Europe,\" he argued. (in Romanian) Press…",
+    "source": "EUISS",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:47.884490+00:00"
+  },
+  {
+    "id": "72070af3266ced7e",
+    "title": "How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies",
+    "link": "https://warontherocks.com/how-purges-are-affecting-chinese-military-readiness-and-taiwan-contingencies",
+    "date": "2026-11-12",
+    "summary": "Since 2022, Chinese General Secretary Xi Jinping has purged at least 100 senior military officials, according to a February report from the Center for Strategic and International Studies, with more cases occurring since then. The rate of dismissals and disappearances has increased substantially in the last two years. Recent examples include Gen. Zhang Youxia, Gen. Liu Zhenli, and Zhong Shaojun, formerly the head of the General Office of the Central Military Commission. Many of these officials have been accused of corruption, with some facing trial.These widespread purges have fundamentally…",
+    "source": "War on the Rocks",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:53.919871+00:00"
+  },
+  {
+    "id": "b80580f252d0189d",
+    "title": "Russia’s Push for AI Sovereignty Faces Setbacks",
+    "link": "https://jamestown.org/russias-push-for-ai-sovereignty-faces-setbacks",
+    "date": "2026-11-12",
+    "summary": "Executive Summary: Ukrainian drone strikes on October 8 struck one of the large data centers belonging to Yandex, Russia’s largest tech company, leading to massive interruptions in the company’s services around the country. The strikes pushed the company’s cloud services into emergency mode, and clients had to move their data to other cloud systems (Habr, […]",
+    "source": "Jamestown Foundation (China Brief)",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:58.639599+00:00"
+  },
+  {
+    "id": "f048eb551832e624",
+    "title": "Military Makes up Majority of Expulsions at Fifth Plenum",
+    "link": "https://jamestown.org/military-makes-up-majority-of-expulsions-at-fifth-plenum",
+    "date": "2026-11-12",
+    "summary": "Executive Summary: The Chinese Communist Party’s (CCP) Central Committee recently concluded its Fifth Plenum, focusing on internal Party discipline, the centralization of power, ideological reinforcement, and personnel reshuffles (China Brief, November 3; IISS, November 4). One outstanding development was the expulsion of 33 Central Committee members from the Party (IDSS Paper, November 4). These involved […]",
+    "source": "Jamestown Foundation (China Brief)",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:58.649738+00:00"
+  },
+  {
+    "id": "6762f40bb95f1189",
+    "title": "COMMENTARY: Energy Watch: No war, no peace",
+    "link": "https://reut.rs/48P1oOJ",
+    "date": "2026-11-12",
+    "summary": "Energy markets have slipped into a weary calm as investors wait for Donald Trump’s next move in the war with ​Iran. It is certainly a far cry from the high-octane drama engulfing the tech world ‌amid reports about Jensen Huang’s extramarital affairs and spy scandals. But don't mistake quiet for normal.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.813789+00:00"
+  },
+  {
+    "id": "e031477343a52bed",
+    "title": "Yemen's Houthis say they attacked pumping station on Saudi Arabia's East-West oil pipeline",
+    "link": "https://reut.rs/4iVgjeZ",
+    "date": "2026-11-12",
+    "summary": "Yemen's Iran-aligned Houthis said on ​Thursday they had attacked a pumping station on the Saudi East-West oil pipeline, ‌an oil facility in the Saudi Red Sea city of Yanbu, and an Aramco building in the capital Riyadh.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.816995+00:00"
+  },
+  {
+    "id": "c29603ec45479262",
+    "title": "Colombia Ecopetrol's net profit jumps 86% in Q3",
+    "link": "https://reut.rs/4AkG3IE",
+    "date": "2026-11-12",
+    "summary": "Colombia's state oil producer Ecopetrol on Thursday posted an 86% jump in net profit year-over-year in the third ​quarter, buoyed by higher oil prices and the recent ‌acquisition of Brazil's Brava Energia.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.824666+00:00"
+  },
+  {
+    "id": "d439f1e6eb2c6317",
+    "title": "Hegseth awards medal to soldier who rebuked his group outside Tomb of the Unknown Soldier",
+    "link": "https://reut.rs/48fblVG",
+    "date": "2026-11-12",
+    "summary": "Defense Secretary Pete Hegseth awarded a medal on Thursday to a US Army sentinel who appeared to admonish him and ​his aides for failing to adhere to proper decorum outside the ‌Tomb of the Unknown Soldier on Veterans Day.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.827250+00:00"
+  },
+  {
+    "id": "c4336dbe3820e863",
+    "title": "US Justice Department has not concluded Alice Huang was Chinese spy, Blanche says",
+    "link": "https://reut.rs/4jbGG1w",
+    "date": "2026-11-12",
+    "summary": "US Attorney General ​Todd Blanche said ‌on Thursday that the Justice ​Department has ​not yet reached a ⁠conclusion on ​whether Alice Huang, ​the Chinese businesswoman who had an affair ​with former ​Nvidia CEO Jensen Huang, ‌was ⁠a Chinese spy.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.847991+00:00"
+  },
+  {
+    "id": "6e6e2035d8873ff0",
+    "title": "Venture Global asks DOE for approval to re-export LNG from CP2 project",
+    "link": "https://reut.rs/4sT8yuw",
+    "date": "2026-11-12",
+    "summary": "Venture Global has asked the US Department of Energy for authorization to ​re-export liquefied natural gas from its CP2 ‌LNG project in Louisiana as the company moves closer to bringing the first phase of the facility online, ​according to a notice from the DOE on ​Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.875160+00:00"
+  },
+  {
+    "id": "9c4c9bf8a583a173",
+    "title": "Tougher curbs on AI chip sales to China likely after Nvidia CEO resigns",
+    "link": "https://reut.rs/4BQM41o",
+    "date": "2026-11-12",
+    "summary": "US lawmakers from both parties are pushing for tougher restrictions on China's access to advanced artificial intelligence chips following media reports about former Nvidia CEO Jensen Huang's affair with a suspected Chinese spy, which has increased scrutiny of the company's role in US national security.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.891258+00:00"
+  },
+  {
+    "id": "b3d8d7036cd5dbbc",
+    "title": "White House discussing Howard Lutnick's future as Commerce secretary, people familiar say",
+    "link": "https://reut.rs/4sUdcsa",
+    "date": "2026-11-12",
+    "summary": "Senior White House officials are discussing whether Commerce ​Secretary Howard Lutnick should be pushed out ‌in the wake of the spy scandal surrounding Nvidia's now former CEO Jensen Huang, two people familiar with ​the situation said on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.902198+00:00"
+  },
+  {
+    "id": "565cb7ab0a78cc93",
+    "title": "NATO will not hold summit in Tirana next year, Albania's Rama says",
+    "link": "https://reut.rs/4AxGfom",
+    "date": "2026-11-12",
+    "summary": "NATO will not hold a summit in Albania next year despite previous plans to do so, Albanian Prime ​Minister Edi Rama said on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.910076+00:00"
+  },
+  {
+    "id": "a6ac4948b37cd263",
+    "title": "IMF monitoring AI developments, too early to say if AI reassessment underway",
+    "link": "https://reut.rs/4iQUQnm",
+    "date": "2026-11-12",
+    "summary": "The International Monetary Fund is closely monitoring volatility in AI equity ​valuations and the US political shift that ‌could slow data center development, but believes it is too early to tell whether investors ​are souring on the sector for ​the long term.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:00.932550+00:00"
+  },
+  {
+    "id": "8cda1bb01fd73f4c",
+    "title": "Delivering first Columbia-class sub in 2028 is ‘absolutely achievable’, sub czar says",
+    "link": "https://breakingdefense.com/2026/11/delivering-first-columbia-class-sub-in-2028-is-absolutely-achievable-sub-czar-says",
+    "date": "2026-11-12",
+    "summary": "Vice Adm. Rob Gaucher, the direct reporting portfolio manager for Submarines, said that delivering the first Columbia-class submarine in 2028 is still a ‘heavy lift.’",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:05.639928+00:00"
+  },
+  {
+    "id": "ef8db948779ca7ae",
+    "title": "AUKUS review was ‘best thing’ for trilateral pact: Colby",
+    "link": "https://breakingdefense.com/2026/11/aukus-review-was-best-thing-for-trilateral-pact-colby",
+    "date": "2026-11-12",
+    "summary": "“At the end of the day, this is a practical arrangement that involves the eventual sale of our crown jewels, our military capabilities,” said Undersecretary of Defense for Policy Elbridge Colby",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:05.642077+00:00"
+  },
+  {
+    "id": "cf17454925d6be95",
+    "title": "SDA explores integration of SpaceX laser communication terminals with missile tracking sats",
+    "link": "https://breakingdefense.com/2026/11/sda-explores-integration-of-spacex-laser-communication-terminals-with-missile-tracking-sats",
+    "date": "2026-11-12",
+    "summary": "An SDA spokesperson told Breaking Defense that the new study is a first step, and thus there are a number of potential hardware and software integration pathways for consideration.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:05.644398+00:00"
+  },
+  {
+    "id": "5b57daa0cb6c18d8",
+    "title": "Air Force unveils T-19A, a new aerobatic plane to train future pilots",
+    "link": "https://breakingdefense.com/2026/11/air-force-debuts-new-t-19a-aerobatic-plane",
+    "date": "2026-11-12",
+    "summary": "Built by Game Aerospace Composites, the GB1 Gamebird — designated the T-19A by the Air Force — was funded through corporate and civilian donations and will form the foundation of a new aerobatic flying team.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:05.646852+00:00"
+  },
+  {
+    "id": "527042d529890442",
+    "title": "AUKUS on track, even ‘ahead of schedule’ for some parts, admiral says",
+    "link": "https://breakingdefense.com/2026/11/aukus-on-track-even-ahead-of-schedule-for-some-parts-admiral-says",
+    "date": "2026-11-12",
+    "summary": "The USS Colorado will serve as the first submarine assigned to Submarine Rotational Force-West in support of AUKUS Pillar I.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:05.648963+00:00"
+  },
+  {
+    "id": "a67e22cfc797d570",
+    "title": "Instead of stockpiling small attack drones, Army looking to simply buy new ones",
+    "link": "https://breakingdefense.com/2026/11/instead-of-stockpiling-small-attack-drones-army-looking-to-simply-buy-new-ones",
+    "date": "2026-11-12",
+    "summary": "“It’s literally fly it as close as you can between those two fence posts because you might have to hit a high value target that way. And, if you crash 10 of them until you can get [number] 11 through, do it,” Army Material Command’s Jon Strzelec told Breaking Defense.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:05.651919+00:00"
+  },
+  {
+    "id": "8e8a32e4368e439d",
+    "title": "Cry ‘drone,’ and let slip the fruit flies of war",
+    "link": "https://breakingdefense.com/2026/11/cry-drone-and-let-slip-the-fruit-flies-of-war",
+    "date": "2026-11-12",
+    "summary": "The US military should focus on building drones that evolve so quickly an adversary’s defenses become obsolete before they can be deployed, two Air Force officers argue.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:05.653748+00:00"
+  },
+  {
+    "id": "15669a97cf196053",
+    "title": "SSN(X) Attack Boat Will be a Swift, Lethal Mothership for Undersea Drones, Navy Says",
+    "link": "https://news.usni.org/2026/11/12/ssnx-attack-boat-will-be-a-swift-lethal-mothership-for-undersea-drones-navy-says",
+    "date": "2026-11-12",
+    "summary": "ARLINGTON, Va. — The next American nuclear attack submarine design will be faster, take less time to repair and serve as a mothership for a constellation of undersea drones, the Navy’s head of requirements for submarines said on Thursday. The service is finalizing the analysis of alternatives of the SSN(X), the submarine class that will follow the Virginia-class attack boats, Rear Adm. Andrew Miller said during the Naval Submarine League’s annual conference. The Navy completed its own AoA in November of 2025 and the requirements were blessed by the Cost Assessment and Program Evaluation in…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:06.876287+00:00"
+  },
+  {
+    "id": "7dd21a3571d07e70",
+    "title": "U.S. Transfers Unmanned Surface Vessels to Philippine Marine Corps",
+    "link": "https://news.usni.org/2026/11/12/u-s-transfers-unmanned-surface-vessels-to-philippine-marine-corps",
+    "date": "2026-11-12",
+    "summary": "The Philippine Marine Corps received two American-made unmanned surface vessels last week at Subic Bay as part of Washington’s efforts to bolster Manila’s asymmetric capabilities in the South China Sea and Luzon Strait. On Nov. 4, two Maritime Tactical Systems T38 Devil Ray USVs were transferred to the Philippine Marine Corps at Subic Bay. “Today marks another meaningful step in our continuing effort to strengthen the capabilities of the Philippine Marine Corps, particularly in the field of archipelagic coastal defense,” said PMC Deputy Commandant Brig. Gen. Bayani Curaming at the ceremony…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:06.881643+00:00"
+  },
+  {
+    "id": "cb16b4f311eefe38",
+    "title": "Royal Navy to Trial Northrop Grumman Test Aircraft on Carrier in 2027",
+    "link": "https://news.usni.org/2026/11/12/royal-navy-to-trial-northrop-grumman-test-aircraft-on-carrier-in-2027",
+    "date": "2026-11-12",
+    "summary": "The Royal Navy will trial Northrop Grumman’s Talon IQ autonomous testbed demonstrator off a Queen Elizabeth-class carrier next year, the First Sea Lord announced Tuesday. The trials will serve as the initial stage of the Royal Navy’s Collaborative Combat Aircraft (CCA) program, which will see attack drones operate alongside its embarked F-35 Lightning II fighter aircraft. The Talon IQ demonstrator is one of two air vehicles currently operating under Norththrop Grumman’s internally funded Project Talon portfolio. Talon IQ is a manned test aircraft used to test autonomy systems, focused on…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:06.887300+00:00"
+  },
+  {
+    "id": "b3c69ae7d657ae21",
+    "title": "Navy Quietly Removed USS Michael Murphy Commander in September",
+    "link": "https://news.usni.org/2026/11/12/navy-quietly-removes-uss-michael-murphy-commander",
+    "date": "2026-11-12",
+    "summary": "The Navy quietly relieved the commanding officer of a naval destroyer initially deployed as part of the Abraham Lincoln Carrier Strike Group, USNI News has learned. The Navy relieved Cmdr. Caitlin Cunningham on Sept. 27 due to a loss of confidence, a Navy spokesperson confirmed Tuesday to USNI News. Cunningham’s dismissal occurred just under a year into her tenure as the skipper of USS Michael Murphy (DDG-112). No additional information was immediately available. Cunningham assumed the leadership of the destroyer on Oct. 24, 2025, ahead of the ship’s deployment. Michael Murphy deployed on…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:06.893097+00:00"
+  },
+  {
+    "id": "6749e5f6333c8cdf",
+    "title": "UPDATED: USS South Dakota Command Triad Relieved After October Grounding, Congressman Says",
+    "link": "https://news.usni.org/2026/11/12/breaking-uss-south-dakota-command-triad-relieved-after-october-grounding-congressman-says",
+    "date": "2026-11-12",
+    "summary": "USS South Dakota (SSN-790) command triad was removed last month following a grounding incident, according to a statement from a member of Congress. The submarine’s commanding officer, executive officer and chief of the boat were relieved from command on Oct. 14, with the relief allegedly attributed to a grounding incident, according to a letter released Thursday by Reps. Joe Courtney (D-Conn.), Ranking Member of the House Seapower and Projection Forces Subcommittee, and Adam Smith (D-Wash.), Ranking Member of the House Armed Services Committee. Cmdr. Dan Goodwin was relieved as commander of…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:06.900382+00:00"
+  },
+  {
+    "id": "a59a105b75a2cbc0",
+    "title": "What Jensen Huang’s Nvidia exit means for Washington, Wall Street, and Beijing",
+    "link": "https://www.atlanticcouncil.org/content-series/fastthinking/what-jensen-huangs-nvidia-exit-means-for-washington-wall-street-and-beijing",
+    "date": "2026-11-12",
+    "summary": "Our experts unpack what the alleged Nvidia espionage incident means for national security, markets, and relations with Beijing.",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:18.785803+00:00"
+  },
+  {
+    "id": "8e36bb9f125719be",
+    "title": "Beyond the spy scandal: What the Nvidia-Megaspeed case reveals about export controls",
+    "link": "https://www.atlanticcouncil.org/dispatches/beyond-the-spy-scandal-what-the-nvidia-megaspeed-case-reveals-about-export-controls",
+    "date": "2026-11-12",
+    "summary": "Washington must help the private sector protect technology and sensitive information against foreign threats.",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:18.787834+00:00"
+  },
+  {
+    "id": "97e9275e1acb9d09",
+    "title": "Nordics Show the Way on Arctic Defense",
+    "link": "https://cepa.org/article/nordics-show-the-way-on-arctic-defense",
+    "date": "2026-11-12",
+    "summary": "While some allies are dubious about a separate Nordic ‘club’ within NATO, the region’s know-how is building defensive resilience and deterrence in the far north. This article forms part of a CEPA series on the new strategic landscape in the Arctic.",
+    "source": "CEPA (Center for European Policy Analysis)",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:20.350405+00:00"
+  },
+  {
+    "id": "3b29620b829fb7ee",
+    "title": "US–China strategic stability doesn’t reach the water",
+    "link": "https://www.lowyinstitute.org/the-interpreter/us-china-strategic-stability-doesn-t-reach-the-water",
+    "date": "2026-11-12",
+    "summary": "Renewed military dialogue is a step forward, but the channels do not yet reach the coast guards and allies where maritime incidents are most likely.",
+    "source": "Lowy Institute - The Interpreter",
+    "source_region": "other",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:59:23.425777+00:00"
   },
   {
     "id": "db74d9cc18e29b40",
@@ -1316,6 +2275,22 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-11-12T14:42:04.125585+00:00"
+  },
+  {
+    "id": "0876064b6f20049a",
+    "title": "Ogarkov to the Baltics: Russian Military Thought Evolved From Zapad-77 to Ukraine and Beyond",
+    "link": "https://jamestown.org/ogarkov-to-the-baltics-russian-military-thought-evolved-from-zapad-77-to-ukraine-and-beyond",
+    "date": "2026-11-11",
+    "summary": "Executive summary: Introduction In 1977, Soviet strategy for the Western theater was centered on the ground forces, aimed at offense, and planned at the theater level, with nuclear weapons used late and preemptively (Materialy razbora KShU “Zapad-77,” 1977). In Soviet usage, a theater (teatr voennykh deistvii, театр военных действий) was a vast geographic region, such […]",
+    "source": "Jamestown Foundation (China Brief)",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:58.653723+00:00"
   },
   {
     "id": "e813d35fd50d8996",
@@ -2427,6 +3402,39 @@
     ],
     "meta": [],
     "fetched_at": "2026-11-12T14:41:26.622720+00:00"
+  },
+  {
+    "id": "8da5ceedbcb914c1",
+    "title": "Sovereign Satellite Constellations Emerging From Russia and Ukraine",
+    "link": "https://jamestown.org/sovereign-satellite-constellations-emerging-from-russia-and-ukraine",
+    "date": "2026-11-10",
+    "summary": "Executive Summary: The Verkhovna Rada advanced legislation to create a Space Forces as a new branch within the Armed Forces of Ukraine (AFU) on November 9. The draft includes the development of a national ballistic missile early warning system as well as a national satellite communication system for the defense sector (Ukrainska Pravda, November 9). […]",
+    "source": "Jamestown Foundation (China Brief)",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:58.657160+00:00"
+  },
+  {
+    "id": "b9e284e836611950",
+    "title": "Russia’s Nationalities Agency Playing Disturbing Role in FSB Crackdown",
+    "link": "https://jamestown.org/russias-nationalities-agency-playing-disturbing-role-in-fsb-crackdown",
+    "date": "2026-11-10",
+    "summary": "Executive Summary: Russia’s Federal Agency for Nationality Affairs (FADN), Moscow’s latest bureaucratic structure for elaborating policy on that country’s ethnic groups, seldom gets much attention. Many often dismiss it as a talk shop that issues reports and recommendations other Russian institutions routinely ignore. [1] Behind that bland bureaucratic facade, however, the FADN has set up […]",
+    "source": "Jamestown Foundation (China Brief)",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-13T13:58:58.664892+00:00"
   },
   {
     "id": "8e30b35887607880",
