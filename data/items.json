@@ -1,5 +1,121 @@
 [
   {
+    "id": "439c7e2ac7e39d16",
+    "title": "Le sous-marin nucléaire d’attaque américain USS South Dakota aurait failli s’échouer",
+    "link": "https://www.opex360.com/2026/11/15/le-sous-marin-nucleaire-dattaque-americain-uss-south-dakota-aurait-failli-sechouer",
+    "date": "2026-11-15",
+    "summary": "Le 30 juin dernier, le capitaine de frégate Dan Goodwin a officiellement pris le commandement de l’USS South Dakota, un sous-marin nucléaire d’attaque [SNA] de type Virginia qui, lors de ses dernières missions, s’était illustré à plusieurs reprises, au point d’obtenir la distinction «Battle E» pour son efficacité au combat et le prix Hook’Em Award...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-15T13:29:06.668753+00:00"
+  },
+  {
+    "id": "89ff06c309c0337c",
+    "title": "Le ministère des Armées est «mobilisé» sur les menaces liées à la présence de voitures chinoises dans les enceintes militaires",
+    "link": "https://www.opex360.com/2026/11/15/le-ministere-des-armees-est-mobilise-sur-les-menaces-liees-a-la-presence-de-voitures-chinoises-dans-les-enceintes-militaires",
+    "date": "2026-11-15",
+    "summary": "Fixé par la Commission européenne dans le cadre du «pacte vert», l’objectif de mettre un terme à la commercialisation de véhicules dotés d’une motorisation thermique et hybride met les constructeurs automobiles du Vieux Continent en grande difficulté face à leurs concurrents chinois. Ainsi, malgré les barrières douanières et fiscales, ceux-ci ne cessent de gagner des...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-15T13:29:06.671289+00:00"
+  },
+  {
+    "id": "dfbeb33b9359bbdb",
+    "title": "After Abu Dhabi: How Europeans must reframe the European security debate – European Council on Foreign Relations",
+    "link": "https://ecfr.eu/article/after-abu-dhabi-how-europeans-must-reframe-the-european-security-debate",
+    "date": "2026-11-15",
+    "summary": "Russia has been allowed to frame the negotiations debate away from the need for a ceasefire in Ukraine. Here is how Europeans can shift the discussion back",
+    "source": "ECFR",
+    "source_region": "eu",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-15T13:29:11.111112+00:00"
+  },
+  {
+    "id": "95fab69a216d35ab",
+    "title": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
+    "link": "https://reut.rs/4zI4wYA",
+    "date": "2026-11-15",
+    "summary": "Drones have ​struck three commercial ships in the Black Sea near Romania's Sulina canal, Prime ‌Minister Luca Niculescu said on Sunday, adding that his armed forces had scrambled fighter jets twice.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-15T13:29:23.440777+00:00"
+  },
+  {
+    "id": "31446875c9b2637f",
+    "title": "Trump's minerals push has yet to loosen China's grip ahead of Xi talks",
+    "link": "https://reut.rs/4zml2wu",
+    "date": "2026-11-15",
+    "summary": "US President Donald Trump meets Chinese President Xi Jinping this week with a key part of his trade strategy unfinished: securing a ​homegrown supply of critical minerals to counter Beijing's dominance.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-15T13:29:23.442093+00:00"
+  },
+  {
+    "id": "e197c8a936058801",
+    "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+    "link": "https://reut.rs/4tkC0tX",
+    "date": "2026-11-15",
+    "summary": "The Saudi-led coalition fighting Yemen's Iran-aligned Houthis said ​on Sunday it had intercepted two ‌Houthi ballistic missiles launched towards the Saudi capital Riyadh and three drones in ​the kingdom's oil-rich Eastern Province.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-15T13:29:23.455331+00:00"
+  },
+  {
+    "id": "36669b8649f17ad9",
+    "title": "A new vision for the Vertical Corridor: European energy security through infrastructure optimization",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/report/a-new-vision-for-the-vertical-corridor-european-energy-security-through-infrastructure-optimization",
+    "date": "2026-11-15",
+    "summary": "Europe's Vertical Corridor region is well positioned to reverse its historical Soviet infrastructure legacy and natural gas dependency, while supporting broader European energy security.",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-15T13:29:39.305810+00:00"
+  },
+  {
     "id": "c1a5eeceac47d1f3",
     "title": "Baltique : Visée par des drones ukrainiens, la corvette russe Naro-Fominsk aurait subi d’importants dégâts",
     "link": "https://www.opex360.com/2026/11/14/baltique-visee-par-des-drones-ukrainiens-la-corvette-russe-naro-forminsk-aurait-subi-dimportants-degats",
@@ -32,6 +148,74 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-11-14T13:00:38.880222+00:00"
+  },
+  {
+    "id": "b08cddc0ea43029c",
+    "title": "Forces spéciales : Le 1er Régiment de Parachutistes d’Infanterie de Marine change d’appellation",
+    "link": "https://www.opex360.com/2026/11/14/forces-speciales-le-1er-regiment-de-parachutistes-dinfanterie-de-marine-change-dappellation",
+    "date": "2026-11-14",
+    "summary": "Au cours de son histoire et au gré de ses affiliations, le 1er Régiment de Parachutistes d’Infanterie de Marine [1er RPIMa], unité de l’armée de Terre mise à la disposition du Commandement des opérations spéciales [COS], a maintes fois changé d’appellation. Au point qu’il peut être compliqué de s’y retrouver. Créé en 1940 sous le...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-15T13:29:06.673304+00:00"
+  },
+  {
+    "id": "49e2f0bf4181916f",
+    "title": "Pour la première fois, des pilotes français de Rafale ont utilisé le viseur de casque Scorpion en opération extérieure",
+    "link": "https://www.opex360.com/2026/11/14/pour-la-premiere-fois-des-pilotes-de-rafale-francais-ont-utilise-le-viseur-de-casques-scorpion-en-operation-exterieure",
+    "date": "2026-11-14",
+    "summary": "Dans les années 2000, il était question d’équiper les pilotes français de Rafale avec le viseur de casque «Gerfaut», développé par Sagem. Mais les contraintes budgétaires en décidèrent autrement… Et l’acquisition de cette capacité fut renvoyée à des jours meilleurs. Pour rappel, un tel système, encore appelé Helmet Mounted Display [HMD] affiche sur la visière...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-15T13:29:06.676285+00:00"
+  },
+  {
+    "id": "2b33630e6a89d534",
+    "title": "Israeli military says it struck senior commander in Hamas' military wing",
+    "link": "https://reut.rs/3UZpEKS",
+    "date": "2026-11-14",
+    "summary": "Israeli military ​said on Sunday ‌it had struck ​a ​senior commander in ⁠Hamas' ​military wing.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-15T13:29:23.460500+00:00"
+  },
+  {
+    "id": "b2e58a18c8ee58a6",
+    "title": "Iran's navy says oil tanker on fire after hitting mine in Hormuz",
+    "link": "https://reut.rs/4iP0beT",
+    "date": "2026-11-14",
+    "summary": "Iran's ‌navy said an oil tanker caught fire ​on Saturday morning ​after hitting a naval ⁠mine in the ​eastern Strait of ​Hormuz, Iranian state media reported.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-15T13:29:23.469144+00:00"
   },
   {
     "id": "0f2a0b1002fd8888",
