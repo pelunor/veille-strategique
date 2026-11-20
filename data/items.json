@@ -1,5 +1,392 @@
 [
   {
+    "id": "284247474fd53ee4",
+    "title": "L’attaque ukrainienne du pont de Crimée pourrait marquer un tournant",
+    "link": "https://legrandcontinent.eu/fr/2026/11/20/pourquoi-lattaque-ukrainienne-du-pont-de-crimee-pourrait-marquer-un-tournant",
+    "date": "2026-11-20",
+    "summary": "L’armée russe ne dispose plus que d’une seule voie routière d’approvisionnement vers la péninsule L’article L’attaque ukrainienne du pont de Crimée pourrait marquer un tournant est apparu en premier sur Le Grand Continent .",
+    "source": "Le Grand Continent",
+    "source_region": "eu",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:55:38.938120+00:00"
+  },
+  {
+    "id": "9a0a2667f64e981e",
+    "title": "Première historique : le Myanmar condamné pour génocide",
+    "link": "https://www.iris-france.org/premiere-historique-le-myanmar-condamne-pour-genocide",
+    "date": "2026-11-20",
+    "summary": "Le jeudi 19 novembre, la Cour internationale de justice (CIJ) a reconnu que le Myanmar avait commis un génocide contre la minorité rohingya. Une décision historique : pour la première fois, la Cour établit la responsabilité d’un État pour génocide. Les faits remontent notamment aux opérations militaires de 2017, qui ont fait plus de 10 000 morts et poussé plus de 700 000 Rohingyas à fuir vers le Bangladesh. Aujourd’hui, plus de 1,2 million de Rohingyas y sont réfugiés, notamment dans les camps de Cox’s Bazar. La procédure avait été engagée en novembre 2019 par la Gambie, avec le soutien de…",
+    "source": "IRIS",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:06.937418+00:00"
+  },
+  {
+    "id": "db7bf55d226ae818",
+    "title": "Deux missiles et un drone d’attaque russes sont tombés en Pologne, près de la zone où se déroule l’exercice KOALICJA",
+    "link": "https://www.opex360.com/2026/11/20/deux-missiles-et-un-drone-dattaque-russes-sont-tombes-en-pologne-pres-de-la-zone-ou-se-deroule-lexercice-koalicja",
+    "date": "2026-11-20",
+    "summary": "Depuis le 9 novembre, la Pologne accueille l’exercice KOALICJA 26.2, organisé par la force militaire de la Coalition des volontaires [MNF-U / Force multinationale-Ukraine], sous commandement franco-britannique. Mobilisant 2 800 militaires [dont 1 000 Français] issus de onze pays, il vise à préparer un éventuel déploiement en Ukraine quand les hostilités avec la Russie seront...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:10.330304+00:00"
+  },
+  {
+    "id": "a1bc417f8801740d",
+    "title": "Drone operator removes Man United training footage, issues apology",
+    "link": "https://reut.rs/4Cgn5F2",
+    "date": "2026-11-20",
+    "summary": "A drone operator who filmed Manchester United's training session this week has apologised for what ​he called a \"total error of judgment\" and removed the ‌footage from his YouTube channel.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.144608+00:00"
+  },
+  {
+    "id": "eb6dfefbfb866e6c",
+    "title": "More Russian regions limit fuel sales as Ukrainian drone strikes hit refinery output",
+    "link": "https://reut.rs/4tdt49p",
+    "date": "2026-11-20",
+    "summary": "The drone attacks have slashed Russian oil refineries' combined crude processing volumes by 45% since ​late October, according to industry sources.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.158566+00:00"
+  },
+  {
+    "id": "e075317ad564e97d",
+    "title": "Equinor says cyberattack against company has been stopped",
+    "link": "https://reut.rs/3V2VYML",
+    "date": "2026-11-20",
+    "summary": "Norwegian ​oil and gas group Equinor ‌said a cyberattack against the company had been stopped ​as of Friday, ​adding there had been no ⁠impact to production ​and there was no ​indication data had been stolen or altered.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.165240+00:00"
+  },
+  {
+    "id": "bc207fe6e5904a05",
+    "title": "Malaysia says it will resettle 10,000 Rohingya refugees in Turkey",
+    "link": "https://reut.rs/4fGwegg",
+    "date": "2026-11-20",
+    "summary": "Malaysia said on Friday that it will resettle 10,000 Rohingya refugees in Turkey through a structured skills training programme, ​in what would be one of the biggest resettlement initiatives involving ‌the Rohingya since a military crackdown on their native Rakhine state in 2017.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.180121+00:00"
+  },
+  {
+    "id": "ce13b9a384d24fb4",
+    "title": "Vallourec's core profit falls 26%, hit by Iran war and disruption in the US",
+    "link": "https://reut.rs/4kmnuzh",
+    "date": "2026-11-20",
+    "summary": "Steel tubes maker Vallourec reported a 25.8% drop in its third-quarter core profit on Friday, impacted by the Iran war ​and a temporary operational disruption in the US, and said it did not ​expect an improvement in the fourth quarter.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.183736+00:00"
+  },
+  {
+    "id": "a50ea28728a131a6",
+    "title": "Rupee rises past 93/USD as AI rout draws billions into India, speculators bail",
+    "link": "https://reut.rs/3UZ1Fvn",
+    "date": "2026-11-20",
+    "summary": "The Indian rupee strengthened past the psychologically important 93-per-dollar mark on Friday ‌for the first time since April, as a rebound in capital inflows and easing oil prices accelerated a rapid reversal in the currency's fortunes.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.204759+00:00"
+  },
+  {
+    "id": "3701a268575409d0",
+    "title": "Lynas shareholder meeting to spotlight CEO hunt next week",
+    "link": "https://reut.rs/3WT4mzd",
+    "date": "2026-11-20",
+    "summary": "The prolonged hunt for a new CEO to lead Lynas Rare Earths will be front and centre ​at its annual shareholder meeting next week, after the West's top producer of the strategic metals said a favoured ‌candidate withdrew.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.209964+00:00"
+  },
+  {
+    "id": "42e1dfe2291bd98f",
+    "title": "Saudi-led coalition says it intercepted Houthi missile targeting southern region",
+    "link": "https://reut.rs/4A2RHse",
+    "date": "2026-11-20",
+    "summary": "Saudi air defences intercepted and destroyed a ballistic missile launched by Yemen's Iran-aligned Houthi movement towards the kingdom's ​southern region, the Saudi-led coalition said on Friday, as cross-border ‌attacks between the two sides showed no signs of abating.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.213007+00:00"
+  },
+  {
+    "id": "8ffabfa70aaca7b7",
+    "title": "US Army postpones detonations of degraded lead compound in Iowa",
+    "link": "https://reut.rs/4Cb8sTm",
+    "date": "2026-11-20",
+    "summary": "The US Army on Thursday said it had postponed controlled explosions of a stockpile of ‌a degraded lead compound in Iowa that had been scheduled for Friday after nearby residents protested and environmental groups filed a lawsuit.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.219325+00:00"
+  },
+  {
+    "id": "dfd3e5a78c2dffa6",
+    "title": "Oil prices gain as Houthi attacks on Riyadh raise supply concerns",
+    "link": "https://reut.rs/4ztdkk7",
+    "date": "2026-11-20",
+    "summary": "Oil ​prices rose on Friday but were set for a weekly decline as concerns over supply disruptions grew ‌following Houthi attacks on Saudi Arabia's capital Riyadh and reports of tanker disruptions in the Strait of Hormuz.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.220713+00:00"
+  },
+  {
+    "id": "90ccf7d2a44f1bd6",
+    "title": "Three killed in missile strikes on Kyiv, mayor says, in biggest attack on bridges",
+    "link": "https://reut.rs/3VDl2KE",
+    "date": "2026-11-20",
+    "summary": "A Russian ballistic missile attack hit three bridges on Kyiv's Dnipro River and killed three ​people, the city's mayor said on Friday, in the biggest strikes on routes ‌connecting the left and right banks of Ukraine's capital since the start of the war.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.223300+00:00"
+  },
+  {
+    "id": "45db5527bb34ec56",
+    "title": "Australia's NextDC faces 'second strike' on pay report, shares fall",
+    "link": "https://reut.rs/48xb0O5",
+    "date": "2026-11-20",
+    "summary": "Shareholders of Australian data centre developer NextDC voted against ‌its executive pay plans for a second year, a stock exchange filing showed on Friday, triggering a further vote on whether the entire board should be removed.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.241824+00:00"
+  },
+  {
+    "id": "2d5ae93bbd3e65d5",
+    "title": "Alibaba defrauded shareholders by concealing ties to suspected spy in Nvidia scandal, lawsuit says",
+    "link": "https://reut.rs/4Cajp7P",
+    "date": "2026-11-20",
+    "summary": "Alibaba was sued on Thursday ‌in New York by shareholders who accused the Chinese e-commerce giant of defrauding them by concealing its ties to the suspected Chinese spy whose relationship with former Nvidia Chief Executive Jensen Huang contributed to his resignation last week.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.244563+00:00"
+  },
+  {
+    "id": "409646d8994da12b",
+    "title": "California AG subpoenas Nvidia over concerns about former CEO, China ties",
+    "link": "https://reut.rs/4krDW1e",
+    "date": "2026-11-20",
+    "summary": "California Attorney General Rob Bonta said on Thursday his office had served an investigative subpoena to ​Nvidia related to reports of former CEO Jensen Huang's alleged ‌affair with a woman suspected of being a Chinese spy.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.246055+00:00"
+  },
+  {
+    "id": "a9a3ccfe0bdb46c8",
+    "title": "Gap shares rise as Old Navy recovery overshadows slow holiday start",
+    "link": "https://reut.rs/4CffZk5",
+    "date": "2026-11-20",
+    "summary": "Gap lowered its annual forecast on Thursday after a slower-than-expected start to the holiday quarter, even as efforts to revive its Old Navy brand appeared to be gaining traction.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.248404+00:00"
+  },
+  {
+    "id": "e0d11e075cc91dbd",
+    "title": "Washington outsources defense of transgender sports law to Bryan Cave",
+    "link": "https://reut.rs/4j5svtC",
+    "date": "2026-11-20",
+    "summary": "(Billable Hours is Reuters' weekly report on lawyers and money. Please send tips or suggestions to D.Thomas@thomsonreuters.com)",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.255492+00:00"
+  },
+  {
+    "id": "8df841c3f109e6b1",
+    "title": "Dutch defense-industry plan targets 40% growth, €15 billion revenue by 2030",
+    "link": "https://www.defensenews.com/global/europe/2026/11/20/dutch-defense-industry-plan-targets-40-growth-e15-billion-revenue-by-2030",
+    "date": "2026-11-20",
+    "summary": "The nation of 18 million punches above its weight in several key defense technology areas.",
+    "source": "Defense News (Industry)",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:28.794687+00:00"
+  },
+  {
+    "id": "b8973a0cec4c1ae8",
+    "title": "Australia receives first 2 of 13 additional Seahawk helicopters",
+    "link": "https://breakingdefense.com/2026/11/australia-receives-first-2-of-13-additional-seahawk-helicopters",
+    "date": "2026-11-20",
+    "summary": "The deliveries will expand the Royal Australian Navy’s MH-60R fleet to 36 aircraft by early 2028 as part of a broader effort to modernize Australia’s naval aviation capabilities.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:29.946531+00:00"
+  },
+  {
+    "id": "46c124f68d2f3918",
+    "title": "Nikoladze and de Kruijf cited in Journal of Law & Cyber Warfare on US chips and Nvidia’s influence",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-and-de-kruijf-cited-in-journal-of-law-cyber-warfare-on-us-chips-and-nvidias-influence",
+    "date": "2026-11-20",
+    "summary": "Read the full article here",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:43.956393+00:00"
+  },
+  {
+    "id": "e4d839023c4ae5bf",
+    "title": "Nikoladze interviewed by Malaysian Business FM on the Nvidia scandal and implications for export controls",
+    "link": "https://www.atlanticcouncil.org/insight-impact/in-the-news/nikoladze-interviewed-by-malaysian-business-fm-on-the-nvidia-scandal-and-implications-for-export-controls",
+    "date": "2026-11-20",
+    "summary": "Listen to the interview here",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:43.957195+00:00"
+  },
+  {
+    "id": "3e9daed6d3b8d90c",
+    "title": "Cyber Director Cairncross out as White House resets cyber leadership",
+    "link": "https://therecord.media/sean-cairncross-out-as-national-cyber-director",
+    "date": "2026-11-20",
+    "summary": "Sean Cairncross is leaving the White House as Kirsten Davies, the Pentagon’s chief information officer, has been named the acting cyber czar.",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:50.492834+00:00"
+  },
+  {
     "id": "2f066f0e1eb549bc",
     "title": "Les réseaux électriques peuvent-ils absorber les centres de données de l’IA ?",
     "link": "https://legrandcontinent.eu/fr/2026/11/19/les-reseaux-electriques-peuvent-ils-absorber-les-centres-de-donnees-de-lia",
@@ -403,6 +790,639 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-11-19T15:19:41.619733+00:00"
+  },
+  {
+    "id": "254e45a2773b8fdd",
+    "title": "Pour un tiers des Espagnols, Ceuta et le Maroc sont la première préoccupation internationale des élections – loin devant Trump",
+    "link": "https://legrandcontinent.eu/fr/2026/11/19/pour-un-tiers-des-espagnols-ceuta-et-le-maroc-sont-la-premiere-preoccupation-internationale-des-elections-loin-devant-trump",
+    "date": "2026-11-19",
+    "summary": "La relation avec les États-Unis et la guerre en Ukraine pèsent peu dans le vote L’article Pour un tiers des Espagnols, Ceuta et le Maroc sont la première préoccupation internationale des élections – loin devant Trump est apparu en premier sur Le Grand Continent .",
+    "source": "Le Grand Continent",
+    "source_region": "eu",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:55:38.941157+00:00"
+  },
+  {
+    "id": "52fafedfe1a61272",
+    "title": "This Week in Missiles, 19 November 2026: Lithuania Eyes Polish-Built Barracuda-500M",
+    "link": "https://missilematters.substack.com/p/this-week-in-missiles-19-november",
+    "date": "2026-11-19",
+    "summary": "Also: Italy holds back Aster 30 interceptors, Russia’s terminal guidance seeker-equipped ballistic missiles, and Arrow 4 nearing production.",
+    "source": "Missile Matters",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:55:52.545199+00:00"
+  },
+  {
+    "id": "2685e6acee478094",
+    "title": "Utilisé par la Marine nationale, le Camcopter S100 peut aussi être configuré en «porte-drones»",
+    "link": "https://www.opex360.com/2026/11/19/utilise-par-la-marine-nationale-le-camcopter-s100-peut-aussi-etre-configure-en-porte-drones",
+    "date": "2026-11-19",
+    "summary": "En janvier, la Direction générale de l’armement [DGA] fit savoir qu’elle avait notifié la commande de cinq systèmes de drones à décollage vertical Camcopter S-100 supplémentaires auprès de l’industriel autrichien Schiebel [via Naval Group] afin de les intégrer à bord des frégates multimissions [FREMM] de la Marine nationale. Et cela alors que ce type d’appareil,...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:10.332317+00:00"
+  },
+  {
+    "id": "31e89d1ac75e1ce3",
+    "title": "La Malaisie envisage de commander 36 canons LG1 de 105 mm supplémentaires à KNDS France",
+    "link": "https://www.opex360.com/2026/11/19/la-malaisie-envisage-de-commander-36-canons-lg1-de-105-mm-supplementaires-a-knds-france",
+    "date": "2026-11-19",
+    "summary": "À l’occasion d’une visite officielle du président Macron à Kuala Lumpur, le 17 novembre, la France et la Malaisie ont affirmé leur volonté de renforcer leur coopération dans le domaine de la défense, avec la signature prochaine d’un accord sur le statut des forces [SOFA], lequel facilitera, entre autres, la tenue d’exercices conjoints. Il est...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:10.334103+00:00"
+  },
+  {
+    "id": "da9e7eed9cb6e343",
+    "title": "La France et la Suède ont mené leur premier exercice aérien de dissuasion nucléaire avancée",
+    "link": "https://www.opex360.com/2026/11/19/la-france-et-la-suede-ont-mene-leur-premier-exercice-aerien-de-dissuasion-nucleaire-avancee",
+    "date": "2026-11-19",
+    "summary": "Avec le Royaume-Uni, l’Allemagne, la Pologne, la Belgique, la Grèce, les Pays-Bas et le Danemark, la Suède a été l’un des premiers pays européens à adhérer au concept de «dissuasion avancée» que le président Macron a défini lors d’un discours prononcé à l’Île-Longue, le 2 mars. Pour rappel, il s’agit d’associer les partenaires européens qui...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:10.335936+00:00"
+  },
+  {
+    "id": "fded1fd5a1c9d9a8",
+    "title": "Shenzhen, un nouveau Yalta ? Le vrai et le faux",
+    "link": "https://www.institutmontaigne.org/expressions/shenzhen-un-nouveau-yalta-le-vrai-et-le-faux",
+    "date": "2026-11-19",
+    "summary": "On peut qualifier d’historique la rencontre qui s’est déroulée le 19 novembre à Shenzhen impliquant Donald Trump, Xi Jinping et Vladimir Poutine. Si beaucoup de commentateurs ont rappelé les souvenirs de Yalta, l’entretien entre les trois premières puissances militaires du monde doit être analysé à l’aune des crises actuelles. François Godement revient sur la conclusion de ce sommet et sur sa \"déclaration de paix\".",
+    "source": "Institut Montaigne",
+    "source_region": "fr",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:11.937378+00:00"
+  },
+  {
+    "id": "454484b2de678c3f",
+    "title": "Joris Teer on what to expect from the Trump–Xi meeting in Shenzhen",
+    "link": "https://www.iss.europa.eu/press/joris-teer-what-expect-trump-xi-meeting-shenzhen",
+    "date": "2026-11-19",
+    "summary": "Joris Teer on what to expect from the Trump–Xi meeting in Shenzhen marianna.liana… Discussing the Trump–Xi meeting in Shenzhen, Joris Teer told de Volkskrant that little remains of the trade truce agreed in Busan, describing it as the ‘Busan façade’. Pointing to China’s failure to honour its commitments on rare earth supplies, he noted that “China is not supplying precisely those raw materials with which the US could potentially reduce its dependence.” While he expects Trump to seek to maintain the appearance of a trade truce, Joris warned that the technological battle is deepening. \"If China…",
+    "source": "EUISS",
+    "source_region": "eu",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:14.333145+00:00"
+  },
+  {
+    "id": "31358aaa1dbd8d22",
+    "title": "Russia and Iran Seek Closer Cooperation",
+    "link": "https://jamestown.org/russia-and-iran-seek-closer-cooperation",
+    "date": "2026-11-19",
+    "summary": "Executive Summary: Russia and Iran have expanded the scope and accelerated the pace of their cooperation, in areas ranging from nuclear energy to politics (Al Jazeera, October 19). On October 28, Russian State Atomic Energy Corporation (Rosatom) Director General Alexei Likhachev announced that the company will build additional nuclear facilities in Iran. Agreements have been […]",
+    "source": "Jamestown Foundation (China Brief)",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:24.764191+00:00"
+  },
+  {
+    "id": "f30e646ee4611563",
+    "title": "From anti-war physicist to AI power broker, Amodei takes his safety approach public",
+    "link": "https://reut.rs/4j5gEfg",
+    "date": "2026-11-19",
+    "summary": "Long before Dario Amodei butted heads with the Pentagon over whether the US military could use Anthropic's models for mass domestic surveillance and fully autonomous weapons, he was fighting another battle.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.269948+00:00"
+  },
+  {
+    "id": "85d78cee62b5f4dd",
+    "title": "EXCLUSIVE: South Korean firm plans $150 million lifeline for Eric Trump-backed robot maker",
+    "link": "https://reut.rs/4CcmAfb",
+    "date": "2026-11-19",
+    "summary": "South Korean conglomerate Base Group is preparing to invest $150 million in ​a struggling military-robot maker backed by US President Donald Trump's son Eric, internal company emails show, deepening the firm’s ties to the ‌Trump family that have already drawn congressional scrutiny.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.281480+00:00"
+  },
+  {
+    "id": "0e954c65b84d7f5e",
+    "title": "Yemen's Houthis say they targeted king khalid airport and financial center in riyadh",
+    "link": "https://reut.rs/4ANYE0d",
+    "date": "2026-11-19",
+    "summary": "Yemen's Houthi armed ​forces targeted ‌King Khalid International ​Airport ​and the Financial Center ⁠in ​Riyadh with ​a large number of cruise ​missiles, ​the group's military ‌spokesperson ⁠Yahya Saree said on Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.286066+00:00"
+  },
+  {
+    "id": "c8987ed398792568",
+    "title": "Zimbabwe tweaks lithium export tax rule, mandates local sourcing by miners",
+    "link": "https://reut.rs/4zyThRp",
+    "date": "2026-11-19",
+    "summary": "Zimbabwe will tax lithium concentrate exports based on the value of the lithium sulphate that could be produced from them ​and not the concentrate's selling price, Finance Minister Mthuli ‌Ncube said on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.294445+00:00"
+  },
+  {
+    "id": "e50f17de365e1c5f",
+    "title": "Schneider Electric warns high power costs could push AI investment out of Europe",
+    "link": "https://reut.rs/4tilH0E",
+    "date": "2026-11-19",
+    "summary": "High energy costs, insufficient grid investment and fragmented regulation risk slowing ​Europe's AI data-centre expansion and pushing ‌investment to other regions, Schneider Electric's chief digital officer told Reuters.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.302365+00:00"
+  },
+  {
+    "id": "928c3fbabf36b55c",
+    "title": "Houthi attacks on Saudi Arabia",
+    "link": "https://reut.rs/4fFwE6A",
+    "date": "2026-11-19",
+    "summary": "Yemen's Iran-aligned Houthi group has repeatedly targeted Saudi Arabia in an intensifying campaign of drone and missile strikes on its airports, oil facilities and office buildings.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.305113+00:00"
+  },
+  {
+    "id": "af1828b1a5af26e8",
+    "title": "US shale companies send oil windfall to shareholders as prices jump",
+    "link": "https://reut.rs/4l7sSGC",
+    "date": "2026-11-19",
+    "summary": "US shale producers are returning the windfall from surging oil prices to shareholders at a faster pace than global majors, ‌with the group's buybacks and dividends rising 41% during the third quarter, from a year earlier.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.310362+00:00"
+  },
+  {
+    "id": "61b03e266cbbe171",
+    "title": "COMMENTARY: Funds dump copper but Shanghai has run out of metal",
+    "link": "https://reut.rs/3VBGorR",
+    "date": "2026-11-19",
+    "summary": "It's been an eventful week for Doctor Copper.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.316355+00:00"
+  },
+  {
+    "id": "8419fd91ce9de206",
+    "title": "India allows older vessels into fleet to cut reliance on foreign carriers",
+    "link": "https://reut.rs/490Saz4",
+    "date": "2026-11-19",
+    "summary": "India has relaxed rules allowing vessels more than 20 years ​old to be registered under its ‌flag, according to a government order, potentially expanding its domestic shipping fleet and reducing reliance on foreign ​carriers",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.319190+00:00"
+  },
+  {
+    "id": "02ee45b4c17f3e60",
+    "title": "Babcock sees frigate export boost from Royal Navy's hybrid fleet plan",
+    "link": "https://reut.rs/4AFgUJ1",
+    "date": "2026-11-19",
+    "summary": "British defence company Babcock expects to secure further overseas frigate orders, with new CEO Harry Holt saying ​the Royal Navy's hybrid fleet plan strengthens the group's ‌pitch against competitors.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.323359+00:00"
+  },
+  {
+    "id": "64bd9a7e4050f3e2",
+    "title": "US should not certify Chinese aircraft, restrict investments in China's aerospace sector, lawmakers say",
+    "link": "https://reut.rs/4j35QOH",
+    "date": "2026-11-19",
+    "summary": "The US government should refuse to certify Chinese-made airplanes and pull taxpayer contracts ​from American defense contractors including Airbus if they ‌do not halt investments in China's aerospace industrial base, a congressional report seen by Reuters said.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.331859+00:00"
+  },
+  {
+    "id": "077aee1aff3faa0c",
+    "title": "Musk's SpaceXSI denies liability in UK lawmaker's lawsuit over Grok images",
+    "link": "https://reut.rs/4fGFlgZ",
+    "date": "2026-11-19",
+    "summary": "Elon Musk's SpaceXSI has filed its defence against a British lawmaker's lawsuit over fake images of her created using the Grok AI platform, arguing that obviously fictitious, AI-generated content cannot breach someone's right to privacy.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.333206+00:00"
+  },
+  {
+    "id": "90096593188df666",
+    "title": "Russia's Africa Corps deploys new drone in Mali as strikes increase, analysis says",
+    "link": "https://reut.rs/4zphlWJ",
+    "date": "2026-11-19",
+    "summary": "Russia's Africa Corps troops operating ​in Mali deployed a new type of suicide drone this year as they ramped up air strikes seeking to regain ‌momentum lost in April when Islamist and separatist insurgents went on the offensive, according to new analysis shared with Reuters.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.343425+00:00"
+  },
+  {
+    "id": "32899ce3702608bc",
+    "title": "Trump bought up to $265,000 of Nvidia stock in September, disclosure shows",
+    "link": "https://reut.rs/4j2XiHs",
+    "date": "2026-11-19",
+    "summary": "US President Donald Trump bought as much as $265,000 in Nvidia stock and ‌sold as much as $15,000 worth of the stock in September, according to his latest financial disclosure, amid questions about what Trump knew about former CEO Jensen Huang's reported ties to an alleged Chinese spy.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:27.346240+00:00"
+  },
+  {
+    "id": "7b28ed07d0295c22",
+    "title": "Pentagon lacks ‘overarching plan’ for munitions production, watchdog warns",
+    "link": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns",
+    "date": "2026-11-19",
+    "summary": "“DoD does not have an overarching plan that links munitions production and funding to requirements,” warned the Government Accountability Office study.",
+    "source": "Defense News (Industry)",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:28.795732+00:00"
+  },
+  {
+    "id": "bba610d9f774ba23",
+    "title": "Toti pushes new foreign-built shipyard in the US to focus on frigates, large surface combatants",
+    "link": "https://breakingdefense.com/2026/11/toti-pushes-new-foreign-built-shipyard-in-the-us-to-focus-on-frigates-large-surface-combatants",
+    "date": "2026-11-19",
+    "summary": "Foreign shipbuilding has emerged as a sticking point between Congress and the Trump administration, with the administration pushing for an expansion of the so-called “Finland model.”",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:29.948081+00:00"
+  },
+  {
+    "id": "cf8e6d524d47eb66",
+    "title": "Candidates are lining up to be the next top HASC Republican.",
+    "link": "https://breakingdefense.com/2026/11/new-leadership-new-tensions-for-top-house-defense-panel",
+    "date": "2026-11-19",
+    "summary": "With Democrats preparing to take control of the House Armed Services Committee, a Republican leadership race could shape the next round of Pentagon oversight.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:29.949098+00:00"
+  },
+  {
+    "id": "302ce4c4f6ae9841",
+    "title": "Army extends Data Operations Center pilot to Oct. 2027",
+    "link": "https://breakingdefense.com/2026/11/army-extends-data-operations-center-pilot-to-oct-2027",
+    "date": "2026-11-19",
+    "summary": "The service is using the additional time to evaluate the center’s workload, refine its processes and determine the staffing and organizational structure needed to make it permanent.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:29.950090+00:00"
+  },
+  {
+    "id": "c012cf8ce12715b6",
+    "title": "Raytheon taps Ursa Major, Avio USA as second source for Tomahawk solid rocket motors",
+    "link": "https://breakingdefense.com/2026/11/raytheon-taps-ursa-major-avio-usa-as-second-source-for-tomahawk-solid-rocket-motors",
+    "date": "2026-11-19",
+    "summary": "The two firms will jointly develop and produce the motors for Raytheon under a “multi-year program,” according to a joint press release.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:29.951276+00:00"
+  },
+  {
+    "id": "8b238a7a87825748",
+    "title": "The real-world missile defense lessons from Ukraine and Iran — and how they matter for China",
+    "link": "https://breakingdefense.com/2026/11/the-real-world-missile-defense-lessons-from-ukraine-and-iran-and-how-they-matter-for-china",
+    "date": "2026-11-19",
+    "summary": "What works in Ukraine may not be the same systems needed for a Pacific conflict, according to Breaking Defense’s video roundtable.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:29.952178+00:00"
+  },
+  {
+    "id": "163ffc775352372a",
+    "title": "Warsaw shoots for the stars: MoD to buy new sats as part of major space expansion plans",
+    "link": "https://breakingdefense.com/2026/11/warsaw-shoots-for-the-stars-mod-to-buy-new-sats-as-part-of-major-space-expansion-plans",
+    "date": "2026-11-19",
+    "summary": "New military satellites are part of a wider plan for Poland to earn a seat at the table with Europe’s major space players, senior Polish defense officials exclusively told Breaking Defense.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:29.953287+00:00"
+  },
+  {
+    "id": "fc74ba423f01d563",
+    "title": "Navy Wants New U.S. Frigate Shipyard Paid for by Foreign Shipbuilder",
+    "link": "https://news.usni.org/2026/11/19/navy-wants-new-u-s-frigate-shipyard-paid-for-by-foreign-shipbuilder",
+    "date": "2026-11-19",
+    "summary": "WASHINGTON — The Navy wants a new foreign-owned shipyard devoted to building small surface combatants in the United States, the service’s nominee for its number two civilian told lawmakers Thursday. Pressed by Sen. Angus King (I-Maine) on whether he supports building warships in foreign yards, nominee Bill Toti said he doesn’t back that approach anymore but argued the Navy needs to find a way to churn out frigates for the fleet. “We have destroyers today doing frigate work,” Toti, a retired Navy captain, said during a Senate Armed Services Committee hearing for his nomination to serve as the…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:31.212622+00:00"
+  },
+  {
+    "id": "9571bdde2ebb95e6",
+    "title": "U.S. Expands Iranian Blockade As Ship Attacks Continue",
+    "link": "https://news.usni.org/2026/11/19/u-s-expands-iranian-blockade-as-ship-attacks-continue",
+    "date": "2026-11-19",
+    "summary": "The U.S. expanded its blockade of Iranian ports and coastline to include any ship that receives cargo via ship-to-ship transfer, according to Joint Maritime Information Center. Any ship that receives cargo via ship-to-ship transfer from a ship that loaded at an Iranian port or coastline could be considered as attempting to evade the U.S.’s blockade, reads the JMIC advisory. The U.S. reinstated the blockade in July after the memorandum of understanding between Iran and the U.S. failed nearly a month into it. Since July, U.S. Navy ships have redirected about 150 ships and disabled five…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:31.215199+00:00"
+  },
+  {
+    "id": "d981576731ffb0a1",
+    "title": "Report to Congress on the Creation of an Autonomous Warfare Command",
+    "link": "https://news.usni.org/2026/11/19/report-to-congress-on-the-creation-of-an-autonomous-warfare-command",
+    "date": "2026-11-19",
+    "summary": "The following is the Nov. 18, 2026, Congressional Research Service report, Autonomous Warfare Command: Background and Considerations for Congress. From the Report On September 30, 2026, Secretary of Defense Pete Hegseth issued a memorandum directing the Direct Reporting Portfolio Manager for Unmanned Systems (DRPM-UxS) to lead Project Agincourt, an effort to create a new combatant command (CCMD) known as Autonomous Warfare Command (AUTOWARCOM). (The Secretary is using “Secretary of War” as a “secondary title” under Executive Order [EO] 14347 dated September 5, 2025.) According to the memo…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:31.217672+00:00"
+  },
+  {
+    "id": "1a920eb68673eef8",
+    "title": "US blast simulation targets China’s alleged secret nuclear testing",
+    "link": "https://www.armscontrol.org/media-citations/south-china-morning-post/2026-11-19",
+    "date": "2026-11-19",
+    "summary": "US blast simulation targets China’s alleged secret nuclear testing News Link https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-t… News Source South China Morning Post Cited Arms Control Association News Date Tuesday, November 3, 2026 - 12:00",
+    "source": "Arms Control Association",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:33.881638+00:00"
+  },
+  {
+    "id": "1753e3dbd8948289",
+    "title": "Dispatch from Manama: The Iran war is not over for Bahrain",
+    "link": "https://www.atlanticcouncil.org/dispatches/dispatch-from-manama-the-most-underappreciated-us-ally-in-the-gulf",
+    "date": "2026-11-19",
+    "summary": "A recent visit to Bahrain offers a window into the ongoing tensions with Iran and diplomatic maneuvering among Gulf nations.",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:43.962175+00:00"
+  },
+  {
+    "id": "8bdf5f0ce54f2248",
+    "title": "Kyiv’s partners should prioritize Ukraine’s domestic drone production",
+    "link": "https://www.atlanticcouncil.org/blogs/ukrainealert/kyivs-partners-should-prioritize-ukraines-domestic-drone-production",
+    "date": "2026-11-19",
+    "summary": "Ukrainian long-range drone strikes have reduced Russian oil refining output by around 45 percent in the past few weeks, Reuters reports. Kyiv's partners should build on this success and prioritize funding for Ukraine's domestic drone industry, writes Leonid Baratz.",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:43.964031+00:00"
+  },
+  {
+    "id": "a8ed206e0fff35aa",
+    "title": "US Energy Secretary Chris Wright and Polish Energy Minister Miłosz Motyka on why Europe’s security depends on its energy supply",
+    "link": "https://www.atlanticcouncil.org/news/transcripts/us-energy-secretary-chris-wright-and-polish-energy-minister-milosz-motyka-on-why-europes-security-depends-on-its-energy-supply",
+    "date": "2026-11-19",
+    "summary": "The two energy leaders spoke at the seventh Partnership for Transatlantic Energy Cooperation in Warsaw.",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:43.965123+00:00"
+  },
+  {
+    "id": "63acbc3addcdbe83",
+    "title": "The foresight brief: Chokepoints past, present, and future",
+    "link": "https://www.atlanticcouncil.org/in-depth-research-reports/issue-brief/the-foresight-brief-chokepoints-past-present-and-future",
+    "date": "2026-11-19",
+    "summary": "Maritime straits, canals, ports, rivers, subsea cables, data centers, and cloud infrastructure are concentrated points of connection. Yet their significance is changing as supply chains evolve, geopolitical competition intensifies, and climate change reshapes the physical world.",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:43.968020+00:00"
+  },
+  {
+    "id": "e63db1100a913d03",
+    "title": "The yttrium squeeze: How a little-known rare earth became China’s latest geopolitical lever",
+    "link": "https://www.lowyinstitute.org/the-interpreter/the-yttrium-squeeze-how-a-little-known-rare-earth-became-china-s-latest-geopolitical-lever",
+    "date": "2026-11-19",
+    "summary": "A 98% collapse in sales to one buyer highlights how industrial system power can translate into influence.",
+    "source": "Lowy Institute - The Interpreter",
+    "source_region": "other",
+    "subject_region": "china",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:49.324067+00:00"
+  },
+  {
+    "id": "c66ecf2060a622cf",
+    "title": "CISA nominee LoSapio vows to bolster cyber defenses while denying Jan. 6 Capitol attack",
+    "link": "https://therecord.media/cisa-losapio-nomination-trump",
+    "date": "2026-11-19",
+    "summary": "President Donald Trump’s pick to lead the Cybersecurity and Infrastructure Security Agency pledged to lawmakers to uncover any “gaps” within the organization while also denying the Capitol came under attack on January 6, 2021.",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-20T14:56:50.496468+00:00"
   },
   {
     "id": "0bc846b2a33357a4",
