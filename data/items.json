@@ -1,5 +1,153 @@
 [
   {
+    "id": "80547dc118334ddb",
+    "title": "La Belgique valide sa participation au programme d’Engin du génie de combat, lancé par la France",
+    "link": "https://www.opex360.com/2026/11/21/la-belgique-valide-sa-participation-au-programme-dengin-du-genie-de-combat-lance-par-la-france",
+    "date": "2026-11-21",
+    "summary": "Le programme SCORPION [Synergie du Contact Renforcée par la polyvalence et l’infovalorisation] s’est jusqu’à présent concentré sur le remplacement des blindés médians de l’armée de Terre, avec le développement des Griffon, Serval et autres Jaguar. Dans un second temps, il doit aussi permettre de renouveler les capacités de l’arme du Génie, notamment via le programme...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:15:47.565413+00:00"
+  },
+  {
+    "id": "84e3345a1b451023",
+    "title": "Le sous-marin nucléaire d’attaque De Grasse a été officiellement admis au service actif",
+    "link": "https://www.opex360.com/2026/11/21/le-sous-marin-nucleaire-dattaque-de-grasse-a-ete-officiellement-admis-au-service-actif",
+    "date": "2026-11-21",
+    "summary": "Les trois premiers sous-marins nucléaires d’attaque [SNA] de la classe Suffren [ou Barracuda] furent admis au service actif environ sept mois après leur livraison à la Marine nationale, ce délai correspondant à la durée de leur déploiement de longue durée [DLD], étape indispensable pour vérifier leurs capacités et leurs caractéristiques militaires dans différents environnements. Plus...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:15:47.567632+00:00"
+  },
+  {
+    "id": "5058437fb145d631",
+    "title": "Russia says cargo vessel struck by drones, Finland says it is on fire in its waters",
+    "link": "https://reut.rs/496OyLT",
+    "date": "2026-11-21",
+    "summary": "Russian officials ​said on Saturday that a cargo vessel bound ‌for Kaliningrad was attacked by two drones in neutral waters in the Gulf of Finland, three nautical ​miles from Russia's border.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.573143+00:00"
+  },
+  {
+    "id": "8a08f5b851661108",
+    "title": "Tanker hit by unknown projectile near Oman's Khasab, UKMTO says",
+    "link": "https://reut.rs/4thqzDg",
+    "date": "2026-11-21",
+    "summary": "A tanker sailing outbound through ​the Strait of Hormuz ‌was hit on its stern by an unidentified projectile about ​11 nautical miles north ​of Oman's Khasab, the United ⁠Kingdom Maritime Trade Operations (UKMTO) ​said on Saturday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.589101+00:00"
+  },
+  {
+    "id": "2fb5d995573ca560",
+    "title": "South Korea's Lee says speed is vital in AI race on data centre visit",
+    "link": "https://reut.rs/4zBQjeX",
+    "date": "2026-11-21",
+    "summary": "South Korean President Lee Jae Myung on Saturday urged the country to move fast as it competes ​in the global AI race, as he toured a ‌data centre under construction in the southeastern city of Ulsan.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.603014+00:00"
+  },
+  {
+    "id": "598b994b5e7f5b95",
+    "title": "Army toxic detonation in Iowa paused amid public outcry, farm disruption",
+    "link": "https://reut.rs/4zZxCCS",
+    "date": "2026-11-21",
+    "summary": "A federal judge late on Thursday paused a US Army plan to detonate 68 barrels of toxic lead azide in Iowa after a lawsuit was filed by environmental groups in an effort to stop it.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.613078+00:00"
+  },
+  {
+    "id": "c9996a3ab0f14714",
+    "title": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
+    "link": "https://reut.rs/4jv6ea4",
+    "date": "2026-11-21",
+    "summary": "The Saudi-led coalition fighting Yemen's Iran-aligned Houthis said on Saturday it had intercepted and destroyed three ​ballistic missiles fired towards Riyadh, marking the second Houthi attack ‌on the Saudi capital in a few days, after its tallest skyscraper was struck on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.620829+00:00"
+  },
+  {
+    "id": "34b34eb1a4a3f84a",
+    "title": "EXCLUSIVE: Lutnick asked battery startup Pure Lithium to accept US takeover, documents and source say",
+    "link": "https://reut.rs/3VFvaCE",
+    "date": "2026-11-21",
+    "summary": "US Commerce Secretary Howard Lutnick asked battery startup Pure Lithium in July to give Washington a 51% controlling stake in exchange for funds to build a manufacturing plant that the company would not own or control, according to documents reviewed by Reuters and a person with direct knowledge of the request.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.628109+00:00"
+  },
+  {
+    "id": "842a36e91e1783a8",
+    "title": "US Defense Secretary Hegseth restricts military ties with Canada, Washington Post reports",
+    "link": "https://reut.rs/4t8PB7f",
+    "date": "2026-11-21",
+    "summary": "US Defense ​Secretary Pete ‌Hegseth imposed ​new ​restrictions on the ⁠US-Canada ​defense ​relationship in a memo ​issued ​last week, the ‌Washington ⁠Post reported on ​Friday, ​citing ⁠officials familiar ​with ​the ⁠directive.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.631954+00:00"
+  },
+  {
     "id": "284247474fd53ee4",
     "title": "L’attaque ukrainienne du pont de Crimée pourrait marquer un tournant",
     "link": "https://legrandcontinent.eu/fr/2026/11/20/pourquoi-lattaque-ukrainienne-du-pont-de-crimee-pourrait-marquer-un-tournant",
@@ -385,6 +533,702 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-11-20T14:56:50.492834+00:00"
+  },
+  {
+    "id": "d962267ac2776d7d",
+    "title": "Missiles russes en Pologne : les actions hostiles contre l’Europe ont plus que doublé depuis octobre",
+    "link": "https://legrandcontinent.eu/fr/2026/11/20/missiles-russes-en-pologne-les-actions-hostiles-contre-leurope-ont-plus-que-double-depuis-octobre",
+    "date": "2026-11-20",
+    "summary": "Du 14 au 20 novembre, la revue a recensé 22 actions hostiles contre l’Europe, dont 10 attribuées à la Russie ou soupçonnées de l’être L’article Missiles russes en Pologne : les actions hostiles contre l’Europe ont plus que doublé depuis octobre est apparu en premier sur Le Grand Continent .",
+    "source": "Le Grand Continent",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:15:31.533886+00:00"
+  },
+  {
+    "id": "5c221e09d76fa717",
+    "title": "Comme prévu, la Marine nationale a reçu son troisième avion de surveillance maritime «Albatros» en 2026",
+    "link": "https://www.opex360.com/2026/11/20/comme-prevu-la-marine-nationale-a-recu-son-troisieme-avion-de-surveillance-maritime-albatros-en-2026",
+    "date": "2026-11-20",
+    "summary": "Comme prévu au moment de la notification du programme AVSIMAR [Avion de Surveillance et d’Intervention MARitime] à Dassault Aviation par la Direction générale de l’armement [DGA] l’Aéronautique navale peut désormais compter sur trois Falcon Albatros dès cette année, sur les sept qui avaient été commandés en 2020. En effet, après que les deux premiers exemplaires...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:15:47.569985+00:00"
+  },
+  {
+    "id": "3fa67ccbde32fb87",
+    "title": "L’Argentine envisage l’achat de trois corvettes FCX20 auprès de l’Italie",
+    "link": "https://www.opex360.com/2026/11/20/largentine-envisage-lachat-de-trois-corvettes-fcx20-aupres-de-litalie",
+    "date": "2026-11-20",
+    "summary": "Pourtant urgent, l’achat de trois nouveaux sous-marins pour la marine argentine [Armada Argentina] n’a toujours pas été finalisé par Buenos Aires, qui, il y a deux ans, avait pourtant marqué sa préférence pour le Scorpène proposé par le français Naval Group. Seulement, l’épineuse question du financement n’a toujours pas été réglée, ce qui pourrait profiter...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:15:47.572679+00:00"
+  },
+  {
+    "id": "86beba50e536f1c1",
+    "title": "Le ministère des Armées veut porter la production française d’obus de 155 mm à 150 000 unités par an d’ici 2029",
+    "link": "https://www.opex360.com/2026/11/20/le-ministere-des-armees-porter-la-production-dobus-de-155-mm-a-150-000-exemplaires-par-an-dici-2029",
+    "date": "2026-11-20",
+    "summary": "Selon des chiffres du ministère des Armées, la production française d’obus d’artillerie de 155 mm s’élevait en moyenne à 500 unités par an entre 2012 et 2017. Puis, avec la perspective d’un engagement de «haute intensité» et, surtout, la guerre en Ukraine, les cadences se sont accélérées. Ainsi, dans leur rapport sur l’avenir de l’artillerie,...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:15:47.574998+00:00"
+  },
+  {
+    "id": "e8a4f762dcceb8a1",
+    "title": "Alice Ekman on the risks of Trump facing a united Xi and Putin in Shenzhen",
+    "link": "https://www.iss.europa.eu/press/alice-ekman-risks-trump-facing-united-xi-and-putin-shenzhen",
+    "date": "2026-11-20",
+    "summary": "Alice Ekman on the risks of Trump facing a united Xi and Putin in Shenzhen marianna.liana… Speaking to L'Express ahead of the Trump-Xi-Putin meeting in Shenzhen, Alice Ekman cautioned that Trump, weakened by the midterm elections and lacking a firm grasp of the complexities of the war in Ukraine, could be influenced by Xi and Putin. \"Trump will find himself alone facing two leaders whose countries are continually strengthening their ties and have decided to present a united front against the US,\" she explained. \"Faced with an erratic American president, Xi and Putin are aligned on numerous…",
+    "source": "EUISS",
+    "source_region": "eu",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:15:51.054824+00:00"
+  },
+  {
+    "id": "ce5e71b6df75c325",
+    "title": "Investment at home, cooperation in Europe: How Italy can deal with hybrid threats – European Council on Foreign Relations",
+    "link": "https://ecfr.eu/article/investment-at-home-cooperation-in-europe-how-italy-can-deal-with-hybrid-threats",
+    "date": "2026-11-20",
+    "summary": "Italy is lagging in Europe when it comes to handling hybrid threats. Here is what it should do",
+    "source": "ECFR",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:15:52.184835+00:00"
+  },
+  {
+    "id": "be01ce5bbe8ef332",
+    "title": "What Ukraine Hath Wrought: Lessons for War, If We’re Listening",
+    "link": "https://warontherocks.com/what-ukraine-hath-wrought-lessons-for-war-if-were-listening",
+    "date": "2026-11-20",
+    "summary": "Four years into Russia’s war against Ukraine, what should the U.S. military have learned by now? Michael Kofman (Carnegie Endowment), Dara Massicot (Carnegie Endowment), and Amos Fox (Arizona State University) join Ryan to discuss. The easy answer is drones and AI, but our guests argue the harder truths lie elsewhere: “Old-fashioned” ideas like campaigning, holding territory, mass, and attrition still decide wars. And, as they discuss, based on U.S. performance in the war with Iran, it may be that not much learning has happened at all.Image: ArmyInform",
+    "source": "War on the Rocks",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:15:57.082388+00:00"
+  },
+  {
+    "id": "ab2f134f16371319",
+    "title": "FCC grants tech import waivers as firms boost US investment",
+    "link": "https://reut.rs/4AOHIXt",
+    "date": "2026-11-20",
+    "summary": "The Federal Communications Commission said on Friday it has granted approvals to 71 companies in 2026 to continue importing drones, ​wireless routers, robots and power inverters that would have been barred under US national ‌security restrictions.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.653353+00:00"
+  },
+  {
+    "id": "a31a9fcaafd6dbef",
+    "title": "Two Salvadorans killed in Haiti handling explosives in first official deaths since deployment",
+    "link": "https://reut.rs/4AMmIAx",
+    "date": "2026-11-20",
+    "summary": "Two Salvadoran soldiers were killed while working with explosives in Haiti, ‌El Salvador's military said on Friday, marking the first officially reported deaths under the large-scale deployment that began a month ago.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.658434+00:00"
+  },
+  {
+    "id": "af780f8ea383e27a",
+    "title": "Denmark says it thwarted Russian plot to assassinate US-Ukrainian rapper",
+    "link": "https://reut.rs/4tdo58R",
+    "date": "2026-11-20",
+    "summary": "Danish police averted an attempt by Russian intelligence services to assassinate a US-Ukrainian rapper ‌in September ahead of a planned performance, police and security officials said on Friday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.662406+00:00"
+  },
+  {
+    "id": "e22fe36c5d240dd1",
+    "title": "Explosion on Iran's Qeshm Island linked to disposal of unexploded munitions, Tasnim reports",
+    "link": "https://reut.rs/4AKURjZ",
+    "date": "2026-11-20",
+    "summary": "An ​explosion and smoke ⁠seen on ​Iran's Qeshm ​Island were caused by disposal of ​unexploded ​munitions, Iran's semi-official Tasnim ‌news ⁠agency reported on Friday, citing ​an ​official, ⁠after having earlier ​reported a ​missile ⁠strike there.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.665627+00:00"
+  },
+  {
+    "id": "29973f32edf08588",
+    "title": "New Mexico high court must face DOJ lawsuit over lawyer licensing of military spouses",
+    "link": "https://reut.rs/4Cha0eD",
+    "date": "2026-11-20",
+    "summary": "The US Department of Justice can move ahead with its lawsuit against the New Mexico Supreme Court over its refusal to recognize the ​out-of-state law licenses of military servicemembers and their spouses, a federal ‌judge has ruled.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.667157+00:00"
+  },
+  {
+    "id": "c884469eb807f6b8",
+    "title": "Houthi attacks add to worries over Trump Saudi nuclear power pact",
+    "link": "https://reut.rs/4CghdLY",
+    "date": "2026-11-20",
+    "summary": "Houthi attacks on Saudi infrastructure are adding to concerns about US President Donald Trump's proposed nuclear power pact with the kingdom, weeks before US senators are due ​to vote on whether to block the agreement.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.670320+00:00"
+  },
+  {
+    "id": "62a6af8d148d936d",
+    "title": "Former Nvidia CEO Huang agreed to testify at public US Senate hearing, senator's aide says",
+    "link": "https://reut.rs/4j5S1iq",
+    "date": "2026-11-20",
+    "summary": "Former Nvidia CEO ​Jensen Huang has agreed to testify before the ‌US Senate in a public hearing, an aide to Republican US Senator Tim Scott ​said in a statement on ​Friday, as lawmakers probe allegations about ⁠Huang's ties to a woman accused ​of being a Chinese spy.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.674713+00:00"
+  },
+  {
+    "id": "2fee9aa3521ad3fe",
+    "title": "American detained in Cuba for nearly a decade released, CNN reports",
+    "link": "https://reut.rs/4ALIZOR",
+    "date": "2026-11-20",
+    "summary": "An American detained in ​Cuba since 2017 ‌after being accused of espionage ​has been ​released, CNN reported on ⁠Friday, citing ​two sources familiar ​with the matter and a State ​Department spokesperson.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.679573+00:00"
+  },
+  {
+    "id": "3c176c705d2a0ded",
+    "title": "Trump says US to penalize firms building data centers abroad",
+    "link": "https://reut.rs/4t94GFS",
+    "date": "2026-11-20",
+    "summary": "President Donald Trump said on Friday ​that the US would penalize American companies that build data ‌centers overseas, a move he said is intended to help the US artificial intelligence sector compete with its Chinese counterparts.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.685817+00:00"
+  },
+  {
+    "id": "b37593cb55770024",
+    "title": "Trump, Xi agreed that military AI decisions should involve humans, Bessent says",
+    "link": "https://reut.rs/4zUCxFf",
+    "date": "2026-11-20",
+    "summary": "US President Donald Trump and Chinese ‌President Xi Jinping agreed humans should always be involved in military decisions that use artificial intelligence technologies, even as the two countries compete for AI supremacy, Treasury Secretary Scott Bessent said on Friday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.692093+00:00"
+  },
+  {
+    "id": "4cc84b6dba394ee3",
+    "title": "EXCLUSIVE: Italy seeks security safeguards in Finnish bid for rocket maker Avio, sources say",
+    "link": "https://reut.rs/48rNxxT",
+    "date": "2026-11-20",
+    "summary": "Italy's government ​wants to ensure a €2 billion ($2.2 billion) bid by Finland's Iceye for rocket maker Avio preserves the ‌company's domestic presence and favours keeping state-controlled defence group Leonardo as a key shareholder, three people with direct knowledge of the matter said.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.697581+00:00"
+  },
+  {
+    "id": "25689b0969f60984",
+    "title": "Germany's Merz says Qatar pledged €15 billion in investments",
+    "link": "https://reut.rs/4iStzCr",
+    "date": "2026-11-20",
+    "summary": "German Chancellor Friedrich Merz said on Friday that ​Qatar had pledged to invest ‌an additional €15 billion ($16.5 billion) in Germany as part of a deepening ​collaboration covering defence and ​technology.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.702358+00:00"
+  },
+  {
+    "id": "26d49541c4e6eae4",
+    "title": "Bessent advocates lower Fed rate hike, cites energy shock",
+    "link": "https://reut.rs/4iUdeNF",
+    "date": "2026-11-20",
+    "summary": "US Treasury Secretary Scott Bessent urged ​the Federal Reserve ‌to not embrace a big interest rate hike as ​some Fed governors ​are doing, citing the ⁠energy supply shock and ​a drop in crude ​delivery prices.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.703899+00:00"
+  },
+  {
+    "id": "c7c416b6acfee1a7",
+    "title": "UK PM Burnham condemns Russian violation of Polish airspace",
+    "link": "https://reut.rs/4tbq7q3",
+    "date": "2026-11-20",
+    "summary": "British Prime Minister Andy Burnham said ​on Friday Russia's violation of Polish airspace was \"utterly unacceptable\", ‌a move defence minister Wes Streeting described as an attempt to divide Ukraine's European allies that ​would fail.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.710008+00:00"
+  },
+  {
+    "id": "3721025dff2e8b93",
+    "title": "The snowballing selloff in global markets",
+    "link": "https://reut.rs/3UG1Vzm",
+    "date": "2026-11-20",
+    "summary": "A global financial market rout has taken a major turn for the worse this week as a noxious combination of worries over AI and US interest rates triggered an avalanche of selling from stocks to copper and gold.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.719365+00:00"
+  },
+  {
+    "id": "da5f5442fd83f988",
+    "title": "Global equity funds attract inflows for a ninth straight week",
+    "link": "https://reut.rs/4CcvbhM",
+    "date": "2026-11-20",
+    "summary": "Global equity funds attracted significant inflows in the week through November 18. Investors found confidence in a strong third-quarter earnings season and easing crude oil prices ​to build long-term positions, despite a recent surge in volatility among ‌some major technology stocks.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.736871+00:00"
+  },
+  {
+    "id": "20471286c1b89f0a",
+    "title": "US equity funds draw inflows for a third straight week",
+    "link": "https://reut.rs/4fnALUP",
+    "date": "2026-11-20",
+    "summary": "Investors bought US equity funds for a third straight week in the week to November 18, supported by strong earnings fundamentals and cooling ​crude oil prices despite a recent surge in market volatility ‌and growing uncertainty over the AI trade.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.740657+00:00"
+  },
+  {
+    "id": "a1585ca4da93b511",
+    "title": "Two men to stand trial in UK next year over RAF Fairford incident allegedly linked to Iran",
+    "link": "https://reut.rs/4fLOYen",
+    "date": "2026-11-20",
+    "summary": "Two men charged over September's security incident at the RAF Fairford military base, which British and US prosecutors say was orchestrated on ​behalf of Iran, will stand trial in London in November ‌next year, a judge said on Friday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:03.747913+00:00"
+  },
+  {
+    "id": "53435d2f1c44d998",
+    "title": "Air Force issues massive $16B contract for engine work to dozens of companies",
+    "link": "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies",
+    "date": "2026-11-20",
+    "summary": "A Pentagon notice said 58 companies were selected to participate in a broad contract for “advanced propulsion enterprise work” through 2041.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:06.592804+00:00"
+  },
+  {
+    "id": "c9257338bd4bc8d6",
+    "title": "This counter-UAS system senses deep inside neighboring borders to detect and defeat drones",
+    "link": "https://breakingdefense.com/2026/11/this-counter-uas-system-senses-deep-inside-neighboring-borders-to-detect-and-defeat-drones",
+    "date": "2026-11-20",
+    "summary": "[Sponsored] Long-range detection capabilities extend decision time for counter-UAS actions.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:06.593990+00:00"
+  },
+  {
+    "id": "350f684ab4bde979",
+    "title": "Navy’s shipbuilding plan would require massive hike in annual appropriations: CBO",
+    "link": "https://breakingdefense.com/2026/11/navys-shipbuilding-plan-would-require-massive-hike-in-annual-appropriations-cbo",
+    "date": "2026-11-20",
+    "summary": "The Navy’s shipbuilding plan released in May would average out to an annual cost of roughly $53.8 billion in shipbuilding appropriations — a 41 percent increase from the last five years, the Congressional Budget Office found.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:06.595546+00:00"
+  },
+  {
+    "id": "a5778f905925e69d",
+    "title": "Autonomy firm Auterion to launch joint venture with Ukrainian drone maker Skyfall",
+    "link": "https://breakingdefense.com/2026/11/autonomy-firm-auterion-to-launch-joint-venture-with-ukrainian-drone-maker-skyfall",
+    "date": "2026-11-20",
+    "summary": "The new venture, called Skyfall X Auterion, will produce Skyfall drones with Auterion software in Germany, “outside the range of air strikes,” Auterion said.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:06.597036+00:00"
+  },
+  {
+    "id": "5cf34d419f5bf62d",
+    "title": "Sweden’s Nordic Air Defence launches K200 drone interceptor, pushes toward Ukraine tests",
+    "link": "https://breakingdefense.com/2026/11/swedens-nordic-air-defence-launches-k200-drone-interceptor-pushes-toward-ukraine-tests",
+    "date": "2026-11-20",
+    "summary": "The Swedish firm said that the counter-drone solution, a successor to the Kreuger 100XR, is designed to intercept jet-powered types, including the Russian Geran-3a.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:06.598278+00:00"
+  },
+  {
+    "id": "c4e63a23e818275e",
+    "title": "Trump to keynote Reagan National Defense Forum",
+    "link": "https://breakingdefense.com/2026/11/trump-to-keynote-reagan-national-defense-forum",
+    "date": "2026-11-20",
+    "summary": "Trump will be the first president to attend the RNDF, which has steadily grown in size over the years.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:06.599036+00:00"
+  },
+  {
+    "id": "db39b8b5bc64bec9",
+    "title": "One data foundation and many application layers drive the Army’s NGC2 transformation",
+    "link": "https://breakingdefense.com/2026/11/one-data-foundation-and-many-application-layers-drive-the-armys-ngc2-transformation",
+    "date": "2026-11-20",
+    "summary": "Across the Indo-Pacific, the Army is testing how shared data and open systems can speed battlefield decisions.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:06.600040+00:00"
+  },
+  {
+    "id": "71d197f5768c18dc",
+    "title": "Pentagon CIO Davies tapped as acting National Cyber Director",
+    "link": "https://breakingdefense.com/2026/11/pentagon-cio-davies-tapped-as-acting-national-cyber-director",
+    "date": "2026-11-20",
+    "summary": "Kirsten Davies is taking over the role for Sean Cairncross at the White House.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:06.600823+00:00"
+  },
+  {
+    "id": "90669907ac9bcc3d",
+    "title": "Navy’s Shipbuilding Plan Would Exceed Budget Estimates by Hundreds of Billions, CBO Finds",
+    "link": "https://news.usni.org/2026/11/20/navys-shipbuilding-plan-would-exceed-budget-estimates-by-hundreds-of-billions-cbo-finds",
+    "date": "2026-11-20",
+    "summary": "Increasing the size of the Navy’s fleet by 112 ships over the next three decades would require a 41 percent increase in the sea service’s annual budget and exceed the Navy’s own budget estimates by about 18 percent – a total delta of some $234 billion. That’s according to a new analysis from the Congressional Budget Office, released Wednesday. The report evaluates the 30-year shipbuilding plan for Fiscal Year 2027 that the Navy submitted to Congress in May, which would take the fleet from its current 286 ships to 398 by 2056. The Department of Defense submitted the Navy’s shipbuilding",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:07.743060+00:00"
+  },
+  {
+    "id": "ed123571169e94a6",
+    "title": "Pearl Harbor Hero Doris Miller Will Stay Namesake of CVN-81",
+    "link": "https://news.usni.org/2026/11/20/pearl-harbor-hero-doris-miller-will-stay-namesake-of-cvn-81",
+    "date": "2026-11-20",
+    "summary": "The future aircraft carrier CVN-81 will keep its name of USS Doris Miller, USNI News has learned. HII’s Newport News Shipbuilding will lay the ceremonial keel for the future Doris Miller on Dec. 5, according to an invitation to the ceremony reviewed by USNI News. The ship is named after the enlisted sailor who received the Navy Cross for his heroics during the attack on Pearl Harbor. Miller, 25, died in the Battle of Makin. Earlier this year, CNN reported that the Navy was considering naming CVN-81, potentially in honor of President Donald Trump. Following the reporting, several defense…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:07.746306+00:00"
+  },
+  {
+    "id": "4227970bf166cba1",
+    "title": "USNI News Western Pacific Pulse: Nov. 20, 2026",
+    "link": "https://news.usni.org/2026/11/20/usni-news-western-pacific-pulse-nov-20-2026",
+    "date": "2026-11-20",
+    "summary": "﻿ The following is a summary of major ship movements and exercises in the Western Pacific over the last week. In Singapore On Friday, amphibious assault ship USS Makin Island (LHD-8) and amphibious transport dock USS John P. Murtha (LPD-26) pulled into Sembawang, Singapore, according to local ship spotters and AIS data. Makin Island and John P. Murtha, with amphibious transport dock USS Anchorage (LPD-23) and the embarked 13th Marine Expeditionary Unit, form the Makin Island Amphibious Ready Group. Anchorage remains docked at Commander Fleet Activities Yokosuka in Japan. Littoral Combat Ship…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:07.750424+00:00"
+  },
+  {
+    "id": "97257b562f7c535d",
+    "title": "CBO Analysis of the Navy’s Fiscal Year 2027 Shipbuilding Plan",
+    "link": "https://news.usni.org/2026/11/20/cbo-analysis-of-the-navys-fiscal-year-2027-shipbuilding-plan",
+    "date": "2026-11-20",
+    "summary": "The following is the Congressional Budget Office’s Analysis of the Navy’s Fiscal Year 2027 Shipbuilding Plan, released Nov. 19, 2026. From the Report Summary Each year, as directed by the Congress, the Department of Defense submits a report with the President’s budget describing the Navy’s plan for its future fleet for the next 30 years. In this report, the Congressional Budget Office analyzes the Navy’s 2027 plan and estimates its costs. Overall, the Navy wants to build a larger fleet whose firepower is distributed among more ships and unmanned vessels than it is today. Cost. CBO estimates…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:07.753648+00:00"
+  },
+  {
+    "id": "a8aae706eec9193e",
+    "title": "U.S., Philippine Marines Set Up Surveillance Radar in Palawan",
+    "link": "https://news.usni.org/2026/11/20/u-s-philippine-marines-set-up-surveillance-radar-in-palawan",
+    "date": "2026-11-20",
+    "summary": "MANILA, Philippines — U.S. and Philippine Marines set up coastal surveillance radar on a beach facing the South China Sea during a maritime strike targeting drill earlier this month. Marines with Marine Rotational Force-Southeast Asia practiced deploying a Ground Based Maritime Systems-Light system in Aporawan, Palawan, with their Philippine counterparts on Nov. 5. The activity was held under the latest iteration of the Archipelagic Coastal Defense Continuum. These series of small bilateral drills aim to enhance Philippine forces through training activities involving maritime domain awareness…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:07.756737+00:00"
+  },
+  {
+    "id": "736cbba3529eabc2",
+    "title": "Opportunity for a Course Correction?",
+    "link": "https://www.armscontrol.org/blog/2026-11-20/opportunity-course-correction",
+    "date": "2026-11-20",
+    "summary": "Opportunity for a Course Correction? Inside the Arms Control Association November 2026 By any objective standard, over the past two years the world has witnessed greater global unpredictability, conflict, and tensions. President Trump and his team have allowed a key U.S.-Russian nuclear arms control treaty (New START) to expire without replacement, threatened to resume nuclear testing, launched an exotic space-based strategic missile interceptor scheme, and expanded spending on nuclear weapons modernization, including on new types of “more usable” tactical nuclear warheads. As President Putin…",
+    "source": "Arms Control Association",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:11.744834+00:00"
+  },
+  {
+    "id": "25bcc2e5cf9caa5c",
+    "title": "Pennsylvania Governor Josh Shapiro outlines his vision for US leadership in the world",
+    "link": "https://www.atlanticcouncil.org/commentary/event-recap/pennsylvania-governor-josh-shapiro-outlines-his-vision-for-us-leadership-in-the-world",
+    "date": "2026-11-20",
+    "summary": "At the Atlantic Council's NATO in America conference, Shapiro said the United States has an opportunity to push forward a new foreign policy centered on security and prosperity.",
+    "source": "Atlantic Council",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:20.929752+00:00"
+  },
+  {
+    "id": "c328feeee111985a",
+    "title": "Container Store restores systems after cyberattack",
+    "link": "https://therecord.media/container-store-restores-systems-cyberattack",
+    "date": "2026-11-20",
+    "summary": "The firm’s parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a cybersecurity incident this past weekend.”",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:26.755152+00:00"
+  },
+  {
+    "id": "1591f2e90752e69f",
+    "title": "NSA resumes normal operations following internal network disruptions",
+    "link": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions",
+    "date": "2026-11-20",
+    "summary": "Certain facilities remain under “Code Orange” for non-essential employees, meaning delayed openings and some must check in with their supervisors.",
+    "source": "The Record (Recorded Future News)",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:26.757593+00:00"
+  },
+  {
+    "id": "f89861c7282117f0",
+    "title": "Experts React: Takeaways from President Trump’s Trip to Asia",
+    "link": "https://www.csis.org/analysis/experts-react-takeaways-president-trumps-trip-asia",
+    "date": "2026-11-20",
+    "summary": "CSIS experts react to President Trump’s trip to China and share their reactions to the ASEAN Summit, Quad leaders’ meeting, APEC Summit, and Trump-Putin-Xi trilateral meeting.",
+    "source": "CSIS - Project on Nuclear Issues",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:16:35.246434+00:00"
   },
   {
     "id": "2f066f0e1eb549bc",
@@ -1423,6 +2267,24 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-11-20T14:56:50.496468+00:00"
+  },
+  {
+    "id": "70a493cd4c2390f0",
+    "title": "The OSINT Newsletter - Issue #131",
+    "link": "https://osintnewsletter.com/p/131",
+    "date": "2026-11-19",
+    "summary": "Finding New OSINT Methods on Mobile Apps",
+    "source": "The OSINT Newsletter",
+    "source_region": "other",
+    "subject_region": "other",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [
+      "intelligence"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-21T14:15:36.240186+00:00"
   },
   {
     "id": "0bc846b2a33357a4",
