@@ -1,5 +1,607 @@
 [
   {
+    "id": "1bb01b183d6ecfcf",
+    "title": "SpaceX obtient l’autorisation de lancer un million de centres de données en orbite d’ici 2040",
+    "link": "https://legrandcontinent.eu/fr/2026/11/26/spacex-obtient-lautorisation-de-lancer-un-million-de-centres-de-donnees-en-orbite-dici-2040",
+    "date": "2026-11-26",
+    "summary": "L'entreprise viserait 77 GW de puissance de calcul en orbite en 2031 L’article SpaceX obtient l’autorisation de lancer un million de centres de données en orbite d’ici 2040 est apparu en premier sur Le Grand Continent .",
+    "source": "Le Grand Continent",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:04.666630+00:00"
+  },
+  {
+    "id": "30d49e1df3ef5548",
+    "title": "This Week in Missiles, 26 November 2026: Germany is Eying an ITAR-Free Engine for Taurus",
+    "link": "https://missilematters.substack.com/p/this-week-in-missiles-26-november",
+    "date": "2026-11-26",
+    "summary": "Also: Aster 30B1NT intercepts a ballistic missile practice target, Raytheon develops a second Tomahawk booster source, and Evonik eyes ammonium perchlorate production.",
+    "source": "Missile Matters",
+    "source_region": "eu",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:07.993939+00:00"
+  },
+  {
+    "id": "a0eb6e6b958c66d4",
+    "title": "The OSINT Newsletter - Issue #132",
+    "link": "https://osintnewsletter.com/p/132",
+    "date": "2026-11-26",
+    "summary": "Crowdfunding & Fundraising OSINT: Following the Money and the Connections",
+    "source": "The OSINT Newsletter",
+    "source_region": "other",
+    "subject_region": "other",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [
+      "intelligence"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:09.179238+00:00"
+  },
+  {
+    "id": "ae1d6ac2e5946c49",
+    "title": "Luttes de pouvoir dans l’IA : entre bulle financière et révolution industrielle",
+    "link": "https://www.iris-france.org/luttes-de-pouvoir-dans-lia-entre-bulle-financiere-et-revolution-industrielle",
+    "date": "2026-11-26",
+    "summary": "L’affaire Nvidia renvoie à des visions fondamentalement opposées de la stratégie technologique, bien au-delà de l’espionnage présumé et des lignes de fracture politiques. Derrière le retour de Jensen Huang à la tête de l’entreprise s’est manifestée l’opposition entre les intérêts des fournisseurs de modèles d’intelligence artificielle (IA), comme Anthropic ou OpenAI, et ceux des acteurs de l’infrastructure physique, en particulier des entreprises de semi-conducteurs, comme Nvidia. Bien que ces acteurs soient liés par un réseau complexe d’investissements circulaires, le secteur des…",
+    "source": "IRIS",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:15.120067+00:00"
+  },
+  {
+    "id": "b6a3f00e0af67a43",
+    "title": "La Finlande commande 160 véhicules de combat d’infanterie CV90 MKIV Nordic Edition pour 2,8 milliards d’euros",
+    "link": "https://www.opex360.com/2026/11/26/la-finlande-commande-160-vehicules-de-combat-dinfanterie-cv90-mkiv-nordic-edition-pour-28-milliards-deuros",
+    "date": "2026-11-26",
+    "summary": "Héritage de la politique de stricte neutralité entre les blocs de l’Ouest et de l’Est menée par Helsinki durant la Guerre froide, l’armée finlandaise dispose encore de nombreux équipements militaires d’origine soviétique, dont au moins 110 véhicules de combat d’infanterie [VCI] BMP-2MD, qu’elle a reçus entre 1988 et 1992. Étant désormais anciens, bien que constamment...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:17.287712+00:00"
+  },
+  {
+    "id": "786862f966866c73",
+    "title": "L’Ukraine souhaiterait obtenir entre dix et vingt anciens Eurofighter F-2000 auprès de l’Italie",
+    "link": "https://www.opex360.com/2026/11/26/lukraine-souhaiterait-obtenir-entre-dix-et-vingt-anciens-eurofighter-f-2000-aupres-de-litalie",
+    "date": "2026-11-26",
+    "summary": "La semaine passée, lors d’une d’une réunion du groupe de contact sur la défense de l’Ukraine [UDCG, encore appelé «groupe de Ramstein»], lequel comprend un quarantaine de pays, le président ukrainien, Volodymyr Zelenski a demandé la livraison rapide d’au moins quarante chasseurs-bombardiers F-16 supplémentaires pour renforcer sa force aérienne. Et cela alors que celle-ci n’en...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:17.289969+00:00"
+  },
+  {
+    "id": "86e2b344328a6a91",
+    "title": "Where Soldiers Enjoyed Thanksgiving",
+    "link": "https://warontherocks.com/where-soldiers-enjoyed-thanksgiving",
+    "date": "2026-11-26",
+    "summary": "Today, I’m slicing turkey. Grease dots my pinks and greens. Scuffs mar my jump boots. As I serve, soldiers feast: smoked turkey, honey-glazed ham, a steamship round of beef, smoked flank steak, and a whole smoked pig. Alongside those entrees, they’re enjoying collard greens, cornbread twice over, baked mac and cheese, shrimp cocktail, deviled eggs, and three gravies. Families of our young soldiers eat for just $8.75. Others, $11.85. The U.S. Army does Thanksgiving well. While the ideal American Thanksgiving finds everyone back at the family home, I’ve only had four of those in almost 20…",
+    "source": "War on the Rocks",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:25.622383+00:00"
+  },
+  {
+    "id": "5ff93b192947fd7b",
+    "title": "AI agents used in five cyber attacks in Switzerland, government says",
+    "link": "https://reut.rs/4A5aJy1",
+    "date": "2026-11-26",
+    "summary": "Five cyber attacks in the last ​few days in Switzerland ‌used AI agents to target companies and operators of ​critical infrastructure, the ​Federal Office for Cybersecurity (BACS) said ⁠on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.182126+00:00"
+  },
+  {
+    "id": "3ab4515a56ac9d2e",
+    "title": "Airlines strained by Iran-war fuel price shock",
+    "link": "https://reut.rs/4zOpeFA",
+    "date": "2026-11-26",
+    "summary": "A surge in jet fuel prices following the outbreak of the US-Israeli war with Iran has intensified financial pressure on airlines already grappling with tight margins and, in some cases, strained balance sheets.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.186502+00:00"
+  },
+  {
+    "id": "f46bb803892594c3",
+    "title": "Five European nations buy combat vehicles from BAE Systems, Finland says",
+    "link": "https://reut.rs/4zMfqf9",
+    "date": "2026-11-26",
+    "summary": "Finland, Sweden, Norway, Lithuania and the ‌Netherlands will jointly purchase over 430 CV90 infantry fighting vehicles from BAE Systems in a deal that could be worth more than €7.5 billion ($8.2 billion).",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.188333+00:00"
+  },
+  {
+    "id": "a6a3954718ecb84f",
+    "title": "China's Weimob plans own GPU cluster with Nvidia's RTX PRO 5500",
+    "link": "https://reut.rs/4AUkBuo",
+    "date": "2026-11-26",
+    "summary": "Chinese cloud-based commerce and marketing solutions provider Weimob said on Thursday it plans to build its own GPU ​cluster using Nvidia's RTX PRO 5500 graphics cards, ‌joining a rush for a less powerful but export-compliant chip as US restrictions limit trade with China.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.194980+00:00"
+  },
+  {
+    "id": "7d54f5874c56e7c7",
+    "title": "OPEC+ likely to roll over oil output targets for Q1 as capacity disputes persist, sources say",
+    "link": "https://reut.rs/4kCWAmO",
+    "date": "2026-11-26",
+    "summary": "OPEC+ is likely to maintain its ‌oil output targets for at least the first quarter of 2027 at a meeting on Sunday, two people with knowledge of the talks said, as the Iran war continues to disrupt Middle East exports and disagreements persist over some nations' oil production capacity assessments.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.198617+00:00"
+  },
+  {
+    "id": "75ff6f989bc4a426",
+    "title": "US chip curbs will slow Asia data-center investment, Fitch says",
+    "link": "https://reut.rs/4A94kln",
+    "date": "2026-11-26",
+    "summary": "Asia-Pacific data-center investment will slow and become more selective as tighter US chip controls pressure operators reliant on Chinese customers and advanced American ​semiconductors, Fitch Ratings said on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.201563+00:00"
+  },
+  {
+    "id": "334e0301260e7e6a",
+    "title": "Iran's Revolutionary Guards say two oil tankers hit sea mines near Oman’s Khasab",
+    "link": "https://reut.rs/4leGi3K",
+    "date": "2026-11-26",
+    "summary": "Iran's Revolutionary Guards ​said on Thursday that two tankers had exploded and caught ‌fire after hitting sea mines north of Oman's Khasab port while attempting to cross the Strait of Hormuz through an unauthorised route.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.204763+00:00"
+  },
+  {
+    "id": "56d9d0f61945b9bf",
+    "title": "COMMENTARY: US trains to bury thousands of war dead. Would it pay such a price for allies?",
+    "link": "https://reut.rs/4jcYZ5r",
+    "date": "2026-11-26",
+    "summary": "Last month in a forest near Fort Bragg, North Carolina, army engineers with bulldozers, excavators and military chaplains began practising a mission the US military has not carried out for almost 80 years: digging mass graves for US combat losses.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.211835+00:00"
+  },
+  {
+    "id": "056a9af7111117b1",
+    "title": "Russian court arrests deputy aerospace forces commander, Kommersant reports",
+    "link": "https://reut.rs/4B0D1Kd",
+    "date": "2026-11-26",
+    "summary": "A Russian military ​court has arrested ‌deputy aerospace forces commander ​Yuriy Grekhov, ​the Russian newspaper Kommersant ⁠reported on ​Thursday, citing court ​data.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.225905+00:00"
+  },
+  {
+    "id": "c75734ed3ec9c691",
+    "title": "Pakistan, Saudi, Turkey to hold Mecca alliance meeting in Islamabad Nov 27-28, sources say",
+    "link": "https://reut.rs/4jcE1n5",
+    "date": "2026-11-26",
+    "summary": "Pakistan, Saudi Arabia and Turkey will hold ​a meeting on their ‌mutual defence agreement in Islamabad this week, two Pakistani sources ​said on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.236234+00:00"
+  },
+  {
+    "id": "1b9b22e73a6282c0",
+    "title": "Indian rupee bulls return after 18 months, rupiah bears tighten grip",
+    "link": "https://reut.rs/4zNINxM",
+    "date": "2026-11-26",
+    "summary": "Investors turned bullish on the Indian rupee for the first time in 18 ​months as record foreign inflows and lower oil prices support the currency, a Reuters poll showed on Thursday, while bears tightened ‌their grip on most Southeast Asian currencies.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.238066+00:00"
+  },
+  {
+    "id": "5f68e39fd348b234",
+    "title": "China's defence ministry urges Japan to stop 'stirring up' South China Sea disputes",
+    "link": "https://reut.rs/4kBNOph",
+    "date": "2026-11-26",
+    "summary": "China's defence ministry urged Japan on Thursday to stop \"stirring up trouble\" over the South China Sea after a spokesperson ​was asked about deepening cooperation between Tokyo and the Philippines, both formal US military allies.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.239561+00:00"
+  },
+  {
+    "id": "586be2014fbe7c8c",
+    "title": "Lukoil's global retreat driven by politics, co-founder says",
+    "link": "https://reut.rs/4jEceNO",
+    "date": "2026-11-26",
+    "summary": "Russian oil major Lukoil's withdrawal from international markets was driven by politics rather than the company's own choice, co-founder Vagit Alekperov ​said on Thursday in his first public comments on the p.lanned ‌sale of its overseas assets.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.245709+00:00"
+  },
+  {
+    "id": "b13232a58a5bdd55",
+    "title": "Airline Norse Atlantic flags bankruptcy risk as flights suspended",
+    "link": "https://reut.rs/4A8qnsp",
+    "date": "2026-11-26",
+    "summary": "Norwegian airline ​Norse Atlantic suspended flights on Thursday and plans to file for bankruptcy if short-term financing is not secured urgently, becoming the ‌latest casualty of the sector-wide turmoil provoked by the Iran war.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.249867+00:00"
+  },
+  {
+    "id": "6ef97d4ebd6670f4",
+    "title": "Britain signs £8 billion deal to upgrade submarine facilities",
+    "link": "https://reut.rs/4ASLsaa",
+    "date": "2026-11-26",
+    "summary": "Britain signed an £8 billion ($10.48 billion) ‌contract with Babcock to upgrade its nuclear submarine facilities, as part of what the defence minister Wes Streeting said on Thursday was a focus on ensuring the country was \"warfighting ready\".",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.251316+00:00"
+  },
+  {
+    "id": "d6be715ebd992089",
+    "title": "Myanmar says it will not fully comply with ICJ genocide orders",
+    "link": "https://reut.rs/4CnN1hR",
+    "date": "2026-11-26",
+    "summary": "Myanmar's military-backed president ​has said his administration will not comply with all measures ordered by the ‌UN's top court, which last week ruled that the country's security forces had committed genocide against the Rohingya.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.252727+00:00"
+  },
+  {
+    "id": "69d605020892dcbb",
+    "title": "Viettel, Singtel start building submarine cable linking Vietnam, Singapore and Thailand",
+    "link": "https://reut.rs/4kDmYNp",
+    "date": "2026-11-26",
+    "summary": "Vietnam's military-run telecoms group Viettel on Thursday said it had started ​construction with Singapore Telecommunications, or ‌Singtel , of a new submarine cable linking Vietnam, Thailand and Singapore.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.256436+00:00"
+  },
+  {
+    "id": "22d350a0876bacf1",
+    "title": "German finance ministry says Amprion investment not on agenda",
+    "link": "https://reut.rs/4kBBB3V",
+    "date": "2026-11-26",
+    "summary": "Germany's finance ministry said ​on Thursday that the government ‌currently has no plans to buy a stake in power grid ​operator Amprion, which plays ​a key role in the ⁠nation's transition to renewable ​energy, denying a media report.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.258296+00:00"
+  },
+  {
+    "id": "40598de15febd463",
+    "title": "Kenya breached constitution in building US-backed Ebola quarantine site, court says",
+    "link": "https://reut.rs/4jDJrcb",
+    "date": "2026-11-26",
+    "summary": "A Kenyan court ruled on Thursday that the government breached parts of the constitution in allowing the construction of a US-backed Ebola quarantine facility at ​a military air base in central Kenya, that had sparked protests and a legal challenge.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.259888+00:00"
+  },
+  {
+    "id": "346619a82fafcfb7",
+    "title": "Malaysian air force facilities used to transport illicit drugs, minister says",
+    "link": "https://reut.rs/4AUq4BE",
+    "date": "2026-11-26",
+    "summary": "Malaysian air force facilities were used to illegally transport at least three metric tons of illicit drugs in recent ​years, the country's interior minister said on Thursday, amid a ‌widening probe into a drug syndicate operating with the help of military officials.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.269977+00:00"
+  },
+  {
+    "id": "feeb430e765eedcb",
+    "title": "Turkmenistan's Afghan gas link brings South Asia pipeline dream a little closer",
+    "link": "https://reut.rs/4AcvDeG",
+    "date": "2026-11-26",
+    "summary": "Turkmenistan should by the end of the year complete a section of gas pipeline to the Afghan city of Herat that it hopes will unlock international financing, despite security challenges, to extend the ​route as far as India, officials told Reuters.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.286596+00:00"
+  },
+  {
+    "id": "b85beda1f8445f54",
+    "title": "EXCLUSIVE: US officials divided over Chinese spying allegations following Jensen Huang's return",
+    "link": "https://reut.rs/4jiDYX2",
+    "date": "2026-11-26",
+    "summary": "Days after President Donald Trump declared Nvidia CEO Jensen Huang was not a security threat to the United States, a central question remains unanswered: was the woman Huang ​was having an affair with a Chinese spy?",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "intelligence"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.298891+00:00"
+  },
+  {
+    "id": "e73bd62cfb8d6dad",
+    "title": "Oil rises on supply concerns as Iran claims mine strikes on ships",
+    "link": "https://reut.rs/3VkUPR0",
+    "date": "2026-11-26",
+    "summary": "Crude oil prices rose in early Asian trade on Thursday, extending gains from the previous session on supply concerns after Yemen's Houthis said they had ​hit Saudi Arabia's largest oil refinery and at least two ships hit ‌Iranian mines in the Strait of Hormuz.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.300764+00:00"
+  },
+  {
+    "id": "45de42f0365e58b9",
+    "title": "Rupee remains under pressure, forward premiums approach multi-year highs",
+    "link": "https://reut.rs/4zHFIPy",
+    "date": "2026-11-26",
+    "summary": "The Indian rupee held on to its opening losses on Thursday, with higher oil prices ​and a rise in regional currencies eroding two sources of support ‌that had helped the currency recently.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.306594+00:00"
+  },
+  {
+    "id": "a3d3f098191e2072",
+    "title": "Air cargo demand from AI data centres shows no sign of slowing, SATS CEO says",
+    "link": "https://reut.rs/4zO1JfR",
+    "date": "2026-11-26",
+    "summary": "Air cargo demand driven by AI data-centre projects shows no sign of slowing, according ‌to the CEO of the world's largest air cargo handler, even as stock markets wobble over the sustainability of AI spending.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.309253+00:00"
+  },
+  {
+    "id": "188cd2f8cd81acb7",
+    "title": "Canada's Enbridge weighs $1.06 billion Line 3 stake sale to Indigenous groups, The Globe and Mail reports",
+    "link": "https://reut.rs/4ATxVPJ",
+    "date": "2026-11-26",
+    "summary": "Canadian pipeline operator Enbridge is in talks with a consortium of Indigenous communities to ​sell a 6% stake in its Line 3 crude ‌oil pipeline for roughly C$1.5 billion ($1.06 billion), the Globe and Mail reported on Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.313845+00:00"
+  },
+  {
+    "id": "6996b6df8f202fc7",
+    "title": "Japan's data centre boom faces growing revolt from urban residents",
+    "link": "https://reut.rs/4jC3bgm",
+    "date": "2026-11-26",
+    "summary": "Until a few years ago, Susumu Goto’s house in Kashiwa, northeast of Tokyo, looked out on a grassy field where neighbours played baseball ​and soccer.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.329971+00:00"
+  },
+  {
+    "id": "a3ff96c1a5f6e8e1",
+    "title": "North Korea's Kim calls for wider deployment of tactical nuclear weapons",
+    "link": "https://reut.rs/4AdyRyG",
+    "date": "2026-11-26",
+    "summary": "North Korean leader Kim Jong Un said his country should focus on deploying tactical nuclear weapons ​across multiple domains and that its nuclear material production capacity ‌was being systematically expanded, state media KCNA reported on Thursday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.348502+00:00"
+  },
+  {
+    "id": "050a0815c6eb73f3",
+    "title": "GAO on How the Defense Department can Address Munitions Shortages",
+    "link": "https://news.usni.org/2026/11/26/gao-on-how-the-defense-department-can-address-munitions-shortages",
+    "date": "2026-11-26",
+    "summary": "The following is the Nov. 19, 2026, Government Accountability Office report, DOD Munitions: Planning and Leadership Needed to Address Persistent Shortages. The report was submitted to the House of Representative’s Committee on Armed Services. From the Report A key part of military readiness is having a reliable supply of munitions, including bombs, missiles, and torpedoes. But the Department of Defense has faced persistent munitions shortages. The 2026 conflict with Iran only reinforced the challenges with the munitions inventory. DOD has taken steps toward increasing its inventory, but could…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:36.086623+00:00"
+  },
+  {
+    "id": "d72249082da2e26e",
+    "title": "China and the Iran War: Peacemaker or Profiteer?",
+    "link": "https://www.lowyinstitute.org/the-interpreter/china-and-the-iran-war-peacemaker-or-profiteer",
+    "date": "2026-11-26",
+    "summary": "Beijing stockpiled oil and talked neutrality ahead of the Iran war, allowing it to sit above the fighting and the fallout.",
+    "source": "Lowy Institute - The Interpreter",
+    "source_region": "other",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:52.879954+00:00"
+  },
+  {
     "id": "9322e27f05a5646a",
     "title": "RETEX et sécurité économique, la France sait-elle apprendre de ses ingérences ?",
     "link": "https://www.portail-ie.fr/univers/surete-et-gouvernance-des-risques/2026/retex-et-securite-economique-la-france-sait-elle-apprendre-de-ses-ingerences",
@@ -613,6 +1215,380 @@
     "trusted_themes": [],
     "meta": [],
     "fetched_at": "2026-11-25T16:51:00.782008+00:00"
+  },
+  {
+    "id": "6197e656b33a1eb6",
+    "title": "L’accord signé entre l’Australie et les Îles Salomon marque un revers pour Pékin",
+    "link": "https://legrandcontinent.eu/fr/2026/11/25/laccord-signe-entre-laustralie-et-les-iles-salomon-marque-un-revers-pour-pekin",
+    "date": "2026-11-25",
+    "summary": "Le texte prive la Chine de toute possibilité d'y installer une base militaire L’article L’accord signé entre l’Australie et les Îles Salomon marque un revers pour Pékin est apparu en premier sur Le Grand Continent .",
+    "source": "Le Grand Continent",
+    "source_region": "eu",
+    "subject_region": "china",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:04.672886+00:00"
+  },
+  {
+    "id": "d2ba4182adfdfe3f",
+    "title": "Armée de Terre : Le Véhicule blindé d’aide à l’engagement vient de franchir une étape… mais sans garantie sur son avenir",
+    "link": "https://www.opex360.com/2026/11/25/armee-de-terre-le-vehicule-blinde-daide-a-lengagement-vient-de-franchir-une-etape-mais-sans-garantie-sur-son-avenir",
+    "date": "2026-11-25",
+    "summary": "Quand il était encore chef d’état-major de l’armée de Terre [CEMAT], en avril dernier, le général Pierre Schill avait confié, lors d’une audition à l’Assemblée nationale, que le programme franco-belge de Véhicule blindé d’aide à l’engagement [VBAE], lancé pour remplacer le Véhicule blindé léger [VBL], ne satisfaisait pas en l’état. «La proposition qui nous est...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "france",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:17.292422+00:00"
+  },
+  {
+    "id": "77f9246ce7948631",
+    "title": "L’Aviation royale canadienne mise sur le F-35 associé à des drones… et non sur le Gripen E/F",
+    "link": "https://www.opex360.com/2026/11/25/laviation-royale-canadienne-mise-sur-le-f-35-associe-a-des-drones-et-non-sur-le-gripen-e-f",
+    "date": "2026-11-25",
+    "summary": "En mars 2025, ses relations avec l’administration Trump étant glaciales, le gouvernement canadien fit savoir qu’il allait «reconsidérer» son plan visant à acquérir 88 chasseurs-bombardiers F-35A auprès de Lockheed Martin et étudier «activement les alternatives potentielles» en ouvrant des discussions avec des «constructeurs d’avions rivaux». En clair, il s’agissait de remettre le suédois Saab dans...",
+    "source": "Zone Militaire (Opex360)",
+    "source_region": "fr",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [
+      "military"
+    ],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:17.295588+00:00"
+  },
+  {
+    "id": "28123ecb23378512",
+    "title": "Morocco enlists financial sector in defence industry push",
+    "link": "https://reut.rs/4eRTXdk",
+    "date": "2026-11-25",
+    "summary": "Morocco launched a drive on Wednesday to attract private investment into its fledgling defence industry as ​it seeks to cut reliance on arms imports ‌and boost exports.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.355213+00:00"
+  },
+  {
+    "id": "ba91dc29f2ce3728",
+    "title": "OPEC blames EU for COP31 collapse",
+    "link": "https://reut.rs/3VINjj0",
+    "date": "2026-11-25",
+    "summary": "Oil- and gas-producing countries acted in \"good faith\" at the COP31 climate talks and should not ‌be blamed for their collapse, OPEC Secretary General Haitham Al Ghais said on Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.356539+00:00"
+  },
+  {
+    "id": "62ff127b93f79599",
+    "title": "UN peacekeepers evacuate Ebola response workers trapped by fighting in eastern Congo",
+    "link": "https://reut.rs/3VdjGpU",
+    "date": "2026-11-25",
+    "summary": "UN peacekeepers helped evacuate 10 trapped health workers from a hospital in eastern Democratic Republic ​of Congo, the mission said on Wednesday, ‌as fighting between the army and an armed group disrupted the Ebola response and displaced civilians.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.358211+00:00"
+  },
+  {
+    "id": "4b1951f2dd5e3e5d",
+    "title": "Belgian court orders electronic monitoring for Canadian NATO intern in espionage case",
+    "link": "https://reut.rs/4AaGMNd",
+    "date": "2026-11-25",
+    "summary": "A Canadian NATO intern arrested in Belgium on suspicion of espionage will be ​placed under electronic monitoring while awaiting trial, ‌a spokesperson for Belgium's federal prosecutor's office said on Wednesday, citing a court decision.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "intelligence",
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.368346+00:00"
+  },
+  {
+    "id": "41faacd92e378ec6",
+    "title": "Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension",
+    "link": "https://reut.rs/4CpZBNA",
+    "date": "2026-11-25",
+    "summary": "Pakistan International Airlines will move ​its UK operations ‌to its own Boeing 777 fleet from ​November 26 ​after wet-lease partner Norse ⁠Atlantic Airways abruptly suspended ​operations, forcing the ​cancellation of two flights, the Pakistani carrier said ​on Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.370636+00:00"
+  },
+  {
+    "id": "a8d17ae3c6aae29d",
+    "title": "OpenAI taps Cravath litigator for court showdown with Musk over AI dominance",
+    "link": "https://reut.rs/4tj5Vmd",
+    "date": "2026-11-25",
+    "summary": "ChatGPT ​maker OpenAI has designated a top partner at law firm Cravath, Swaine & Moore as ‌its lead defense lawyer at an upcoming Texas trial in a lawsuit by Elon Musk's X Corp and SpaceX Super Intelligence.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.380309+00:00"
+  },
+  {
+    "id": "78c4afec7511416a",
+    "title": "New images reveal crater on asteroid struck by DART spacecraft",
+    "link": "https://reut.rs/4AUZQih",
+    "date": "2026-11-25",
+    "summary": "Dimorphos, the small asteroid struck by NASA's DART ​spacecraft in 2022 in the first test of a planetary defense system, was left with one side ‌flattened with a stadium-sized crater and is tumbling in space, as shown by images taken by the European Space Agency's Hera spacecraft released on Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.382145+00:00"
+  },
+  {
+    "id": "a8ff5c838aaca36b",
+    "title": "US authorizes SpaceX to deploy 1 million satellites for data centers in space",
+    "link": "https://reut.rs/4eRBAoS",
+    "date": "2026-11-25",
+    "summary": "The Federal Communications Commission is authorizing Elon Musk's SpaceX to deploy a constellation of 1 million satellites for data centers ​in space, the agency said on Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.387740+00:00"
+  },
+  {
+    "id": "d50c657d4346ccd5",
+    "title": "Indra sees up to €15 billion in extra orders if Spain meets NATO defence goal",
+    "link": "https://reut.rs/4tknLF6",
+    "date": "2026-11-25",
+    "summary": "Spanish defence and technology group Indra said its new long-term ​targets assume no increase in national ‌military spending, but estimated that Spain meeting NATO's 3.5% defence goal could generate €7.6 billion to €15 billion in ​additional orders.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.396187+00:00"
+  },
+  {
+    "id": "c7ac13752cd7bc6c",
+    "title": "India's Bharti Airtel signs $130 million data centre pact with northeastern state of Assam",
+    "link": "https://reut.rs/4CpB6QC",
+    "date": "2026-11-25",
+    "summary": "India's Bharti Airtel signed a pact with the government of Assam to invest around 12 billion rupees ($129.7 ​million) for three data centres in the northeastern ‌state, the telecom services provider said in a statement on Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "asia_pacific",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.402779+00:00"
+  },
+  {
+    "id": "71bae7fa2662d783",
+    "title": "Polish defence official calls for regional border no-fly zones",
+    "link": "https://reut.rs/49gDr31",
+    "date": "2026-11-25",
+    "summary": "Poland should introduce a no-fly zone along its eastern border to facilitate military ​operations, Deputy Defence Minister Cezary Tomczyk said ‌on Wednesday, adding that other countries in the region should consider adopting similar measures.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.406292+00:00"
+  },
+  {
+    "id": "391e4a1787f1a496",
+    "title": "EXCLUSIVE: Boehly signs US-backed share swap deal to buy Lukoil global assets",
+    "link": "https://reut.rs/3XwbhhX",
+    "date": "2026-11-25",
+    "summary": "US billionaire Todd Boehly said on Wednesday he had signed a deal with Lukoil for a consortium that includes the US International Development Finance Corp (DFC) to acquire the sanctioned Russian oil company's international ​energy assets.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.412115+00:00"
+  },
+  {
+    "id": "44c5777cc0d0d750",
+    "title": "UK is moving military aircraft to hangars at night over possible drone threats, media reports say",
+    "link": "https://reut.rs/3X63kzU",
+    "date": "2026-11-25",
+    "summary": "Britain's Royal Air Force is moving aircraft to hangars and shelters at ​night to protect them from possible drone threats, ‌British media reported on Wednesday.",
+    "source": "Reuters",
+    "source_region": "us",
+    "subject_region": "eu",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:32.433713+00:00"
+  },
+  {
+    "id": "636e847d0b033958",
+    "title": "Delivery of first MV-75 for testing officially delayed amid funding setbacks: Army",
+    "link": "https://breakingdefense.com/2026/11/delivery-of-first-mv-75-for-testing-officially-delayed-amid-funding-setbacks-army",
+    "date": "2026-11-25",
+    "summary": "A funding shortfall disrupted communications between the Army and Bell, pushing the service past its original delivery target as officials work to establish a revised schedule.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:34.976654+00:00"
+  },
+  {
+    "id": "d79c9e7c46b77ade",
+    "title": "NATO sees no Russian naval buildup in the Med after strike near Libya, but analysts warn of wider risks",
+    "link": "https://breakingdefense.com/2026/11/nato-sees-no-russian-naval-buildup-in-the-med-after-strike-near-libya-but-analysts-warn-of-wider-risks",
+    "date": "2026-11-25",
+    "summary": "Experts say Ukraine’s strike could have consequences far beyond Libya, raising the risk of Russian retaliation and heightened tensions along NATO’s southern flank.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "russia_eurasia",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:34.978056+00:00"
+  },
+  {
+    "id": "ec2d1a045833f3d7",
+    "title": "Israel increases defense budget by $5 billion as concerns continue over future funding",
+    "link": "https://breakingdefense.com/2026/11/israel-increases-defense-budget-by-5-billion-as-concerns-continue-over-future-funding",
+    "date": "2026-11-25",
+    "summary": "Israel has scrambled several times this year to increase its defense spending, at the cost of other priorities.",
+    "source": "Breaking Defense",
+    "source_region": "us",
+    "subject_region": "middle_east_africa",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:34.979051+00:00"
+  },
+  {
+    "id": "ba8a607e9c4889a0",
+    "title": "Marine Corps Sets New Water Survival Requirements",
+    "link": "https://news.usni.org/2026/11/25/marine-corps-sets-new-water-survival-requirements",
+    "date": "2026-11-25",
+    "summary": "The Marines have a new minimum fleet requirement for water survival, according to a policy released earlier this month. Under the new water survival novice qualification, Marines will need to complete a 50-meter self-rescue, demonstrate at least one identifiable stroke, perform a “stay at surface” for five minutes that includes preparing a blouse inflation, a shallow-water gear shed and a 25-meter “employ float gear.” The qualification will be valid for two years. While water survival novice is the minimum qualification for the fleet, the minimum standard for recruit graduation remains at…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:36.090022+00:00"
+  },
+  {
+    "id": "7d6523743a91dbac",
+    "title": "Marine Corps Trials Portable 5G Network for Deployments",
+    "link": "https://news.usni.org/2026/11/25/marine-corps-trials-portable-5g-network-for-deployments",
+    "date": "2026-11-25",
+    "summary": "The Marine Corps is trialling a portable system that will provide units with a private 5G network enabling Marines to maintain communications while operating across dispersed locations. The use of the Tactical High-Bandwidth, Low-Latency Minimum Viable Product, or Tactical HiBaLL MVP, is being explored by Program Manager Marine Air-Ground Task Force Command and Control (PM MAGTF C2), part of Portfolio Acquisition Executive Marine Corps (PAE MC), reads a PAE MC news release published on Friday. At the center of the capability are tactical networking nodes in a portable system that provide…",
+    "source": "USNI News",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:36.093364+00:00"
+  },
+  {
+    "id": "ad202d29ec8073c0",
+    "title": "NATO Needs Joint Solution to Critical Minerals Threat",
+    "link": "https://cepa.org/article/nato-needs-joint-solution-to-critical-minerals-threat",
+    "date": "2026-11-25",
+    "summary": "The vulnerability of the West’s defense industries to Chinese dominance of critical minerals can only be overcome through US cooperation with NATO and other close allies.",
+    "source": "CEPA (Center for European Policy Analysis)",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military",
+      "energy_industry"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:49.803842+00:00"
+  },
+  {
+    "id": "270e3b0e64e7f8ae",
+    "title": "An Icelandic Home Guard to Help Secure the North Atlantic",
+    "link": "https://cepa.org/article/an-icelandic-home-guard-to-help-secure-the-north-atlantic",
+    "date": "2026-11-25",
+    "summary": "Remote but vital, Iceland needs to play its part in the West’s defense of the High North. A volunteer home guard could be the answer.",
+    "source": "CEPA (Center for European Policy Analysis)",
+    "source_region": "us",
+    "subject_region": "us",
+    "themes": [
+      "military"
+    ],
+    "trusted_themes": [],
+    "meta": [],
+    "fetched_at": "2026-11-26T16:27:49.804822+00:00"
   },
   {
     "id": "3648b75d0dddc600",
